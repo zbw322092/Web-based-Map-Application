@@ -1,0 +1,695 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:45:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/10522631",
+      "properties": {
+        "@id": "way/10522631",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "The Marlands",
+        "addr:postcode": "SO14 7EG",
+        "addr:street": "Western Esplanade",
+        "building": "yes",
+        "name": "Asda",
+        "operator": "Asda Stores Limited",
+        "operator:wikipedia": "en:Asda",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4082891,
+              50.9060116
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23230406",
+      "properties": {
+        "@id": "way/23230406",
+        "building": "yes",
+        "name": "The co-operative food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3796707,
+              50.8955718
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33831064",
+      "properties": {
+        "@id": "way/33831064",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "121-131",
+        "addr:postcode": "SO17 2FX",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Waitrose",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3942982,
+              50.9245268
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37839163",
+      "properties": {
+        "@id": "way/37839163",
+        "building": "yes",
+        "name": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4276048,
+              50.919389
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37839166",
+      "properties": {
+        "@id": "way/37839166",
+        "building": "yes",
+        "name": "Aldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3953557,
+              50.9177024
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100765497",
+      "properties": {
+        "@id": "way/100765497",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Lord's Hill District Centre",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO16 8HY",
+        "building": "yes",
+        "name": "Sainsbury's Lord's Hill",
+        "shop": "supermarket",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4490028,
+              50.940999
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109816279",
+      "properties": {
+        "@id": "way/109816279",
+        "building": "yes",
+        "name": "Sainsbury's",
+        "operator": "Sainsbury's",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4344087,
+              50.9234327
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110149483",
+      "properties": {
+        "@id": "way/110149483",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Maybush Corner",
+        "addr:postcode": "SO16 9GJ",
+        "addr:street": "Romsey Road",
+        "building": "retail",
+        "name": "Co-op",
+        "operator": "Co-operative",
+        "shop": "supermarket",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4482916,
+              50.9314429
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126355778",
+      "properties": {
+        "@id": "way/126355778",
+        "addr:housenumber": "120",
+        "building": "shopping",
+        "name": "Iceland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4352579,
+              50.9235632
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/145830867",
+      "properties": {
+        "@id": "way/145830867",
+        "building": "yes",
+        "name": "Tesco Express",
+        "old_name": "The Woodman",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "supermarket",
+        "source": "Local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.427431,
+              50.9398166
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149816657",
+      "properties": {
+        "@id": "way/149816657",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Portwood Centre",
+        "addr:housenumber": "Unit 11",
+        "addr:postcode": "SO17 2NH",
+        "addr:street": "Portswood Road",
+        "amenity": "shop",
+        "building": "yes",
+        "name": "Iceland",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3940058,
+              50.9244347
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153484861",
+      "properties": {
+        "@id": "way/153484861",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "15-17",
+        "addr:postcode": "SO14 2DF",
+        "addr:street": "High Street",
+        "building": "yes",
+        "name": "LIDL",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4038594,
+              50.901248
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153794809",
+      "properties": {
+        "@id": "way/153794809",
+        "building": "supermarket",
+        "name": "Food Stop, Southampton Delicatessen",
+        "shop": "supermarket",
+        "source": "Groundsource"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3748185,
+              50.918267
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154657329",
+      "properties": {
+        "@id": "way/154657329",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "224",
+        "addr:postcode": "SO17 2LB",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Sainsbury's",
+        "note": "building size/shape is very approximate (based on bing construction imagery)",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3904686,
+              50.926936
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162608555",
+      "properties": {
+        "@id": "way/162608555",
+        "building": "yes",
+        "name": "99p Store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4044512,
+              50.9023698
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162608557",
+      "properties": {
+        "@id": "way/162608557",
+        "building": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4054358,
+              50.9029023
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179780202",
+      "properties": {
+        "@id": "way/179780202",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 5RP",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Yau Brothers and Company Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3847813,
+              50.9120763
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184138060",
+      "properties": {
+        "@id": "way/184138060",
+        "addr:housenumber": "4-6",
+        "building": "shopping",
+        "name": "Baltic Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4324533,
+              50.9209525
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204667417",
+      "properties": {
+        "@id": "way/204667417",
+        "name": "Asda",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3363223,
+              50.9280922
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217780214",
+      "properties": {
+        "@id": "way/217780214",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Block E Ranges Court",
+        "addr:housenumber": "Retail Unit 11",
+        "addr:place": "Ocean Village",
+        "addr:postcode": "SO14 3JS",
+        "addr:street": "Ocean Village",
+        "designation": "Ocean Village Express",
+        "name": "Tesco Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3929359,
+              50.8966923
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222689020",
+      "properties": {
+        "@id": "way/222689020",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO16 4QE",
+        "addr:street": "Teboura Way",
+        "atm": "yes",
+        "brand": "Tesco",
+        "building": "yes",
+        "name": "Tesco Southampton",
+        "opening_hours": "Mo 06:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00",
+        "operator": "Tesco PLC",
+        "phone": "+44-845-6779626",
+        "shop": "supermarket",
+        "website": "http://www.tesco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4479856,
+              50.9242559
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238265147",
+      "properties": {
+        "@id": "way/238265147",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO17 2NH",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Farm Foods",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.393259,
+              50.9248491
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277113407",
+      "properties": {
+        "@id": "way/277113407",
+        "addr:city": "Southampton",
+        "addr:housenumber": "C",
+        "addr:postcode": "SO19 8NE",
+        "addr:street": "Antelope Park",
+        "building": "retail",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-16:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3383666,
+              50.9068262
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303541217",
+      "properties": {
+        "@id": "way/303541217",
+        "food": "no",
+        "layer": "0",
+        "name": "Sainsbury's",
+        "online_collection": "yes",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 07:30-20:00; Su 10:00-16:00",
+        "pharmacy": "yes",
+        "pharmacy:opening_hours": "Mo-Fr 09:00-13:00,14:00-19:00; Sa 08:00-13:00,14:00-20:00; Su 10:00-13:00,14:00-16:00",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3607047,
+              50.9149502
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358349121",
+      "properties": {
+        "@id": "way/358349121",
+        "addr:city": "Southampton",
+        "addr:housename": "Local Supermarket",
+        "addr:housenumber": "123",
+        "addr:postcode": "SO147FH",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Local Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046553,
+              50.9067639
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300149741",
+      "properties": {
+        "@id": "node/300149741",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "117",
+        "addr:postcode": "SO14 2EA",
+        "addr:street": "High Street",
+        "name": "The Co-operative Food",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041599,
+          50.8980609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638921542",
+      "properties": {
+        "@id": "node/638921542",
+        "name": "Sainsbury's",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.360798,
+          50.9142132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556159256",
+      "properties": {
+        "@id": "node/1556159256",
+        "name": "China Town oriental supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969449,
+          50.9060904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243090",
+      "properties": {
+        "@id": "node/1556243090",
+        "name": "World Food Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4237483,
+          50.9145957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1562656991",
+      "properties": {
+        "@id": "node/1562656991",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4067628,
+          50.90622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179283",
+      "properties": {
+        "@id": "node/2029179283",
+        "name": "Co-operative Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3757029,
+          50.9246592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2283562989",
+      "properties": {
+        "@id": "node/2283562989",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Costco Wholesale",
+        "addr:postcode": "SO15 8TA",
+        "addr:street": "Regents Park Road",
+        "brand": "Costco Warehouse",
+        "contact:email": "marketing124@costco.co.uk",
+        "name": "Costco Wholesale",
+        "opening_hours": "Mo-Fr 10:00 to 20:30 (individual members from 12:00) Sa 9:30 to 18:00 Su 11:00 to 17:00 Bank Holidays 10:00 to 18:00",
+        "phone": "023 8076 4810",
+        "shop": "supermarket",
+        "source": "GPS",
+        "website": "http://www.costco.co.uk/southampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4380624,
+          50.9155722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311456342",
+      "properties": {
+        "@id": "node/2311456342",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3904271,
+          50.9268792
+        ]
+      }
+    }
+  ]
+}

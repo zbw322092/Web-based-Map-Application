@@ -1,0 +1,2825 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24012050",
+      "properties": {
+        "@id": "way/24012050",
+        "created_by": "Potlatch 0.8b",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4629468,
+              50.9449522
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109816278",
+      "properties": {
+        "@id": "way/109816278",
+        "building": "yes",
+        "operator": "Tesco",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4283612,
+              50.9185894
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109846554",
+      "properties": {
+        "@id": "way/109846554",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4379242,
+              50.9287592
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109863795",
+      "properties": {
+        "@id": "way/109863795",
+        "building": "commercial",
+        "name": "Simply Local",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.435685,
+              50.92638
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110149478",
+      "properties": {
+        "@id": "way/110149478",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "403",
+        "addr:postcode": "SO16 9GJ",
+        "addr:street": "Romsey Road",
+        "alt_name": "Portways Stores",
+        "building": "retail",
+        "name": "Nisa Local",
+        "operator": "Nisa",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4483479,
+              50.9315076
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122706797",
+      "properties": {
+        "@id": "way/122706797",
+        "addr:housenumber": "164-166",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "International Foods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3922727,
+              50.9260285
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/145830865",
+      "properties": {
+        "@id": "way/145830865",
+        "building": "yes",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4271844,
+              50.9402204
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148503577",
+      "properties": {
+        "@id": "way/148503577",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "278",
+        "addr:postcode": "SO16 3BE",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3857077,
+              50.9383396
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148505404",
+      "properties": {
+        "@id": "way/148505404",
+        "building": "yes",
+        "name": "Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3951436,
+              50.9380186
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590551",
+      "properties": {
+        "@id": "way/148590551",
+        "addr:housenumber": "212",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "name": "China Town Supermarket",
+        "origin": "chinese",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.391321,
+              50.9383482
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590557",
+      "properties": {
+        "@id": "way/148590557",
+        "addr:housenumber": "200",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "name": "McColl's",
+        "shop": "convenience",
+        "source:addr:housenumber": "http://martinmccoll.co.uk/",
+        "website": "http://martinmccoll.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3921379,
+              50.9382946
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590560",
+      "properties": {
+        "@id": "way/148590560",
+        "addr:housenumber": "192",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "contact:phone": "+44 (0) 2380 585 599",
+        "name": "Sukee Market",
+        "origin": "chinese",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3924112,
+              50.9382825
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590567",
+      "properties": {
+        "@id": "way/148590567",
+        "addr:housenumber": "218",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "name": "Sainsbury's Local",
+        "shop": "convenience",
+        "website": "http://sainsburys.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3909776,
+              50.938378
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590580",
+      "properties": {
+        "@id": "way/148590580",
+        "addr:housenumber": "210",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "name": "Burgess Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3914482,
+              50.9383384
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148592029",
+      "properties": {
+        "@id": "way/148592029",
+        "addr:housenumber": "54;56;58",
+        "addr:postcode": "SO16 2JF",
+        "addr:street": "High Road",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Morfair Supermarket",
+        "operator": "Premier Stores",
+        "shop": "convenience",
+        "source:addr": "http://www.premier-stores.co.uk/find-our-stores.html",
+        "website": "http://www.premier-stores.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3799871,
+              50.9385563
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148592035",
+      "properties": {
+        "@id": "way/148592035",
+        "building": "yes",
+        "name": "Greenwoods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.380227,
+              50.9371915
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149814006",
+      "properties": {
+        "@id": "way/149814006",
+        "addr:housenumber": "12",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "Sklep \"Pod Orlem\"",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3927423,
+              50.9256306
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149814010",
+      "properties": {
+        "@id": "way/149814010",
+        "addr:housenumber": "11",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "Daily Echo",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3927825,
+              50.9255962
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149814013",
+      "properties": {
+        "@id": "way/149814013",
+        "addr:housenumber": "8",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "K's Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3926661,
+              50.9253867
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149814014",
+      "properties": {
+        "@id": "way/149814014",
+        "addr:housenumber": "6",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "Biedronka",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3927471,
+              50.9253147
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150975348",
+      "properties": {
+        "@id": "way/150975348",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "228",
+        "addr:postcode": "SO16 3AY",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "building:levels": "2",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.39028,
+              50.9383458
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157866299",
+      "properties": {
+        "@id": "way/157866299",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "7-15",
+        "addr:postcode": "SO14 6RP",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3960885,
+              50.9196006
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643270",
+      "properties": {
+        "@id": "way/160643270",
+        "addr:housenumber": "19",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "Brookvale Convenience Store",
+        "operator": "Premier Stores",
+        "shop": "convenience",
+        "source:addr": "http://www.premier-stores.co.uk/find-our-stores.html",
+        "website": "http://www.premier-stores.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3939631,
+              50.9248459
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161239881",
+      "properties": {
+        "@id": "way/161239881",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "48;48B",
+        "addr:postcode": "SO14 6RJ",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Premier Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3982268,
+              50.9197362
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161600779",
+      "properties": {
+        "@id": "way/161600779",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "26;28;28A",
+        "addr:postcode": "SO14 6RN",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Maya Supermarket",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3968708,
+              50.9198567
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171622998",
+      "properties": {
+        "@id": "way/171622998",
+        "building": "yes",
+        "name": "Al Fresco off-licence/convenience store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4006151,
+              50.9052383
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171779904",
+      "properties": {
+        "@id": "way/171779904",
+        "addr:housenumber": "25-28",
+        "addr:street": "Bedford Place",
+        "building": "yes",
+        "name": "Sainsbury's Local",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4063587,
+              50.9125017
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176441830",
+      "properties": {
+        "@id": "way/176441830",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "498-500;498A First Floor Flat",
+        "addr:postcode": "SO17 3SP",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3825939,
+              50.9337189
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178231108",
+      "properties": {
+        "@id": "way/178231108",
+        "addr:housenumber": "92;94;92a",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "Hatchers News, Food & Wine",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3795982,
+              50.9395523
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692909",
+      "properties": {
+        "@id": "way/183692909",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "133",
+        "addr:postcode": "SO14 2BR",
+        "addr:street": "High Street",
+        "building": "yes",
+        "name": "Victory Newsagent",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4042261,
+              50.8997868
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183876039",
+      "properties": {
+        "@id": "way/183876039",
+        "addr:housenumber": "13",
+        "building": "shopping",
+        "name": "High Street News & Photos",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4320493,
+              50.9213657
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183877080",
+      "properties": {
+        "@id": "way/183877080",
+        "addr:housenumber": "65",
+        "building": "shopping",
+        "name": "The Newsagent",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4333388,
+              50.9226908
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184065389",
+      "properties": {
+        "@id": "way/184065389",
+        "addr:housenumber": "1B-1D",
+        "building": "shopping",
+        "name": "Wilkinson",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4350054,
+              50.9224989
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184138076",
+      "properties": {
+        "@id": "way/184138076",
+        "addr:housenumber": "2",
+        "building": "shopping",
+        "name": "Baltic Foods",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4321871,
+              50.9209394
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184143328",
+      "properties": {
+        "@id": "way/184143328",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "3A",
+        "addr:postcode": "SO15 3LQ",
+        "addr:street": "Shirley High Street",
+        "building": "shopping",
+        "designation": "Polish Food Shop",
+        "name": "Mainka",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4317108,
+              50.9205725
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184267130",
+      "properties": {
+        "@id": "way/184267130",
+        "building": "yes",
+        "name": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3990439,
+              50.90172
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184267146",
+      "properties": {
+        "@id": "way/184267146",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Queensway Service Station",
+        "addr:housenumber": "13-15",
+        "addr:postcode": "SO14 3BL",
+        "addr:street": "Queensway",
+        "building": "yes",
+        "name": "Londis",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4014782,
+              50.9002421
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187709514",
+      "properties": {
+        "@id": "way/187709514",
+        "building": "yes",
+        "name": "Biedronka",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3957763,
+              50.9084526
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188324035",
+      "properties": {
+        "@id": "way/188324035",
+        "building": "retail",
+        "name": "Best-One",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3999688,
+              50.9125014
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190393752",
+      "properties": {
+        "@id": "way/190393752",
+        "addr:housenumber": "76C",
+        "building": "yes",
+        "name": "Kingsland News, Food and Off-Licence",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3968267,
+              50.9055395
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192359661",
+      "properties": {
+        "@id": "way/192359661",
+        "building": "yes",
+        "name": "Tesco Express",
+        "opening_hours": "07:00-23:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3752332,
+              50.922919
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194680119",
+      "properties": {
+        "@id": "way/194680119",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "107",
+        "addr:postcode": "SO16 5EB",
+        "addr:street": "Rownhams Road",
+        "building": "retail",
+        "name": "McColl's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4472486,
+              50.9363472
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194681258",
+      "properties": {
+        "@id": "way/194681258",
+        "building": "retail",
+        "name": "Hollyoak Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4403604,
+              50.9378715
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196001531",
+      "properties": {
+        "@id": "way/196001531",
+        "addr:housenumber": "9",
+        "addr:street": "Midanbury Broadway",
+        "building": "retail",
+        "name": "Co-Operative",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.364124,
+              50.9256141
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196001533",
+      "properties": {
+        "@id": "way/196001533",
+        "addr:housenumber": "1",
+        "addr:street": "Midanbury Broadway",
+        "building": "retail",
+        "name": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3645229,
+              50.9259637
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196001536",
+      "properties": {
+        "@id": "way/196001536",
+        "building": "yes",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3649708,
+              50.9262432
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201511855",
+      "properties": {
+        "@id": "way/201511855",
+        "building": "yes",
+        "name": "McColl's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4062342,
+              50.9139084
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208913841",
+      "properties": {
+        "@id": "way/208913841",
+        "addr:housenumber": "1;3;5",
+        "building": "commercial",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "convenience",
+        "source": "Bing",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.339274,
+              50.9147282
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208918431",
+      "properties": {
+        "@id": "way/208918431",
+        "building": "commercial",
+        "name": "Costcutter",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-19:30",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.335745,
+              50.9144692
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208966060",
+      "properties": {
+        "@id": "way/208966060",
+        "building": "yes",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+        "operator": "Co-Operative",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3374453,
+              50.914366
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220483021",
+      "properties": {
+        "@id": "way/220483021",
+        "building": "yes",
+        "name": "Co-Op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3870911,
+              50.9440108
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224640902",
+      "properties": {
+        "@id": "way/224640902",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "40-42",
+        "addr:postcode": "SO15 2AG",
+        "addr:street": "London Road",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4036266,
+              50.9117506
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225160615",
+      "properties": {
+        "@id": "way/225160615",
+        "buildingpart": "room",
+        "name": "SUSU Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3969615,
+              50.9344304
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233244007",
+      "properties": {
+        "@id": "way/233244007",
+        "building": "yes",
+        "name": "The Co-operative Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3557503,
+              50.9209005
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233244014",
+      "properties": {
+        "@id": "way/233244014",
+        "building": "yes",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3543291,
+              50.9216721
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234994035",
+      "properties": {
+        "@id": "way/234994035",
+        "building": "retail",
+        "name": "Sainbury's Local Hill Lane",
+        "note": "approximate size and location",
+        "operator": "Sainbury's",
+        "shop": "convenience",
+        "source": "Bing,local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4191305,
+              50.9339106
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237044114",
+      "properties": {
+        "@id": "way/237044114",
+        "building": "yes",
+        "name": "Mace",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3698003,
+              50.9047412
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237088689",
+      "properties": {
+        "@id": "way/237088689",
+        "building": "yes",
+        "name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3407515,
+              50.9024317
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237088691",
+      "properties": {
+        "@id": "way/237088691",
+        "building": "yes",
+        "name": "Highfirs News, Food & Wine",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3428182,
+              50.9067694
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238322067",
+      "properties": {
+        "@id": "way/238322067",
+        "addr:city": "Southampton",
+        "addr:housenumber": "33",
+        "addr:postcode": "SO15 5NZ",
+        "addr:street": "Twyford Avenue",
+        "building": "yes",
+        "name": "Best One",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4259482,
+              50.9248248
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239743164",
+      "properties": {
+        "@id": "way/239743164",
+        "building": "yes",
+        "name": "Foyes Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4228575,
+              50.9139471
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/243155326",
+      "properties": {
+        "@id": "way/243155326",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "91;91 Room 1;2;3",
+        "addr:postcode": "SO14 6RE",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Best One",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3996125,
+              50.9190946
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254486829",
+      "properties": {
+        "@id": "way/254486829",
+        "building": "yes",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3484178,
+              50.8985502
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281511076",
+      "properties": {
+        "@id": "way/281511076",
+        "building": "yes",
+        "name": "Atherley Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4182818,
+              50.916926
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/284262281",
+      "properties": {
+        "@id": "way/284262281",
+        "building": "yes",
+        "name": "The Co-operative Food",
+        "shop": "convenience",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3584284,
+              50.8863795
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285344003",
+      "properties": {
+        "@id": "way/285344003",
+        "addr:city": "Southampton",
+        "addr:housename": "Central Convenience Store",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "building": "yes",
+        "name": "Central Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4214114,
+              50.9204419
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/302341410",
+      "properties": {
+        "@id": "way/302341410",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Morrisons",
+        "opening_hours": "6:30-22:00",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.378833,
+              50.9400806
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/315214525",
+      "properties": {
+        "@id": "way/315214525",
+        "building": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4307586,
+              50.9212702
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/352974500",
+      "properties": {
+        "@id": "way/352974500",
+        "addr:housenumber": "318",
+        "addr:street": "Hinkler Road",
+        "building": "retail",
+        "name": "The Co-operative Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3341643,
+              50.9082922
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/359892096",
+      "properties": {
+        "@id": "way/359892096",
+        "addr:city": "Southampton",
+        "addr:housenumber": "42",
+        "addr:postcode": "SO16 6QL",
+        "addr:street": "Dale Road",
+        "building": "yes",
+        "name": "Dale Valley Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4306457,
+              50.9312306
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25440790",
+      "properties": {
+        "@id": "node/25440790",
+        "amenity": "fuel",
+        "brand": "BP",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3787077,
+          50.9182031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/28232555",
+      "properties": {
+        "@id": "node/28232555",
+        "name": "One Stop",
+        "note": "previously a pub",
+        "old_name": "The Winning Post",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3704591,
+          50.9083059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/212413322",
+      "properties": {
+        "@id": "node/212413322",
+        "name": "Oak Tree Road Londis",
+        "operator": "Londis",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3705661,
+          50.9323499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280956843",
+      "properties": {
+        "@id": "node/280956843",
+        "name": "The Co-operative Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4318282,
+          50.915262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292815698",
+      "properties": {
+        "@id": "node/292815698",
+        "name": "The Co-Op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3272254,
+          50.9096853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299426348",
+      "properties": {
+        "@id": "node/299426348",
+        "addr:housenumber": "93a",
+        "created_by": "Potlatch 0.10b",
+        "name": "Rywal - Polish Shop",
+        "shop": "convenience",
+        "source": "knowledge",
+        "source:name": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3997821,
+          50.9122279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299427909",
+      "properties": {
+        "@id": "node/299427909",
+        "addr:housenumber": "92",
+        "created_by": "Potlatch 0.10b",
+        "name": "CK's Food & Wines",
+        "shop": "convenience",
+        "source": "knowledge",
+        "source:name": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3998075,
+          50.9122934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299446073",
+      "properties": {
+        "@id": "node/299446073",
+        "created_by": "Potlatch 0.10b",
+        "name": "Danio - Polish Shop",
+        "shop": "convenience",
+        "source": "knowledge",
+        "source:name": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3998333,
+          50.912353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455031521",
+      "properties": {
+        "@id": "node/455031521",
+        "name": "The Food Barn",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4590041,
+          50.930582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461647319",
+      "properties": {
+        "@id": "node/461647319",
+        "name": "Co-op",
+        "odbl": "clean",
+        "old_name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3517174,
+          50.894398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612492315",
+      "properties": {
+        "@id": "node/612492315",
+        "name": "Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4276886,
+          50.9181714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638495640",
+      "properties": {
+        "@id": "node/638495640",
+        "name": "Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3778155,
+          50.8978341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638917147",
+      "properties": {
+        "@id": "node/638917147",
+        "name": "Co-op",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.369181,
+          50.9027649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638917191",
+      "properties": {
+        "@id": "node/638917191",
+        "name": "Bishops Newsmarket & Off Licence",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3698483,
+          50.9014336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/639549865",
+      "properties": {
+        "@id": "node/639549865",
+        "addr:street": "Newtown Road",
+        "loc_name": "Dhaliwals",
+        "name": "Dhaliwal Late Shopper",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3581662,
+          50.8940324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/641876952",
+      "properties": {
+        "@id": "node/641876952",
+        "name": "best-one",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4411782,
+          50.9170664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642990931",
+      "properties": {
+        "@id": "node/642990931",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4471789,
+          50.9139849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642990958",
+      "properties": {
+        "@id": "node/642990958",
+        "name": "Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4443038,
+          50.9130671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/643419917",
+      "properties": {
+        "@id": "node/643419917",
+        "name": "Victoria News",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3800732,
+          50.8950044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/652893781",
+      "properties": {
+        "@id": "node/652893781",
+        "name": "Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4065532,
+          50.9130361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668141899",
+      "properties": {
+        "@id": "node/668141899",
+        "name": "Co-op",
+        "note": "branded as \"Welcome\", but with co-op colours...",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4133943,
+          50.9081433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668141907",
+      "properties": {
+        "@id": "node/668141907",
+        "name": "Oakley Road Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4438627,
+          50.9217469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767317",
+      "properties": {
+        "@id": "node/671767317",
+        "name": "Afro-Caribbean Food Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4306094,
+          50.9203189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767331",
+      "properties": {
+        "@id": "node/671767331",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4377235,
+          50.924809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/688360582",
+      "properties": {
+        "@id": "node/688360582",
+        "name": "The Co-operative Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3774589,
+          50.900456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/968584491",
+      "properties": {
+        "@id": "node/968584491",
+        "name": "Co-op",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3555744,
+          50.9015144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1046113982",
+      "properties": {
+        "@id": "node/1046113982",
+        "name": "Foundry Lane News, Food & Wine",
+        "operator": "Premier",
+        "shop": "convenience",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4328739,
+          50.916639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1316302870",
+      "properties": {
+        "@id": "node/1316302870",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3525387,
+          50.9328599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329930301",
+      "properties": {
+        "@id": "node/1329930301",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3600357,
+          50.9089967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555674288",
+      "properties": {
+        "@id": "node/1555674288",
+        "addr:street": "Shirley Road",
+        "alt_name": "Co-Op",
+        "name": "The Co-operative Food",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.423088,
+          50.9145667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555674300",
+      "properties": {
+        "@id": "node/1555674300",
+        "name": "Tesco Express",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4281949,
+          50.9185879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555762043",
+      "properties": {
+        "@id": "node/1555762043",
+        "name": "Tesco Express",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3966177,
+          50.9061361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555781683",
+      "properties": {
+        "@id": "node/1555781683",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "176-178",
+        "addr:postcode": "SO14 2BY",
+        "addr:street": "High Street",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4044641,
+          50.9021094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556190321",
+      "properties": {
+        "@id": "node/1556190321",
+        "name": "Bawar Tandoori Food and Cash & Carry",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3967237,
+          50.9043966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556190324",
+      "properties": {
+        "@id": "node/1556190324",
+        "name": "Lucky 13",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3965641,
+          50.9034629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556190341",
+      "properties": {
+        "@id": "node/1556190341",
+        "name": "St Mary's General Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.396725,
+          50.9043052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556190343",
+      "properties": {
+        "@id": "node/1556190343",
+        "name": "Moscow",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3966097,
+          50.9038375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243063",
+      "properties": {
+        "@id": "node/1556243063",
+        "name": "Convenience Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4231314,
+          50.9141459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556261541",
+      "properties": {
+        "@id": "node/1556261541",
+        "name": "Bargain Booze",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.426173,
+          50.9164626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557124827",
+      "properties": {
+        "@id": "node/1557124827",
+        "name": "WH Smith (C Level)",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4344354,
+          50.9333914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774871",
+      "properties": {
+        "@id": "node/1592774871",
+        "name": "Sukee Market",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403375,
+          50.9051965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1669540276",
+      "properties": {
+        "@id": "node/1669540276",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969454,
+          50.9344517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713474242",
+      "properties": {
+        "@id": "node/1713474242",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960891,
+          50.9196419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713474245",
+      "properties": {
+        "@id": "node/1713474245",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960899,
+          50.9197048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713474249",
+      "properties": {
+        "@id": "node/1713474249",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960892,
+          50.9196537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727520998",
+      "properties": {
+        "@id": "node/1727520998",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3909373,
+          50.9383813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727521000",
+      "properties": {
+        "@id": "node/1727521000",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3856944,
+          50.9383389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760708989",
+      "properties": {
+        "@id": "node/1760708989",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4134445,
+          50.9090497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762243344",
+      "properties": {
+        "@id": "node/1762243344",
+        "name": "Tesco Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3433885,
+          50.9291893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1965732615",
+      "properties": {
+        "@id": "node/1965732615",
+        "name": "Premier Marchwood Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4475622,
+          50.8925879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179291",
+      "properties": {
+        "@id": "node/2029179291",
+        "name": "Premier Express",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3757237,
+          50.9244519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179319",
+      "properties": {
+        "@id": "node/2029179319",
+        "amenity": "atm",
+        "operator": "Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3750207,
+          50.9228604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428256",
+      "properties": {
+        "@id": "node/2090428256",
+        "name": "Esgro",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4633223,
+          50.924459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428279",
+      "properties": {
+        "@id": "node/2090428279",
+        "name": "Coxford ",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4446353,
+          50.9335795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428284",
+      "properties": {
+        "@id": "node/2090428284",
+        "name": "Thompsons",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4384287,
+          50.9302468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2091196154",
+      "properties": {
+        "@id": "node/2091196154",
+        "name": "One Stop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4179658,
+          50.9345889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2091196159",
+      "properties": {
+        "@id": "node/2091196159",
+        "name": "Park Road Express",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4236065,
+          50.9129017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115087347",
+      "properties": {
+        "@id": "node/2115087347",
+        "name": "best-one",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4230301,
+          50.9095984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2136668637",
+      "properties": {
+        "@id": "node/2136668637",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4402276,
+          50.937873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913329",
+      "properties": {
+        "@id": "node/2161913329",
+        "name": "Bitterne Village Premier Express",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3592016,
+          50.9147007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913429",
+      "properties": {
+        "@id": "node/2161913429",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3485883,
+          50.9338788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913470",
+      "properties": {
+        "@id": "node/2161913470",
+        "name": "Alpine News & Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3606527,
+          50.9236271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913488",
+      "properties": {
+        "@id": "node/2161913488",
+        "name": "Sai Arrow News",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3635575,
+          50.9334561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161922105",
+      "properties": {
+        "@id": "node/2161922105",
+        "name": "Premier Express Wimpson Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4509449,
+          50.9280434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281164335",
+      "properties": {
+        "@id": "node/2281164335",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "127",
+        "addr:postcode": "SO19 9DN",
+        "addr:street": "Obelisk Road",
+        "name": "Devon Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3716739,
+          50.8942684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2295669520",
+      "properties": {
+        "@id": "node/2295669520",
+        "name": "Glen Eyre Shop",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4021797,
+          50.9436353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2389916712",
+      "properties": {
+        "@id": "node/2389916712",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.339344,
+          50.9147276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215885",
+      "properties": {
+        "@id": "node/2400215885",
+        "name": "Woolston Convenience Store",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3771493,
+          50.9001187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821508",
+      "properties": {
+        "@id": "node/2415821508",
+        "name": "Deacon Road Convenience Store",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3597701,
+          50.9087144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821730",
+      "properties": {
+        "@id": "node/2415821730",
+        "name": "Jithus Convenience Store",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3753457,
+          50.917349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821741",
+      "properties": {
+        "@id": "node/2415821741",
+        "name": "Dallas Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3879654,
+          50.9115559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946913",
+      "properties": {
+        "@id": "node/2415946913",
+        "name": "Three Diamonds",
+        "operator": "Premier",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3355765,
+          50.9193194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946931",
+      "properties": {
+        "@id": "node/2415946931",
+        "name": "Arrow News",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4577444,
+          50.9249566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2423421609",
+      "properties": {
+        "@id": "node/2423421609",
+        "name": "Dale Valley Stores",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4305161,
+          50.9311699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449939412",
+      "properties": {
+        "@id": "node/2449939412",
+        "name": "Bridge News",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3747288,
+          50.8976747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450390330",
+      "properties": {
+        "@id": "node/2450390330",
+        "name": "McColl's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3373377,
+          50.8999776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450390346",
+      "properties": {
+        "@id": "node/2450390346",
+        "name": "Newsplus",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3467235,
+          50.9034762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603022612",
+      "properties": {
+        "@id": "node/2603022612",
+        "name": "West End Londis",
+        "operator": "Londis",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3343486,
+          50.9276128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603022628",
+      "properties": {
+        "@id": "node/2603022628",
+        "name": "The Co-operative Food",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3321733,
+          50.9041583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2608054244",
+      "properties": {
+        "@id": "node/2608054244",
+        "name": "Co-op",
+        "note": "temporary",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3719152,
+          50.8879777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661431904",
+      "properties": {
+        "@id": "node/2661431904",
+        "name": "Martin's",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3792681,
+          50.8974499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2723358718",
+      "properties": {
+        "@id": "node/2723358718",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3909021,
+          50.9383841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3099052200",
+      "properties": {
+        "@id": "node/3099052200",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3788885,
+          50.939855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3478506288",
+      "properties": {
+        "@id": "node/3478506288",
+        "name": "M&S Simply Food",
+        "operator": "M&S",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3322523,
+          50.901451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3547585036",
+      "properties": {
+        "@id": "node/3547585036",
+        "addr:housenumber": "58a",
+        "addr:postcode": "SO16 2JF",
+        "addr:street": "High Road",
+        "entrance": "home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3797667,
+          50.9386826
+        ]
+      }
+    }
+  ]
+}

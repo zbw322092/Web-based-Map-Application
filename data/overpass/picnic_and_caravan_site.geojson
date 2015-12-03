@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/294804786",
+      "properties": {
+        "@id": "way/294804786",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3441087,
+              50.9456186
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768036198",
+      "properties": {
+        "@id": "node/1768036198",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3768347,
+          50.9389472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164556599",
+      "properties": {
+        "@id": "node/2164556599",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3432101,
+          50.9449223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164556849",
+      "properties": {
+        "@id": "node/2164556849",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3443393,
+          50.9444389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164556932",
+      "properties": {
+        "@id": "node/2164556932",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3454027,
+          50.9427072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2211189601",
+      "properties": {
+        "@id": "node/2211189601",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3694881,
+          50.955639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2211189605",
+      "properties": {
+        "@id": "node/2211189605",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3638555,
+          50.9553417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215817",
+      "properties": {
+        "@id": "node/2400215817",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3705283,
+          50.9355265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215882",
+      "properties": {
+        "@id": "node/2400215882",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3890785,
+          50.9315879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821470",
+      "properties": {
+        "@id": "node/2415821470",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3327428,
+          50.9072652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946871",
+      "properties": {
+        "@id": "node/2415946871",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4417879,
+          50.9207668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449853744",
+      "properties": {
+        "@id": "node/2449853744",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4762261,
+          50.9104143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449939419",
+      "properties": {
+        "@id": "node/2449939419",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3523465,
+          50.8835448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2984275668",
+      "properties": {
+        "@id": "node/2984275668",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3438647,
+          50.9458653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153575263",
+      "properties": {
+        "@id": "way/153575263",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:place": "Netley Abbey",
+        "addr:postcode": "SO31 8GD",
+        "addr:street": "Grange Road",
+        "capacity": "60",
+        "email": "sunnydalefarm@tiscali.co.uk",
+        "fee": "yes",
+        "internet_access": "no",
+        "name": "Sunnydale Farm Touring Park",
+        "phone": "+44-23-8045-7462",
+        "power_supply": "yes",
+        "source": "survey;bing",
+        "tents": "yes",
+        "tourism": "caravan_site",
+        "website": "http://www.sunnydalefarm.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.342352,
+              50.8849539
+            ]
+      }
+    }
+  ]
+}

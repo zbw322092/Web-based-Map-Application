@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:35:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/149814007",
+      "properties": {
+        "@id": "way/149814007",
+        "addr:housenumber": "5",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "Beer and Bottles",
+        "shop": "alcohol",
+        "website": "http://www.beersandbottles.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3928872,
+              50.9253225
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161543594",
+      "properties": {
+        "@id": "way/161543594",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "70",
+        "addr:postcode": "SO14 6US",
+        "addr:street": "Cambridge Road",
+        "building": "yes",
+        "name": "Bitter Virtue",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4017237,
+              50.9214254
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184132688",
+      "properties": {
+        "@id": "way/184132688",
+        "addr:housenumber": "30",
+        "building": "shopping",
+        "name": "Off Licence",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4327055,
+              50.9215722
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187160767",
+      "properties": {
+        "@id": "way/187160767",
+        "building": "yes",
+        "name": "USaver",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3960669,
+              50.9085971
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/189758711",
+      "properties": {
+        "@id": "way/189758711",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3989316,
+              50.9135154
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191973289",
+      "properties": {
+        "@id": "way/191973289",
+        "addr:city": "Southampton",
+        "addr:postcode": "SO15 1AL",
+        "addr:street": "Western Esplanade",
+        "building": "yes",
+        "name": "Majestic",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4124501,
+              50.9062906
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208913844",
+      "properties": {
+        "@id": "way/208913844",
+        "addr:housenumber": "11",
+        "building": "commercial",
+        "name": "Grandé Wines",
+        "shop": "alcohol",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3388383,
+              50.9147332
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243026",
+      "properties": {
+        "@id": "node/1556243026",
+        "name": "Hops and Grapes",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4234694,
+          50.9143961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285344007",
+      "properties": {
+        "@id": "way/285344007",
+        "addr:city": "Southampton",
+        "addr:housename": "Wine Shak",
+        "addr:housenumber": "3",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "building": "yes",
+        "name": "Casks & Corks",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4213531,
+              50.9204762
+            ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:03:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/436281668",
+      "properties": {
+        "@id": "node/436281668",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048403,
+          50.8961554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522444496",
+      "properties": {
+        "@id": "node/522444496",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3930662,
+          50.8959376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642990106",
+      "properties": {
+        "@id": "node/642990106",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4330513,
+          50.9223987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668141893",
+      "properties": {
+        "@id": "node/668141893",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043097,
+          50.9061729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/806512146",
+      "properties": {
+        "@id": "node/806512146",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4061494,
+          50.8946501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1016008204",
+      "properties": {
+        "@id": "node/1016008204",
+        "amenity": "taxi",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4135431,
+          50.907998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1016008285",
+      "properties": {
+        "@id": "node/1016008285",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4123884,
+          50.9072039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1549492098",
+      "properties": {
+        "@id": "node/1549492098",
+        "amenity": "taxi",
+        "name": "Highfield Interchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3964336,
+          50.9357915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2513494445",
+      "properties": {
+        "@id": "node/2513494445",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4018391,
+          50.9028766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2513494450",
+      "properties": {
+        "@id": "node/2513494450",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4056087,
+          50.9030474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2513494465",
+      "properties": {
+        "@id": "node/2513494465",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4065933,
+          50.9057915
+        ]
+      }
+    }
+  ]
+}

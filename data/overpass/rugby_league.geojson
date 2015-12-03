@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:26:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123082685",
+      "properties": {
+        "@id": "way/123082685",
+        "leisure": "pitch",
+        "sport": "rugby_league"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4580995,
+              50.9401789
+            ],
+            [
+              -1.4589363,
+              50.9397834
+            ],
+            [
+              -1.4578742,
+              50.9389011
+            ],
+            [
+              -1.4570534,
+              50.9393101
+            ],
+            [
+              -1.4580995,
+              50.9401789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123082685",
+      "properties": {
+        "@id": "way/123082685",
+        "leisure": "pitch",
+        "sport": "rugby_league"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4580995,
+              50.9401789
+            ]
+      }
+    }
+  ]
+}

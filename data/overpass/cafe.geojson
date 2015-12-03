@@ -1,0 +1,1327 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T14:58:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123078076",
+      "properties": {
+        "@id": "way/123078076",
+        "addr:city": "Southampton",
+        "addr:housenumber": "25",
+        "addr:postcode": "SO15 3NL",
+        "addr:street": "Shirley High Street",
+        "amenity": "cafe",
+        "building": "shop",
+        "name": "Cafe Reflections",
+        "website": "http://www.cafereflections.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4323888,
+              50.9216415
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126355318",
+      "properties": {
+        "@id": "way/126355318",
+        "addr:housenumber": "102",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Tucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4349693,
+              50.9230173
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/129851881",
+      "properties": {
+        "@id": "way/129851881",
+        "amenity": "cafe",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4075148,
+              50.8976181
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590554",
+      "properties": {
+        "@id": "way/148590554",
+        "addr:housenumber": "200a",
+        "addr:street": "Burgess Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "chicken",
+        "diet:halal": "yes",
+        "int_name": "Diego",
+        "name": "Diego's Peri Peri",
+        "website": "http://diegosonline.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3919743,
+              50.9382922
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149855647",
+      "properties": {
+        "@id": "way/149855647",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "190/192",
+        "addr:postcode": "SO17 2LB",
+        "addr:street": "Portswood Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Trago Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3912555,
+              50.9265945
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160255120",
+      "properties": {
+        "@id": "way/160255120",
+        "amenity": "cafe",
+        "name": "Cafe 38",
+        "uri": "http://id.southampton.ac.uk/point-of-service/38-fotg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.397144,
+              50.9354736
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160630503",
+      "properties": {
+        "@id": "way/160630503",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "227",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Kate's Cafe",
+        "website": "http://www.katescafelounge.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3924721,
+              50.9261649
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160630513",
+      "properties": {
+        "@id": "way/160630513",
+        "addr:housenumber": "231",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Poppins",
+        "website": "http://www.poppinsrestaurants.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3923584,
+              50.9262539
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161242259",
+      "properties": {
+        "@id": "way/161242259",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "89;89 First Floor Flat",
+        "addr:postcode": "SO14 6RH",
+        "addr:street": "Lodge Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "A Cup Above"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3992849,
+              50.9191829
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177910441",
+      "properties": {
+        "@id": "way/177910441",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "no",
+        "name": "Brewed Awakening"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3931552,
+              50.9376107
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181509342",
+      "properties": {
+        "@id": "way/181509342",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4039418,
+              50.9020751
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181509350",
+      "properties": {
+        "@id": "way/181509350",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Power Gourmet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4036918,
+              50.9020743
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183877084",
+      "properties": {
+        "@id": "way/183877084",
+        "addr:housenumber": "57-59",
+        "amenity": "cafe",
+        "building": "amenity",
+        "name": "Costa Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4334595,
+              50.9224592
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184068495",
+      "properties": {
+        "@id": "way/184068495",
+        "addr:housenumber": "42",
+        "amenity": "cafe",
+        "building": "shopping",
+        "name": "The Hungry Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4329584,
+              50.92177
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184143327",
+      "properties": {
+        "@id": "way/184143327",
+        "addr:housenumber": "4A-5A",
+        "amenity": "cafe",
+        "building": "shopping",
+        "name": "Coffee #1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4318927,
+              50.9206447
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184143332",
+      "properties": {
+        "@id": "way/184143332",
+        "addr:housenumber": "392B",
+        "amenity": "cafe",
+        "building": "shopping",
+        "name": "Poppy's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4314146,
+              50.9205677
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184267131",
+      "properties": {
+        "@id": "way/184267131",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "fish_and_chips",
+        "name": "Sam's Plaice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.399319,
+              50.9013776
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190393749",
+      "properties": {
+        "@id": "way/190393749",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Kingsland Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3966134,
+              50.9054481
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219763539",
+      "properties": {
+        "@id": "way/219763539",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "61",
+        "addr:postcode": "SO15 2AB",
+        "addr:street": "London Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4037438,
+              50.9123187
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/244925919",
+      "properties": {
+        "@id": "way/244925919",
+        "amenity": "cafe",
+        "name": "SUSU Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3978175,
+              50.9345967
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256454832",
+      "properties": {
+        "@id": "way/256454832",
+        "amenity": "cafe",
+        "buildingpart": "room",
+        "name": "Lattés",
+        "uri": "http://id.southampton.ac.uk/point-of-service/12-lattes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3959652,
+              50.9349496
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285215167",
+      "properties": {
+        "@id": "way/285215167",
+        "addr:city": "Southampton",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO14 7FP",
+        "addr:street": "Guildhall Square",
+        "amenity": "cafe",
+        "name": "Caffe Momento",
+        "url": "http://www.caffemomento.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.405412,
+              50.9077141
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285344027",
+      "properties": {
+        "@id": "way/285344027",
+        "addr:city": "Southampton",
+        "addr:housename": "The Coffee Room",
+        "addr:housenumber": "7",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "The Coffee Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4216668,
+              50.9206551
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285346906",
+      "properties": {
+        "@id": "way/285346906",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Crews Mess"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4256819,
+              50.9167797
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290159530",
+      "properties": {
+        "@id": "way/290159530",
+        "amenity": "cafe",
+        "buildingpart": "room",
+        "name": "Arlott Bar",
+        "uri": "http://id.southampton.ac.uk/point-of-service/38-arlott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3972911,
+              50.9352785
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/292039239",
+      "properties": {
+        "@id": "way/292039239",
+        "amenity": "cafe",
+        "buildingpart": "room",
+        "name": "Lattes",
+        "uri": "http://id.southampton.ac.uk/point-of-service/85-lattes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3955538,
+              50.9363289
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293266062",
+      "properties": {
+        "@id": "way/293266062",
+        "amenity": "cafe",
+        "name": "Lattes",
+        "uri": "http://id.southampton.ac.uk/point-of-service/38-lattes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3974557,
+              50.9354814
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305296881",
+      "properties": {
+        "@id": "way/305296881",
+        "amenity": "cafe",
+        "name": "The Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3789595,
+              50.9405598
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305297878",
+      "properties": {
+        "@id": "way/305297878",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "63-65",
+        "addr:street": "High Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "The MELO Cafe Bar and Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3802337,
+              50.9386489
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305968656",
+      "properties": {
+        "@id": "way/305968656",
+        "amenity": "cafe",
+        "name": "Cafe 58",
+        "uri": "http://id.southampton.ac.uk/point-of-service/58-cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3989696,
+              50.9365105
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358517328",
+      "properties": {
+        "@id": "way/358517328",
+        "addr:city": "Southampton",
+        "addr:housename": "EBB And Flow Cafe Bar",
+        "addr:housenumber": "104-108",
+        "addr:postcode": "SO147DT",
+        "addr:street": "Above Bar Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "EBB And Flow Cafe Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4042453,
+              50.9059924
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361875398",
+      "properties": {
+        "@id": "way/361875398",
+        "addr:city": "Southampton",
+        "addr:housename": "Starbucks",
+        "addr:postcode": "SO147FG",
+        "addr:street": "Above Bar Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045835,
+              50.9055853
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339846149",
+      "properties": {
+        "@id": "node/339846149",
+        "amenity": "cafe",
+        "name": "High Wood Barn Visitor Centre ",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3453946,
+          50.9425057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612492167",
+      "properties": {
+        "@id": "node/612492167",
+        "amenity": "cafe",
+        "name": "The Buttery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403678,
+          50.9048192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767328",
+      "properties": {
+        "@id": "node/671767328",
+        "amenity": "cafe",
+        "name": "Sainsbury's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4343252,
+          50.9234693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700235920",
+      "properties": {
+        "@id": "node/700235920",
+        "amenity": "cafe",
+        "name": "Steam Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4059921,
+          50.8945399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700236017",
+      "properties": {
+        "@id": "node/700236017",
+        "amenity": "cafe",
+        "name": "Steam Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051289,
+          50.8961907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/856997807",
+      "properties": {
+        "@id": "node/856997807",
+        "amenity": "cafe",
+        "name": "Cafe Mia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3921902,
+          50.8994641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919729618",
+      "properties": {
+        "@id": "node/919729618",
+        "amenity": "cafe",
+        "name": "La Patisserie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4057833,
+          50.8947272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1259773362",
+      "properties": {
+        "@id": "node/1259773362",
+        "amenity": "cafe",
+        "name": "Lawrie McMenemy Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3798144,
+          50.8968314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1299353543",
+      "properties": {
+        "@id": "node/1299353543",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.413992,
+          50.9081985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556159277",
+      "properties": {
+        "@id": "node/1556159277",
+        "addr:housenumber": "101-102",
+        "addr:street": "S",
+        "amenity": "cafe",
+        "cuisine": "kebab",
+        "name": "Farah Cafe and Internet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3966902,
+          50.9066199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803972",
+      "properties": {
+        "@id": "node/1592803972",
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "name": "Pret a Manger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4044962,
+          50.9040784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839313",
+      "properties": {
+        "@id": "node/1592839313",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045445,
+          50.9038061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602142790",
+      "properties": {
+        "@id": "node/1602142790",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.407648,
+          50.9034291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602142802",
+      "properties": {
+        "@id": "node/1602142802",
+        "amenity": "cafe",
+        "name": "BHS cafe and coffee lounge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040039,
+          50.9040814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154054",
+      "properties": {
+        "@id": "node/1602154054",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4060105,
+          50.9033377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643229860",
+      "properties": {
+        "@id": "node/1643229860",
+        "entrance": "emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958938,
+          50.9348427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792941227",
+      "properties": {
+        "@id": "node/1792941227",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.397777,
+          50.9361632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1863560138",
+      "properties": {
+        "@id": "node/1863560138",
+        "amenity": "cafe",
+        "name": "Lakeside Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3643529,
+          50.9554175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2024676246",
+      "properties": {
+        "@id": "node/2024676246",
+        "amenity": "cafe",
+        "name": "The Art House Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045204,
+          50.9087036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2026085749",
+      "properties": {
+        "@id": "node/2026085749",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4337199,
+          50.9336623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179294",
+      "properties": {
+        "@id": "node/2029179294",
+        "amenity": "cafe",
+        "name": "Riverside Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3757148,
+          50.9245193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2164531862",
+      "properties": {
+        "@id": "node/2164531862",
+        "amenity": "cafe",
+        "name": "Woodland Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3454054,
+          50.9426075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2206817411",
+      "properties": {
+        "@id": "node/2206817411",
+        "amenity": "cafe",
+        "name": "Pumpkin Café",
+        "takeaway": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3630036,
+          50.9508226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2264338261",
+      "properties": {
+        "@id": "node/2264338261",
+        "amenity": "cafe",
+        "name": "The Square",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051664,
+          50.9082748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2291815431",
+      "properties": {
+        "@id": "node/2291815431",
+        "alt_name": "St James' Park Cafe",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "ParkLife Cafe",
+        "source": "Local_Knowledge",
+        "website": "www.fosjp.org.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4291739,
+          50.9265741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2311456340",
+      "properties": {
+        "@id": "node/2311456340",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3912542,
+          50.9266083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571357267",
+      "properties": {
+        "@id": "node/2571357267",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4061433,
+          50.9030595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2573542350",
+      "properties": {
+        "@id": "node/2573542350",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4076259,
+          50.9082697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576450729",
+      "properties": {
+        "@id": "node/2576450729",
+        "amenity": "cafe",
+        "name": "BB's Coffee and Muffins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4057705,
+          50.9062213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576450731",
+      "properties": {
+        "@id": "node/2576450731",
+        "amenity": "cafe",
+        "name": "Costa",
+        "note": "upper level"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4049953,
+          50.9055651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576450889",
+      "properties": {
+        "@id": "node/2576450889",
+        "amenity": "cafe",
+        "name": "Shakeaway",
+        "note": "upper level"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4052447,
+          50.9054704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2579268265",
+      "properties": {
+        "@id": "node/2579268265",
+        "amenity": "cafe",
+        "name": "Sprinkles Gelato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4042749,
+          50.9070868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2851603270",
+      "properties": {
+        "@id": "node/2851603270",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "29",
+        "addr:street": "Highfield Lane",
+        "amenity": "cafe",
+        "name": "LabelFood",
+        "website": "http://labelfood.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4000356,
+          50.9312349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2967509415",
+      "properties": {
+        "@id": "node/2967509415",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3972467,
+          50.9353382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2967509418",
+      "properties": {
+        "@id": "node/2967509418",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3970612,
+          50.9353867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2990161431",
+      "properties": {
+        "@id": "node/2990161431",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3971535,
+          50.9352374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3291437792",
+      "properties": {
+        "@id": "node/3291437792",
+        "addr:city": "Southampton",
+        "addr:housename": "Beresford House",
+        "addr:postcode": "SO14 2AQ",
+        "addr:street": "Town Quay",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "opening_hours": "M-F 8-5, Sa 8-4, Su 10-4",
+        "phone": "+44 2380 637 915",
+        "smoking": "outside",
+        "source": "www.starbucks.co.uk/store/1006110/",
+        "website": "http://www.starbucks.co.uk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048855,
+          50.8958802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3398643427",
+      "properties": {
+        "@id": "node/3398643427",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Mettricks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040586,
+          50.8984112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3478543988",
+      "properties": {
+        "@id": "node/3478543988",
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "name": "Little Waitrose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4079679,
+          50.9038899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3588346691",
+      "properties": {
+        "@id": "node/3588346691",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Costa (B level)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4343154,
+          50.9330064
+        ]
+      }
+    }
+  ]
+}

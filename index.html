@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>A Southampton leaflet map</title>
+	<!--leaflet-->
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+	
+	<!--marker cluster-->
+	<script src="plugins/MarkerCluster/leaflet.markercluster.js"></script>
+	<link rel="stylesheet" href="plugins/MarkerCluster/MarkerCluster.css"/>
+	<link rel="stylesheet" href="plugins/MarkerCluster/MarkerCluster.Default.css"/>
+
+	<!--jQuery-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+	
+	<!--bootstrap-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	<!--leaflet ajax-->
+	<script type="text/javascript" src="plugins/LeafletAJAX/leaflet.ajax.min.js"></script>
+
+	<!--L.Control.Locate-->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.min.css" />
+	<!--[if lt IE 9]>
+	    <link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.ie.min.css"/>
+	<![endif]-->
+	<script src="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.min.js" ></script>
+
+
+	<!--heat map-->
+	<script src="plugins/Heatmap/QuadTree.js"></script>
+	<script src="plugins/Heatmap/L.TileLayer.MaskCanvas.js"></script>
+
+	<!--GeoSearchMaster-->
+	<script type="text/javascript" src="plugins/GeoSearchMaster/js/l.control.geosearch.js"></script>
+	<script type="text/javascript" src="plugins/GeoSearchMaster/js/l.geosearch.provider.google.js"></script>
+	<link rel="stylesheet" type="text/css" href="plugins/GeoSearchMaster/css/l.geosearch.css">
+
+	<!--GeoCoderMaster-->
+	<script type="text/javascript" src="plugins/GeoCoderMaster/Control.Geocoder.js"></script>
+	<link rel="stylesheet" type="text/css" href="plugins/GeoCoderMaster/Control.Geocoder.css">
+
+	<!--routing machine-->
+	<script type="text/javascript" src="plugins/RoutingMachine/leaflet-routing-machine.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="plugins/RoutingMachine/leaflet-routing-machine.css">
+
+	<!--zoom slider-->
+	<script type="text/javascript" src="plugins/ZoomSlider/L.Control.Zoomslider.js"></script>
+	<link rel="stylesheet" type="text/css" href="plugins/ZoomSlider/L.Control.Zoomslider.css">
+	<link rel="stylesheet" type="text/css" href="plugins/ZoomSlider/L.Control.Zoomslider.ie.css">
+
+	<!--style layer control-->
+    <link rel="stylesheet" href="plugins/StyledLayerControl/css/styledLayerControl.css" />
+    <script src="plugins/StyledLayerControl/src/styledLayerControl.js"></script>
+
+
+	<style>
+		#map{height: 600px; width: 1260px; }
+		#showCrime{background-color: #fff8dc;}
+		#hideCrime{background-color: #fff8dc;}
+		#showCrimeHeatmap{background-color: #fff0f5;}
+		#hideCrimeHeatmap{background-color: #fff0f5;}
+		#showWards{background-color: #b0c4de;}
+		#hideWards{background-color: #b0c4de;}
+	</style>
+</head>
+
+<body>
+
+    <div id="map-wrapper">
+        <div id="map"></div>
+        <div>
+		  	<input type="button" id="showCrime" value="Show Crimes">
+		  	<input type="button" id="hideCrime" value="Hide Crimes">
+		  	<input type="button" id="showCrimeHeatmap" value="Show Crimes Heatmap">
+		  	<input type="button" id="hideCrimeHeatmap" value="Hide Crimes Heatmap">
+		</div>
+    </div>
+
+
+	
+
+
+	<script type="text/javascript" src="map.js"></script>
+	<script type="text/javascript" src="LayerControl.js"></script>
+	<script type="text/javascript" src="routing.js"></script>
+	<script type="text/javascript" src="heatmap.js"></script>
+
+
+
+</body>
+</html>

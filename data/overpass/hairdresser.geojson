@@ -1,0 +1,1172 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:52:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/122706815",
+      "properties": {
+        "@id": "way/122706815",
+        "addr:housenumber": "168",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Oscars Hairdressing",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3919947,
+              50.9260624
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590552",
+      "properties": {
+        "@id": "way/148590552",
+        "addr:housenumber": "204a-206",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "male": "yes",
+        "name": "Bennett Barbers",
+        "shop": "hairdresser",
+        "website": "http://www.bennettandmerritt.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3917173,
+              50.938318
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643249",
+      "properties": {
+        "@id": "way/160643249",
+        "addr:housenumber": "32",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "La Fayette International",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3936937,
+              50.9250993
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643254",
+      "properties": {
+        "@id": "way/160643254",
+        "addr:housenumber": "31",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "Fresh",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.393745,
+              50.925051
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160668930",
+      "properties": {
+        "@id": "way/160668930",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "118",
+        "addr:postcode": "SO17 2FY",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Inervision",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3944985,
+              50.9237737
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160668932",
+      "properties": {
+        "@id": "way/160668932",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "119",
+        "addr:postcode": "SO17 2FX",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Headmasters",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3950528,
+              50.9238522
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160671197",
+      "properties": {
+        "@id": "way/160671197",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO17 2GN",
+        "addr:street": "St Denys Road",
+        "name": "Jane's Barber Shop",
+        "phone": "+44 2380 558777",
+        "shop": "hairdresser",
+        "website": "http://www.janesbarbershop.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3911616,
+              50.9263053
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160671203",
+      "properties": {
+        "@id": "way/160671203",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO17 2GN",
+        "addr:street": "St Denys Road",
+        "name": "Studio One",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3912111,
+              50.9262753
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163111446",
+      "properties": {
+        "@id": "way/163111446",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "47;47A Flat",
+        "addr:postcode": "SO14 6RL",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Head Quarters",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3978335,
+              50.9194944
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171781222",
+      "properties": {
+        "@id": "way/171781222",
+        "addr:housenumber": "30A",
+        "addr:street": "Carlton Place",
+        "building": "yes",
+        "name": "Priory Rooms",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4055787,
+              50.9128694
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176440072",
+      "properties": {
+        "@id": "way/176440072",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "354;354A",
+        "addr:postcode": "SO17 3SB",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Judith Hairdresser",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3851752,
+              50.9302669
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176441823",
+      "properties": {
+        "@id": "way/176441823",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "496;496 First Floor Flat",
+        "addr:postcode": "SO17 3SP",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Rocco Gents Hairdresser",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3826977,
+              50.933633
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177202993",
+      "properties": {
+        "@id": "way/177202993",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "136",
+        "addr:postcode": "SO17 1NR",
+        "addr:street": "Highfield Lane",
+        "building": "yes",
+        "name": "Vibe by Feng",
+        "phone": "+44 23 80550508",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3914622,
+              50.9271925
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178231101",
+      "properties": {
+        "@id": "way/178231101",
+        "addr:housenumber": "82",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "The Saints Barbers",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3798596,
+              50.9392777
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/179184755",
+      "properties": {
+        "@id": "way/179184755",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "111",
+        "addr:postcode": "SO17 2FS",
+        "addr:street": "St Denys Road",
+        "building": "yes",
+        "name": "Gentlemans Corner Barbers",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3814519,
+              50.9245209
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183447740",
+      "properties": {
+        "@id": "way/183447740",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "19",
+        "addr:postcode": "SO14 3DJ",
+        "addr:street": "Oxford Street",
+        "building": "yes",
+        "name": "Equinox Gentlemans Grooming",
+        "shop": "hairdresser",
+        "website": "http://www.equinoxgentlemansgrooming.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3989251,
+              50.8984005
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184065390",
+      "properties": {
+        "@id": "way/184065390",
+        "addr:housenumber": "104",
+        "building": "shopping",
+        "name": "Formula 1 Hair & Beauty",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4350311,
+              50.9229893
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184068497",
+      "properties": {
+        "@id": "way/184068497",
+        "addr:housenumber": "60-62",
+        "addr:street": "Shirley High Street",
+        "building": "retail",
+        "name": "VIP Lounge",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4336526,
+              50.9220203
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184132686",
+      "properties": {
+        "@id": "way/184132686",
+        "addr:housenumber": "24",
+        "building": "shopping",
+        "name": "Le Salon",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4325714,
+              50.9214733
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184138082",
+      "properties": {
+        "@id": "way/184138082",
+        "addr:housenumber": "8A",
+        "building": "shopping",
+        "name": "LD Styling",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4320135,
+              50.9208954
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190393734",
+      "properties": {
+        "@id": "way/190393734",
+        "building": "yes",
+        "name": "Head Start",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3964633,
+              50.90505
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194680115",
+      "properties": {
+        "@id": "way/194680115",
+        "addr:housenumber": "103",
+        "addr:street": "Rownhams Road",
+        "building": "retail",
+        "name": "Cutting Edge",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4472722,
+              50.936211
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194681254",
+      "properties": {
+        "@id": "way/194681254",
+        "building": "retail",
+        "name": "Steve's Barber Shop",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4398787,
+              50.9374964
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208918427",
+      "properties": {
+        "@id": "way/208918427",
+        "addr:housenumber": "42;42a",
+        "building": "commercial",
+        "name": "Hair Bare",
+        "phone": "+44 23 8046 2824",
+        "shop": "hairdresser",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3367807,
+              50.9144735
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223273066",
+      "properties": {
+        "@id": "way/223273066",
+        "building": "yes",
+        "name": "Ana",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4268623,
+              50.9167863
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223273734",
+      "properties": {
+        "@id": "way/223273734",
+        "building": "yes",
+        "name": "Francos Barbers",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4263144,
+              50.917
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231508530",
+      "properties": {
+        "@id": "way/231508530",
+        "name": "A Head of Time",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3749357,
+              50.9174508
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242242988",
+      "properties": {
+        "@id": "way/242242988",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "492;492A First Floor Flat",
+        "addr:postcode": "SO17 3SP",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Fifi Hair & Beauty",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.382808,
+              50.9335423
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242933732",
+      "properties": {
+        "@id": "way/242933732",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "94",
+        "addr:postcode": "SO14 6RG",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Maria's Hair & Beauty",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.400343,
+              50.9192748
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285346909",
+      "properties": {
+        "@id": "way/285346909",
+        "building": "yes",
+        "name": "Mojo",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4260364,
+              50.9167806
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304276442",
+      "properties": {
+        "@id": "way/304276442",
+        "addr:city": "Southampton",
+        "addr:housename": "St James Hair",
+        "addr:housenumber": "28",
+        "addr:postcode": "SO15 5FG",
+        "addr:street": "St James Road",
+        "building": "yes",
+        "name": "St James Hair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.421996,
+              50.9215368
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305297876",
+      "properties": {
+        "@id": "way/305297876",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "69",
+        "addr:street": "High Road",
+        "name": "Solo",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3803562,
+              50.9387772
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362738939",
+      "properties": {
+        "@id": "way/362738939",
+        "addr:city": "Southampton",
+        "addr:housename": "Glitz",
+        "addr:housenumber": "109",
+        "addr:postcode": "SO15 5GL",
+        "addr:street": "Janson Road",
+        "building": "yes",
+        "name": "Glitz",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4224491,
+              50.9215724
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363172687",
+      "properties": {
+        "@id": "way/363172687",
+        "addr:city": "Southampton",
+        "addr:housename": "Freshair",
+        "addr:housenumber": "35A",
+        "addr:postcode": "SO15 7QW",
+        "addr:street": "Bellemoor Road",
+        "building": "yes",
+        "name": "Freshair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4252092,
+              50.9278731
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363293916",
+      "properties": {
+        "@id": "way/363293916",
+        "addr:city": "Southampton",
+        "addr:housename": "Mark Searle",
+        "addr:housenumber": "11A",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "building": "yes",
+        "name": "Mark Searle",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4216623,
+              50.9207565
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/345115392",
+      "properties": {
+        "@id": "node/345115392",
+        "created_by": "Potlatch 0.10f",
+        "name": "Scott's Barber Shop",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3663451,
+          50.8964714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642105763",
+      "properties": {
+        "@id": "node/642105763",
+        "name": "Terry's Barbers",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3802128,
+          50.894254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/643209221",
+      "properties": {
+        "@id": "node/643209221",
+        "fixme": "location approximate",
+        "name": "Trevor Mitchell International",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3802889,
+          50.8967096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/665927464",
+      "properties": {
+        "@id": "node/665927464",
+        "name": "Gents Barber",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4228227,
+          50.9146375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/997555977",
+      "properties": {
+        "@id": "node/997555977",
+        "name": "Kinky",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3618829,
+          50.9047019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038494117",
+      "properties": {
+        "@id": "node/1038494117",
+        "shop": "hairdresser",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3538464,
+          50.9006064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1259773350",
+      "properties": {
+        "@id": "node/1259773350",
+        "name": "Mandi's Hair Studio and Beauty Room",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3797581,
+          50.8969093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556170025",
+      "properties": {
+        "@id": "node/1556170025",
+        "name": "Joyce Hairdressers and The Barber Shop",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969155,
+          50.9059569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556214414",
+      "properties": {
+        "@id": "node/1556214414",
+        "name": "CREW",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4032555,
+          50.9016744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556229187",
+      "properties": {
+        "@id": "node/1556229187",
+        "name": "Topps Barbers",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4207147,
+          50.9119795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243015",
+      "properties": {
+        "@id": "node/1556243015",
+        "name": "Rootz",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4232387,
+          50.914665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243044",
+      "properties": {
+        "@id": "node/1556243044",
+        "name": "Talons and Tanfastic",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4232254,
+          50.9146448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556261572",
+      "properties": {
+        "@id": "node/1556261572",
+        "name": "Edward's Hair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.426916,
+          50.9170528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556261593",
+      "properties": {
+        "@id": "node/1556261593",
+        "name": "Elegant",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4269991,
+          50.9171119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774893",
+      "properties": {
+        "@id": "node/1592774893",
+        "name": "New Era Hair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403375,
+          50.9051178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760708998",
+      "properties": {
+        "@id": "node/1760708998",
+        "name": "Enterprise Hairdressing (George's Barber Shop)",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4131227,
+          50.9090548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428239",
+      "properties": {
+        "@id": "node/2090428239",
+        "name": "Steve's Barbers Shop",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4445414,
+          50.9334282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428255",
+      "properties": {
+        "@id": "node/2090428255",
+        "name": "Chique Hair & Beauty",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4435839,
+          50.9218163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107145570",
+      "properties": {
+        "@id": "node/2107145570",
+        "addr:street": "Townhill Farm District Centre",
+        "name": "E'Clips",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3523765,
+          50.9330315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2136668703",
+      "properties": {
+        "@id": "node/2136668703",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4398481,
+          50.9374336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2281151596",
+      "properties": {
+        "@id": "node/2281151596",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "129",
+        "addr:postcode": "SO19 9DN",
+        "addr:street": "Obelisk Road",
+        "name": "Creation Hair Studio/Dave Wilson Barber",
+        "shop": "hairdresser",
+        "website": "http://en-gb.facebook.com/pages/Creation-Hair-Design-Obelisk-Road-Woolston/356898050343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3715662,
+          50.8942481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2354044894",
+      "properties": {
+        "@id": "node/2354044894",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "61",
+        "addr:street": "High Road",
+        "name": "Lbs",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3803255,
+          50.9385165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2354046540",
+      "properties": {
+        "@id": "node/2354046540",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "59",
+        "addr:street": "High Road",
+        "name": "Volume",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3803318,
+          50.9384892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2470040451",
+      "properties": {
+        "@id": "node/2470040451",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "111a",
+        "addr:postcode": "SO17 2FS",
+        "addr:street": "St Denys Road",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3814198,
+          50.924513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2851603268",
+      "properties": {
+        "@id": "node/2851603268",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "31",
+        "addr:street": "Highfield Lane",
+        "name": "Headliners",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3999883,
+          50.9312146
+        ]
+      }
+    }
+  ]
+}

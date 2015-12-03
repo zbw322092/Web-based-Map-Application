@@ -1,0 +1,359 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T15:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27047528",
+      "properties": {
+        "@id": "way/27047528",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Mountbatten Library",
+        "source": "yahoo",
+        "source:name": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4012248,
+              50.9078469
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33830050",
+      "properties": {
+        "@id": "way/33830050",
+        "addr:housename": "Hartley Library",
+        "amenity": "library",
+        "building": "yes",
+        "level": "0",
+        "loc_ref": "36",
+        "name": "Hartley Library",
+        "uri": "http://id.southampton.ac.uk/building/36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3960388,
+              50.934893
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/81163505",
+      "properties": {
+        "@id": "way/81163505",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO16 3HF",
+        "addr:street": "Burgess Road",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Burgess Road Library",
+        "website": "http://www.southampton.gov.uk/s-leisure/libraries/local-libraries/burgessroadlibrary.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3956983,
+              50.938397
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87342819",
+      "properties": {
+        "@id": "way/87342819",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO18 5EG",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Bitterne Library",
+        "operator": "Southampton City Council",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3554702,
+              50.9149037
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95347194",
+      "properties": {
+        "@id": "way/95347194",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Lordshill Library",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4496656,
+              50.9400575
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113617753",
+      "properties": {
+        "@id": "way/113617753",
+        "addr:housename": "Portswood Library",
+        "addr:street": "Portswood Road",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Portswood Library",
+        "source": "Bing",
+        "start_date": "1915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3916655,
+              50.9266933
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192359660",
+      "properties": {
+        "@id": "way/192359660",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO18 1HL",
+        "addr:street": "Cobbett Road",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Cobbett Road Library",
+        "operator": "Southampton City Council",
+        "source": "Bing;OS_OpenData_StreetView",
+        "website": "http://www.southampton.gov.uk/libraries-museums/using-library/local-libraries/cobbett-road-library.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3734687,
+              50.9179174
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292812303",
+      "properties": {
+        "@id": "node/292812303",
+        "amenity": "library",
+        "created_by": "Potlatch 0.10b",
+        "name": "Thornhill Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3347299,
+          50.9089864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331245639",
+      "properties": {
+        "@id": "node/331245639",
+        "amenity": "library",
+        "name": "Woolston Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.374879,
+          50.8976708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331255391",
+      "properties": {
+        "@id": "node/331255391",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 7LW",
+        "amenity": "library",
+        "name": "Southampton Central Library",
+        "website": "http://www.southampton.gov.uk/s-leisure/libraries/local-libraries/central.aspx",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4059918,
+          50.9084497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/803837699",
+      "properties": {
+        "@id": "node/803837699",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958527,
+          50.9351372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/852775948",
+      "properties": {
+        "@id": "node/852775948",
+        "amenity": "library",
+        "name": "Shirley Library",
+        "operator": "Southampton City Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4343362,
+          50.923946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1015670491",
+      "properties": {
+        "@id": "node/1015670491",
+        "building": "entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3552499,
+          50.9147416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643229740",
+      "properties": {
+        "@id": "node/1643229740",
+        "entrance": "emergency",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3959036,
+          50.9345248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643229860",
+      "properties": {
+        "@id": "node/1643229860",
+        "entrance": "emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958938,
+          50.9348427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1643241739",
+      "properties": {
+        "@id": "node/1643241739",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958954,
+          50.9350783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2143335197",
+      "properties": {
+        "@id": "node/2143335197",
+        "amenity": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3372581,
+          50.9288175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2399176323",
+      "properties": {
+        "@id": "node/2399176323",
+        "entrance": "emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958512,
+          50.9347961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3523790393",
+      "properties": {
+        "@id": "node/3523790393",
+        "entrance": "main",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3917272,
+          50.9266544
+        ]
+      }
+    }
+  ]
+}

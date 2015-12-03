@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/192053256",
+      "properties": {
+        "@id": "way/192053256",
+        "building": "retail",
+        "name": "Townhill Farm District Centre",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3520104,
+              50.933152
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250756944",
+      "properties": {
+        "@id": "way/250756944",
+        "building": "yes",
+        "layer": "1",
+        "name": "West Quay Shopping Centre",
+        "shop": "mall",
+        "source": "Bing",
+        "wheelchair": "yes",
+        "wikipedia": "en:WestQuay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4052731,
+              50.9035032
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251421571",
+      "properties": {
+        "@id": "way/251421571",
+        "addr:postcode": "SO14 7FJ",
+        "building": "yes",
+        "name": "The Marlands",
+        "shop": "mall",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4050954,
+              50.9056369
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251421573",
+      "properties": {
+        "@id": "way/251421573",
+        "building": "yes",
+        "name": "The Marlands",
+        "shop": "mall",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045577,
+              50.9055035
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/277113410",
+      "properties": {
+        "@id": "way/277113410",
+        "building": "retail",
+        "name": "Sentry Self Storage",
+        "shop": "mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3390953,
+              50.9070882
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762243732",
+      "properties": {
+        "@id": "node/1762243732",
+        "amenity": "fast_food",
+        "cuisine": "fish_and_chips",
+        "name": "The Chip Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3522733,
+          50.933174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30914400",
+      "properties": {
+        "@id": "way/30914400",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "IKEA Southampton",
+        "addr:postcode": "SO15 1GY",
+        "addr:street": "West Quay Road",
+        "building": "yes",
+        "name": "IKEA",
+        "official_name": "IKEA Southampton",
+        "opening_hours": "Mo-Fr 10:00-17:15; Sa 09:00-17:15; Su 11:00-04:45",
+        "operator": "IKEA International Group",
+        "phone": "+44 845 225 7125",
+        "shop": "furniture",
+        "source": "Bing",
+        "website": "http://www.ikea.com/gb/en/store/southampton",
+        "wikipedia": "en:IKEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4118551,
+              50.903576
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191972364",
+      "properties": {
+        "@id": "way/191972364",
+        "building": "retail",
+        "landuse": "retail",
+        "name": "Furniture Village",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4104658,
+              50.9044451
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191972367",
+      "properties": {
+        "@id": "way/191972367",
+        "building": "yes",
+        "landuse": "retail",
+        "name": "SCS",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4100421,
+              50.9033761
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/192359663",
+      "properties": {
+        "@id": "way/192359663",
+        "building": "yes",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3753008,
+              50.9234484
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526452",
+      "properties": {
+        "@id": "node/612526452",
+        "name": "Italian Furniture Direct",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4010329,
+          50.9018769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1329094328",
+      "properties": {
+        "@id": "node/1329094328",
+        "name": "Warne's",
+        "shop": "furniture",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4300248,
+          50.9198695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1565149927",
+      "properties": {
+        "@id": "node/1565149927",
+        "name": "Sutton Upholstery",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3959974,
+          50.9163283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2322073856",
+      "properties": {
+        "@id": "node/2322073856",
+        "name": "Sleep Tight",
+        "shop": "furniture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4266256,
+          50.9173331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/250756944",
+      "properties": {
+        "@id": "way/250756944",
+        "building": "yes",
+        "layer": "1",
+        "name": "West Quay Shopping Centre",
+        "shop": "mall",
+        "source": "Bing",
+        "wheelchair": "yes",
+        "wikipedia": "en:WestQuay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4052731,
+              50.9035032
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251421571",
+      "properties": {
+        "@id": "way/251421571",
+        "addr:postcode": "SO14 7FJ",
+        "building": "yes",
+        "name": "The Marlands",
+        "shop": "mall",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4050954,
+              50.9056369
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251421573",
+      "properties": {
+        "@id": "way/251421573",
+        "building": "yes",
+        "name": "The Marlands",
+        "shop": "mall",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045577,
+              50.9055035
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30914400",
+      "properties": {
+        "@id": "way/30914400",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "IKEA Southampton",
+        "addr:postcode": "SO15 1GY",
+        "addr:street": "West Quay Road",
+        "building": "yes",
+        "name": "IKEA",
+        "official_name": "IKEA Southampton",
+        "opening_hours": "Mo-Fr 10:00-17:15; Sa 09:00-17:15; Su 11:00-04:45",
+        "operator": "IKEA International Group",
+        "phone": "+44 845 225 7125",
+        "shop": "furniture",
+        "source": "Bing",
+        "website": "http://www.ikea.com/gb/en/store/southampton",
+        "wikipedia": "en:IKEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4118551,
+              50.903576
+            ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:28:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30073931",
+      "properties": {
+        "@id": "way/30073931",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cineworld Southampton",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3950095,
+              50.8965107
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53669936",
+      "properties": {
+        "@id": "way/53669936",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:place": "Ocean Village",
+        "addr:postcode": "SO14 3TL",
+        "addr:street": "Maritime Walk",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Harbour Lights Picturehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3934381,
+              50.8947244
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171757597",
+      "properties": {
+        "@id": "way/171757597",
+        "amenity": "cinema",
+        "buildingpart": "room",
+        "name": "The Cube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3974396,
+              50.9342159
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/21600372",
+      "properties": {
+        "@id": "node/21600372",
+        "amenity": "cinema",
+        "created_by": "Potlatch 0.10f",
+        "name": "Odeon Leisure World"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4126797,
+          50.9023139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827375858",
+      "properties": {
+        "@id": "node/1827375858",
+        "entrance": "service",
+        "name": "Loading Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3972722,
+          50.9341541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2986021123",
+      "properties": {
+        "@id": "node/2986021123",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973623,
+          50.9340304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2986021124",
+      "properties": {
+        "@id": "node/2986021124",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973625,
+          50.9340304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2986474389",
+      "properties": {
+        "@id": "node/2986474389",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3975862,
+          50.934099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2986474392",
+      "properties": {
+        "@id": "node/2986474392",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3975774,
+          50.9341112
+        ]
+      }
+    }
+  ]
+}

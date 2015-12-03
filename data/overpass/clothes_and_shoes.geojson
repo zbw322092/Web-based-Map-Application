@@ -1,0 +1,830 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:46:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/143044797",
+      "properties": {
+        "@id": "way/143044797",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "22-28",
+        "addr:postcode": "SO14 7DQ",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Primark",
+        "shop": "clothes",
+        "website": "http://www.primark.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4036536,
+              50.9035889
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/145965269",
+      "properties": {
+        "@id": "way/145965269",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "40-50",
+        "addr:postcode": "SO14 7GW",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "BHS",
+        "shop": "clothes",
+        "website": "http://www.bhs.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4029232,
+              50.9040605
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146620680",
+      "properties": {
+        "@id": "way/146620680",
+        "building": "yes",
+        "name": "Urban Outfitters",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.403615,
+              50.9042406
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149814011",
+      "properties": {
+        "@id": "way/149814011",
+        "addr:housenumber": "10",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "New Look",
+        "shop": "clothes",
+        "website": "http://www.newlook.com/store-finder/Portswood-Southampton-UK-411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3928431,
+              50.9255442
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643241",
+      "properties": {
+        "@id": "way/160643241",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "20;21",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "Brides of Southampton",
+        "shop": "clothes",
+        "source:addr": "http://bridesofsouthampton.co.uk/directions",
+        "website": "http://www.bridesofsouthampton.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3938498,
+              50.9249524
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643244",
+      "properties": {
+        "@id": "way/160643244",
+        "addr:housenumber": "29",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "Grooms",
+        "shop": "clothes",
+        "website": "http://groomshire.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3937854,
+              50.925013
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168802130",
+      "properties": {
+        "@id": "way/168802130",
+        "addr:housenumber": "202",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Beatnik Emporium",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046298,
+              50.9093415
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184056164",
+      "properties": {
+        "@id": "way/184056164",
+        "addr:housenumber": "83-87",
+        "building": "shopping",
+        "name": "Peacocks",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.434071,
+              50.9233157
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184066897",
+      "properties": {
+        "@id": "way/184066897",
+        "addr:housenumber": "82-84",
+        "building": "shopping",
+        "name": "New Look",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4343478,
+              50.922484
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190393774",
+      "properties": {
+        "@id": "way/190393774",
+        "building": "yes",
+        "name": "Shuma Tailors",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3964161,
+              50.9050926
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358517050",
+      "properties": {
+        "@id": "way/358517050",
+        "addr:city": "Southampton",
+        "addr:housename": "Ann Summers",
+        "addr:housenumber": "93",
+        "addr:postcode": "SO147FG",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Ann Summers",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046127,
+              50.9059798
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612491666",
+      "properties": {
+        "@id": "node/612491666",
+        "name": "Tiffany's",
+        "note": "Tiffany's",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4011403,
+          50.9020501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556261583",
+      "properties": {
+        "@id": "node/1556261583",
+        "name": "Dainty Tailors",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4263856,
+          50.9171303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774777",
+      "properties": {
+        "@id": "node/1592774777",
+        "name": "Roman",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051509,
+          50.9054881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774799",
+      "properties": {
+        "@id": "node/1592774799",
+        "name": "Repertoire",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041796,
+          50.9058646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774875",
+      "properties": {
+        "@id": "node/1592774875",
+        "name": "Animal",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041635,
+          50.9058129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803944",
+      "properties": {
+        "@id": "node/1592803944",
+        "name": "TK Maxx",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040295,
+          50.9044928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803974",
+      "properties": {
+        "@id": "node/1592803974",
+        "name": "Blue Inc",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045377,
+          50.9042788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803985",
+      "properties": {
+        "@id": "node/1592803985",
+        "name": "M Butterfly",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045391,
+          50.9047795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839272",
+      "properties": {
+        "@id": "node/1592839272",
+        "name": "Monsoon",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.405722,
+          50.9039008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839297",
+      "properties": {
+        "@id": "node/1592839297",
+        "name": "Top Shop",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045338,
+          50.9037266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839323",
+      "properties": {
+        "@id": "node/1592839323",
+        "name": "Tie Rack",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048582,
+          50.9038703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839332",
+      "properties": {
+        "@id": "node/1592839332",
+        "name": "River Island",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051157,
+          50.904031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839401",
+      "properties": {
+        "@id": "node/1592839401",
+        "name": "TM Lewin",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4055154,
+          50.9037351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839432",
+      "properties": {
+        "@id": "node/1592839432",
+        "name": "All Saints",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4053544,
+          50.9037756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154037",
+      "properties": {
+        "@id": "node/1602154037",
+        "name": "Gap",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4079495,
+          50.9032763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154047",
+      "properties": {
+        "@id": "node/1602154047",
+        "name": "H&M",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4065259,
+          50.903757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154053",
+      "properties": {
+        "@id": "node/1602154053",
+        "name": "Next",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4062811,
+          50.903574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154055",
+      "properties": {
+        "@id": "node/1602154055",
+        "name": "Zara",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4072795,
+          50.9039204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760693475",
+      "properties": {
+        "@id": "node/1760693475",
+        "name": "Bon Marche",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4349719,
+          50.9238984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2026084471",
+      "properties": {
+        "@id": "node/2026084471",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4344248,
+          50.9331886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576450730",
+      "properties": {
+        "@id": "node/2576450730",
+        "name": "Internacionale",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4060293,
+          50.9060251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576451065",
+      "properties": {
+        "@id": "node/2576451065",
+        "name": "Underground Clothing",
+        "note": "upper level",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4056108,
+          50.9058856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2579268269",
+      "properties": {
+        "@id": "node/2579268269",
+        "name": "Savoy Tailors Guild",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043279,
+          50.907535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183877081",
+      "properties": {
+        "@id": "way/183877081",
+        "addr:housenumber": "61-63",
+        "building": "retail",
+        "name": "Shoe Zone",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.433546,
+              50.9225319
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191972362",
+      "properties": {
+        "@id": "way/191972362",
+        "building": "yes",
+        "landuse": "retail",
+        "name": "Brantano Footwear",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4114422,
+              50.9042557
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358517517",
+      "properties": {
+        "@id": "way/358517517",
+        "addr:city": "Southampton",
+        "addr:housename": "Shuropody",
+        "addr:housenumber": "100",
+        "addr:postcode": "SO147DT",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Shuropody",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4042224,
+              50.9056881
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774780",
+      "properties": {
+        "@id": "node/1592774780",
+        "name": "Shuropody",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041596,
+          50.9057411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774802",
+      "properties": {
+        "@id": "node/1592774802",
+        "name": "Priceless Shoes",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041314,
+          50.9054628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803945",
+      "properties": {
+        "@id": "node/1592803945",
+        "name": "Foot Locker",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040939,
+          50.9046856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839266",
+      "properties": {
+        "@id": "node/1592839266",
+        "name": "Clarks",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040188,
+          50.9037773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839354",
+      "properties": {
+        "@id": "node/1592839354",
+        "name": "Sole Trader",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4050568,
+          50.9038433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839356",
+      "properties": {
+        "@id": "node/1592839356",
+        "name": "Office",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4052283,
+          50.9038061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154042",
+      "properties": {
+        "@id": "node/1602154042",
+        "name": "Jones Bootmaker",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4080997,
+          50.9035368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154061",
+      "properties": {
+        "@id": "node/1602154061",
+        "name": "Schuh",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4071695,
+          50.903895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154062",
+      "properties": {
+        "@id": "node/1602154062",
+        "name": "Dune",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4071051,
+          50.9038476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576450726",
+      "properties": {
+        "@id": "node/2576450726",
+        "name": "Shoe Zone",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4057236,
+          50.9059963
+        ]
+      }
+    }
+  ]
+}

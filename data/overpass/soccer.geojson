@@ -1,0 +1,592 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:28:02Z",
+  "features": [
+        {
+      "type": "Feature",
+      "id": "way/23216725",
+      "properties": {
+        "@id": "way/23216725",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "St Mary's Stadium",
+        "addr:postcode": "SO14 5FP",
+        "alt_name": "Southampton Football Club",
+        "building": "stadium",
+        "capacity": "32689",
+        "leisure": "stadium",
+        "name": "St Mary's Stadium",
+        "operator": "Southampton Football Club",
+        "source": "Bing",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3919105,
+              50.9064943
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25795759",
+      "properties": {
+        "@id": "way/25795759",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Yahoo Ariel Imagary",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3763038,
+              50.953725
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25795791",
+      "properties": {
+        "@id": "way/25795791",
+        "leisure": "pitch",
+        "name": "5-a-side",
+        "source": "Yahoo Ariel Imagary",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3819747,
+              50.9523253
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25795964",
+      "properties": {
+        "@id": "way/25795964",
+        "leisure": "pitch",
+        "name": "Silverlake Stadium",
+        "note": "(Eastleigh FC)",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3724935,
+              50.9528154
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62941018",
+      "properties": {
+        "@id": "way/62941018",
+        "leisure": "pitch",
+        "name": "St. Mary's Stadium",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3914396,
+              50.9063477
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123082681",
+      "properties": {
+        "@id": "way/123082681",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4638448,
+              50.9378126
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123082684",
+      "properties": {
+        "@id": "way/123082684",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4588559,
+              50.9395427
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123084535",
+      "properties": {
+        "@id": "way/123084535",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4209742,
+              50.9400423
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123084536",
+      "properties": {
+        "@id": "way/123084536",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":
+            [
+              -1.4211382,
+              50.9412143
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123084537",
+      "properties": {
+        "@id": "way/123084537",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4226986,
+              50.940591
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123084538",
+      "properties": {
+        "@id": "way/123084538",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4210683,
+              50.9412162
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123085087",
+      "properties": {
+        "@id": "way/123085087",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4204028,
+              50.9420127
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124098185",
+      "properties": {
+        "@id": "way/124098185",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4433722,
+              50.9395345
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130898623",
+      "properties": {
+        "@id": "way/130898623",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4590504,
+              50.9204906
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130898625",
+      "properties": {
+        "@id": "way/130898625",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4597804,
+              50.9217317
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130898629",
+      "properties": {
+        "@id": "way/130898629",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4590951,
+              50.9190932
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/130898630",
+      "properties": {
+        "@id": "way/130898630",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4599224,
+              50.9203988
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131341263",
+      "properties": {
+        "@id": "way/131341263",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.356687,
+              50.9354396
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131341298",
+      "properties": {
+        "@id": "way/131341298",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3565676,
+              50.9343402
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163497681",
+      "properties": {
+        "@id": "way/163497681",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3773785,
+              50.9317088
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163497682",
+      "properties": {
+        "@id": "way/163497682",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3783715,
+              50.931683
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163497684",
+      "properties": {
+        "@id": "way/163497684",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3785321,
+              50.9327864
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163497687",
+      "properties": {
+        "@id": "way/163497687",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3760211,
+              50.9336599
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/164954949",
+      "properties": {
+        "@id": "way/164954949",
+        "barrier": "fence",
+        "landcover": "grass",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3763611,
+              50.9370716
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171558766",
+      "properties": {
+        "@id": "way/171558766",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4173233,
+              50.9404766
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/177039683",
+      "properties": {
+        "@id": "way/177039683",
+        "leisure": "pitch",
+        "name": "Staplewood (Southampton FC)",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4653408,
+              50.8904669
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183898759",
+      "properties": {
+        "@id": "way/183898759",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4696134,
+              50.9307606
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230580269",
+      "properties": {
+        "@id": "way/230580269",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3519907,
+              50.9209044
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230580270",
+      "properties": {
+        "@id": "way/230580270",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3526812,
+              50.9207664
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237088693",
+      "properties": {
+        "@id": "way/237088693",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3454286,
+              50.9193399
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294441320",
+      "properties": {
+        "@id": "way/294441320",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3633667,
+              50.9068495
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294441321",
+      "properties": {
+        "@id": "way/294441321",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3620606,
+              50.9060641
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301832900",
+      "properties": {
+        "@id": "way/301832900",
+        "leisure": "pitch",
+        "name": "School pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3685902,
+              50.9397354
+            ]
+      }
+    }
+  ]
+}

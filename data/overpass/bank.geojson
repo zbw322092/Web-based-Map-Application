@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/122706794",
+      "properties": {
+        "@id": "way/122706794",
+        "addr:housenumber": "178",
+        "addr:street": "Portswood Road",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Nationwide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.391865,
+              50.926305
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/122706795",
+      "properties": {
+        "@id": "way/122706795",
+        "addr:housenumber": "180-182",
+        "addr:street": "Portswood Road",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3914672,
+              50.9263017
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153481045",
+      "properties": {
+        "@id": "way/153481045",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Santander",
+        "operator": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4047521,
+              50.9030881
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153481050",
+      "properties": {
+        "@id": "way/153481050",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Yorkshire Building Society",
+        "operator": "Yorkshire Building Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4047495,
+              50.9031405
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160637272",
+      "properties": {
+        "@id": "way/160637272",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "189",
+        "addr:postcode": "SO17 2WX",
+        "addr:street": "Portswood Road",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "NatWest",
+        "operator": "NatWest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3934791,
+              50.9252853
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169379079",
+      "properties": {
+        "@id": "way/169379079",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "267;271",
+        "addr:postcode": "SO17 2LA",
+        "addr:street": "Portswood Road",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "LloydsTSB",
+        "operator": "Loyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3910164,
+              50.9271198
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183876040",
+      "properties": {
+        "@id": "way/183876040",
+        "addr:housenumber": "17",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "shopping",
+        "name": "Nationwide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4319897,
+              50.9216392
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183876041",
+      "properties": {
+        "@id": "way/183876041",
+        "addr:housenumber": "1",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "shopping",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4317657,
+              50.9211446
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184056162",
+      "properties": {
+        "@id": "way/184056162",
+        "addr:housenumber": "77-79",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "shopping",
+        "name": "Lloyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4338699,
+              50.923046
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184143333",
+      "properties": {
+        "@id": "way/184143333",
+        "addr:city": "Southampton",
+        "addr:housenumber": "5-7",
+        "addr:street": "Gordon Buildings",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "shopping",
+        "name": "Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4312154,
+              50.9210382
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190362741",
+      "properties": {
+        "@id": "way/190362741",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "24",
+        "addr:postcode": "SO15 2UZ",
+        "addr:street": "London Road",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4040255,
+              50.911236
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358519855",
+      "properties": {
+        "@id": "way/358519855",
+        "addr:city": "Southampton",
+        "addr:housename": "Lloyds Bank Plc",
+        "addr:housenumber": "92-94",
+        "addr:postcode": "SO147DT",
+        "addr:street": "Above Bar Street",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Lloyds Bank Plc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.40422,
+              50.9055748
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361767151",
+      "properties": {
+        "@id": "way/361767151",
+        "addr:city": "Southampton",
+        "addr:housename": "Barclays",
+        "addr:housenumber": "67B",
+        "addr:postcode": "SO14 7DZ",
+        "addr:street": "Above Bar Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045187,
+              50.9049975
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282715828",
+      "properties": {
+        "@id": "node/282715828",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Lloyds TSB",
+        "operator": "Lloyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3788669,
+          50.897906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612492014",
+      "properties": {
+        "@id": "node/612492014",
+        "amenity": "bank",
+        "name": "Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045096,
+          50.9046027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526466",
+      "properties": {
+        "@id": "node/612526466",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Natwest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036677,
+          50.9016882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526480",
+      "properties": {
+        "@id": "node/612526480",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Co-operative Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045257,
+          50.9044852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526484",
+      "properties": {
+        "@id": "node/612526484",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Nationwide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.404071,
+          50.9050239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526490",
+      "properties": {
+        "@id": "node/612526490",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Lloyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041515,
+          50.9055635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/638908820",
+      "properties": {
+        "@id": "node/638908820",
+        "amenity": "bank",
+        "name": "NatWest",
+        "operator": "NatWest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3800853,
+          50.8980094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767311",
+      "properties": {
+        "@id": "node/671767311",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4298531,
+          50.9197989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767318",
+      "properties": {
+        "@id": "node/671767318",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays",
+        "operator": "Barclays Bank PLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4308502,
+          50.9205476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767329",
+      "properties": {
+        "@id": "node/671767329",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Natwest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4353914,
+          50.9240191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555748601",
+      "properties": {
+        "@id": "node/1555748601",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Lloyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4037236,
+          50.912373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555748622",
+      "properties": {
+        "@id": "node/1555748622",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4042813,
+          50.9113043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774826",
+      "properties": {
+        "@id": "node/1592774826",
+        "amenity": "bank",
+        "name": "Chelsea Building Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041287,
+          50.90527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803897",
+      "properties": {
+        "@id": "node/1592803897",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045472,
+          50.9043194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1805475732",
+      "properties": {
+        "@id": "node/1805475732",
+        "amenity": "atm",
+        "operator": "LloydsTSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.390987,
+          50.927104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913433",
+      "properties": {
+        "@id": "node/2161913433",
+        "amenity": "bank",
+        "name": "Barclays",
+        "operator": "Barclays Bank PLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.361334,
+          50.9148968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913452",
+      "properties": {
+        "@id": "node/2161913452",
+        "amenity": "bank",
+        "name": "Natwest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3601189,
+          50.9143769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913486",
+      "properties": {
+        "@id": "node/2161913486",
+        "amenity": "bank",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3595596,
+          50.9144411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913518",
+      "properties": {
+        "@id": "node/2161913518",
+        "amenity": "bank",
+        "name": "Lloyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3596052,
+          50.9146813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913533",
+      "properties": {
+        "@id": "node/2161913533",
+        "amenity": "bank",
+        "name": "HSBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3619347,
+          50.914349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3529136574",
+      "properties": {
+        "@id": "node/3529136574",
+        "addr:city": "Southampton",
+        "addr:housenumber": "106",
+        "addr:postcode": "SO17 1TW",
+        "addr:street": "Burgess Road",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Barclays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3979033,
+          50.9377444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3529147909",
+      "properties": {
+        "@id": "node/3529147909",
+        "addr:city": "Southampton",
+        "addr:housenumber": "108",
+        "addr:postcode": "SO17 1TW",
+        "addr:street": "Burgess Road",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3978845,
+          50.937697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3529147910",
+      "properties": {
+        "@id": "node/3529147910",
+        "addr:city": "Southampton",
+        "addr:housenumber": "110",
+        "addr:postcode": "SO17 1TW",
+        "addr:street": "Burgess Road",
+        "amenity": "bank",
+        "name": "Lloyds Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3978577,
+          50.9376565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3592483209",
+      "properties": {
+        "@id": "node/3592483209",
+        "amenity": "bank",
+        "name": "TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4042531,
+          50.901186
+        ]
+      }
+    }
+  ]
+}

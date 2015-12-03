@@ -1,0 +1,519 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/293350470",
+      "properties": {
+        "@id": "node/293350470",
+        "amenity": "atm",
+        "created_by": "Potlatch 0.10b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3795214,
+          50.8956098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/665428112",
+      "properties": {
+        "@id": "node/665428112",
+        "amenity": "atm",
+        "currency:GBP": "yes",
+        "currency:others": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3949097,
+          50.9241004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767327",
+      "properties": {
+        "@id": "node/671767327",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.434308,
+          50.9235562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1088445097",
+      "properties": {
+        "@id": "node/1088445097",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3981471,
+          50.9376482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1316304237",
+      "properties": {
+        "@id": "node/1316304237",
+        "amenity": "atm",
+        "fee": "Nil for UK Banks",
+        "operator": "Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3525977,
+          50.9327974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1476739688",
+      "properties": {
+        "@id": "node/1476739688",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.398112,
+          50.9376417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556159262",
+      "properties": {
+        "@id": "node/1556159262",
+        "amenity": "atm",
+        "fee": "no",
+        "operator": "Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3966821,
+          50.9061734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557124839",
+      "properties": {
+        "@id": "node/1557124839",
+        "amenity": "atm",
+        "name": "ATM (C level)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4343214,
+          50.9330844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1588468500",
+      "properties": {
+        "@id": "node/1588468500",
+        "amenity": "atm",
+        "operator": "NatWest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3601383,
+          50.9144252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1669540263",
+      "properties": {
+        "@id": "node/1669540263",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969083,
+          50.9345016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713474242",
+      "properties": {
+        "@id": "node/1713474242",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960891,
+          50.9196419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713474249",
+      "properties": {
+        "@id": "node/1713474249",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960892,
+          50.9196537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727520998",
+      "properties": {
+        "@id": "node/1727520998",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3909373,
+          50.9383813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1727521000",
+      "properties": {
+        "@id": "node/1727521000",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3856944,
+          50.9383389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786663820",
+      "properties": {
+        "@id": "node/1786663820",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.411452,
+          50.9048305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1800037773",
+      "properties": {
+        "@id": "node/1800037773",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036907,
+          50.9123802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1800037776",
+      "properties": {
+        "@id": "node/1800037776",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036848,
+          50.9123871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1800066473",
+      "properties": {
+        "@id": "node/1800066473",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.407775,
+          50.9060863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1800066476",
+      "properties": {
+        "@id": "node/1800066476",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4078366,
+          50.9060829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1800591867",
+      "properties": {
+        "@id": "node/1800591867",
+        "amenity": "atm",
+        "operator": "Barclays Bank PLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036147,
+          50.9120165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1805475732",
+      "properties": {
+        "@id": "node/1805475732",
+        "amenity": "atm",
+        "operator": "LloydsTSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.390987,
+          50.927104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1858895751",
+      "properties": {
+        "@id": "node/1858895751",
+        "amenity": "atm",
+        "fee": "no",
+        "operator": "Lloyds TSB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3974369,
+          50.9342693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179319",
+      "properties": {
+        "@id": "node/2029179319",
+        "amenity": "atm",
+        "operator": "Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3750207,
+          50.9228604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2143335200",
+      "properties": {
+        "@id": "node/2143335200",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3361069,
+          50.9277134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2146579641",
+      "properties": {
+        "@id": "node/2146579641",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.335169,
+          50.9277473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2295610796",
+      "properties": {
+        "@id": "node/2295610796",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969083,
+          50.9345016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2389916712",
+      "properties": {
+        "@id": "node/2389916712",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.339344,
+          50.9147276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2389916713",
+      "properties": {
+        "@id": "node/2389916713",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3386607,
+          50.9147352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3099052200",
+      "properties": {
+        "@id": "node/3099052200",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3788885,
+          50.939855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3291452261",
+      "properties": {
+        "@id": "node/3291452261",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040871,
+          50.898016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3371995060",
+      "properties": {
+        "@id": "node/3371995060",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4384724,
+          50.930206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539813716",
+      "properties": {
+        "@id": "node/3539813716",
+        "amenity": "atm",
+        "free to use?": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3321674,
+          50.9015652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539813717",
+      "properties": {
+        "@id": "node/3539813717",
+        "amenity": "atm",
+        "free to use?": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320708,
+          50.9015618
+        ]
+      }
+    }
+  ]
+}

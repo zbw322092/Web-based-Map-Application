@@ -1,0 +1,638 @@
+{
+"type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-01T21:48:02Z",
+  "features": [
+  	{
+      "type": "Feature",
+      "id": "way/222942828",
+      "properties": {
+        "@id": "way/222942828",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Rileys Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4306152,
+              50.9206642
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194171542",
+      "properties": {
+        "@id": "way/194171542",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Vestry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4109726,
+              50.9090407
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194171548",
+      "properties": {
+        "@id": "way/194171548",
+        "addr:housenumber": "26-22",
+        "addr:street": "The Polygon",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Maple Leaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4099995,
+              50.9093144
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224308061",
+      "properties": {
+        "@id": "way/224308061",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Archers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4089889,
+              50.9159737
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168802129",
+      "properties": {
+        "@id": "way/168802129",
+        "addr:street": "Above Bar Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "ISIS Gentlemen's Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045944,
+              50.9089827
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168875948",
+      "properties": {
+        "@id": "way/168875948",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Chambers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4027183,
+              50.9129912
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171781221",
+      "properties": {
+        "@id": "way/171781221",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "24a",
+        "addr:postcode": "SO15 2DY",
+        "addr:street": "Carlton Place",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "90 Degrees At Carltons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4056435,
+              50.9126812
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692905",
+      "properties": {
+        "@id": "way/183692905",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "137",
+        "addr:postcode": "SO14 2BS",
+        "addr:street": "High Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Oasis Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4041116,
+              50.9000717
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692914",
+      "properties": {
+        "@id": "way/183692914",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "135;136",
+        "addr:postcode": "SO14 2BR",
+        "addr:street": "High Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "For Your Eyes Only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4042276,
+              50.9000362
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231158203",
+      "properties": {
+        "@id": "way/231158203",
+        "amenity": "bar",
+        "name": "Seymours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4047765,
+              50.9129214
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293516153",
+      "properties": {
+        "@id": "way/293516153",
+        "amenity": "bar",
+        "name": "Glen Bar",
+        "note": "This does not appear to have a URI?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4026939,
+              50.9439946
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187420298",
+      "properties": {
+        "@id": "way/187420298",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Edge",
+        "@tainted": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+          [
+            -1.3997046,
+            50.9100905
+          ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/59740797",
+      "properties": {
+        "@id": "node/59740797",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "3;4",
+        "addr:postcode": "SO15 2EJ",
+        "addr:street": "Vernon Walk",
+        "amenity": "bar",
+        "name": "Mono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.404659,
+          50.91234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555748584",
+      "properties": {
+        "@id": "node/1555748584",
+        "amenity": "bar",
+        "name": "Guava Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045373,
+          50.9087603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555748609",
+      "properties": {
+        "@id": "node/1555748609",
+        "amenity": "bar",
+        "name": "Soul Cellar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4053371,
+          50.9072217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555776504",
+      "properties": {
+        "@id": "node/1555776504",
+        "amenity": "bar",
+        "name": "Wahoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036383,
+          50.9003692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42274798",
+      "properties": {
+        "@id": "way/42274798",
+        "amenity": "bar",
+        "buildingpart": "room",
+        "name": "The Bridge",
+        "@relations": [
+          {
+            "role": "buildingpart",
+            "rel": "3309826",
+            "reltags": {
+              "level": "4",
+              "name": "Level 4",
+              "type": "level"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3975669,
+              50.934525
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159255400",
+      "properties": {
+        "@id": "way/159255400",
+        "amenity": "bar",
+        "name": "The Dungeon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3961662,
+              50.9161773
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165825955",
+      "properties": {
+        "@id": "way/165825955",
+        "amenity": "bar",
+        "name": "Clowns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3953145,
+              50.918363
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183445882",
+      "properties": {
+        "@id": "way/183445882",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 3DP",
+        "addr:street": "Terminus Terrace",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Parkers Hotel Bar Restaurant",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3967755,
+              50.8988257
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183446606",
+      "properties": {
+        "@id": "way/183446606",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The White Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3980375,
+              50.8981597
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187420298",
+      "properties": {
+        "@id": "way/187420298",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Edge",
+        "@tainted": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.399416,
+              50.9100902
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327580839",
+      "properties": {
+        "@id": "way/327580839",
+        "amenity": "bar",
+        "buildingpart": "room",
+        "uri": "http://id.southampton.ac.uk/point-of-service/turner-sims-bar",
+        "@relations": [
+          {
+            "role": "buildingpart",
+            "rel": "4580537",
+            "reltags": {
+              "level": "1",
+              "name": "Level 1",
+              "type": "level"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3986716,
+              50.9357315
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461671176",
+      "properties": {
+        "@id": "node/461671176",
+        "amenity": "bar",
+        "name": "Piano Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.396815,
+          50.8974566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919683847",
+      "properties": {
+        "@id": "node/919683847",
+        "amenity": "bar",
+        "name": "Cargo",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3988099,
+          50.898373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555701398",
+      "properties": {
+        "@id": "node/1555701398",
+        "amenity": "bar",
+        "name": "Lennons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3993907,
+          50.9134624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555762021",
+      "properties": {
+        "@id": "node/1555762021",
+        "amenity": "bar",
+        "name": "Isobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3967434,
+          50.9069977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792941228",
+      "properties": {
+        "@id": "node/1792941228",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3978225,
+          50.9360837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/225264401",
+      "properties": {
+        "@id": "way/225264401",
+        "addr:housename": "Bencraft Court Bar",
+        "amenity": "bar",
+        "building": "yes",
+        "loc_ref": "81D",
+        "uri": "http://id.southampton.ac.uk/building/81D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3910778,
+              50.9458447
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/345471280",
+      "properties": {
+        "@id": "way/345471280",
+        "addr:city": "Southampton",
+        "addr:housename": "Maritimo Lounge",
+        "addr:housenumber": "1 Moresby Tower Admirals Quay",
+        "addr:postcode": "SO14 3LG",
+        "addr:street": "Ocean Way",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Maritimo Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3925085,
+              50.8961283
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461671190",
+      "properties": {
+        "@id": "node/461671190",
+        "amenity": "bar",
+        "name": "Pitcher and Piano",
+        "odbl": "clean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3901055,
+          50.8968369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132697396",
+      "properties": {
+        "@id": "way/132697396",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "The Bar Monte",
+        "addr:postcode": "SO18 2NU",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "loc_ref": "76SC",
+        "name": "The Bar Monte",
+        "uri": "http://id.southampton.ac.uk/building/76SC",
+        "@relations": [
+          {
+            "role": "inner",
+            "rel": "2182076",
+            "reltags": {
+              "type": "multipolygon"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3778897,
+              50.9381686
+            ]
+      }
+    }
+  ]
+  }

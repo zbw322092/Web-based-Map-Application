@@ -1,0 +1,242 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:27:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/26242102",
+      "properties": {
+        "@id": "way/26242102",
+        "leisure": "pitch",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4524542,
+              50.8972889
+            ],
+            [
+              -1.452333,
+              50.8971403
+            ],
+            [
+              -1.451947,
+              50.8972673
+            ],
+            [
+              -1.4520717,
+              50.8974144
+            ],
+            [
+              -1.4524542,
+              50.8972889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109850401",
+      "properties": {
+        "@id": "way/109850401",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4358532,
+              50.9276818
+            ],
+            [
+              -1.4357181,
+              50.9275605
+            ],
+            [
+              -1.4350715,
+              50.9278796
+            ],
+            [
+              -1.4352217,
+              50.9280004
+            ],
+            [
+              -1.4358532,
+              50.9276818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124698601",
+      "properties": {
+        "@id": "way/124698601",
+        "leisure": "pitch",
+        "name": "Hinkler Skate Park",
+        "source": "Bing",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3320322,
+              50.9076361
+            ],
+            [
+              -1.3319459,
+              50.907515
+            ],
+            [
+              -1.3312899,
+              50.9077008
+            ],
+            [
+              -1.3313762,
+              50.907822
+            ],
+            [
+              -1.3320322,
+              50.9076361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163497683",
+      "properties": {
+        "@id": "way/163497683",
+        "leisure": "pitch",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3750703,
+              50.9336345
+            ],
+            [
+              -1.3751722,
+              50.9335145
+            ],
+            [
+              -1.3747404,
+              50.9333556
+            ],
+            [
+              -1.3746384,
+              50.9334722
+            ],
+            [
+              -1.3750703,
+              50.9336345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/356733077",
+      "properties": {
+        "@id": "node/356733077",
+        "leisure": "skatepark",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3992552,
+          50.9034701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26242102",
+      "properties": {
+        "@id": "way/26242102",
+        "leisure": "pitch",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4524542,
+              50.8972889
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109850401",
+      "properties": {
+        "@id": "way/109850401",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4358532,
+              50.9276818
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124698601",
+      "properties": {
+        "@id": "way/124698601",
+        "leisure": "pitch",
+        "name": "Hinkler Skate Park",
+        "source": "Bing",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3320322,
+              50.9076361
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/163497683",
+      "properties": {
+        "@id": "way/163497683",
+        "leisure": "pitch",
+        "sport": "skateboard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3750703,
+              50.9336345
+            ]
+      }
+    }
+  ]
+}

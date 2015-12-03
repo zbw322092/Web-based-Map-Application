@@ -1,0 +1,480 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1556214418",
+      "properties": {
+        "@id": "node/1556214418",
+        "name": "SR West",
+        "shop": "electrical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.420527,
+          50.9116971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556271781",
+      "properties": {
+        "@id": "node/1556271781",
+        "name": "Harrap",
+        "shop": "electrical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4273639,
+          50.9173571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556271787",
+      "properties": {
+        "@id": "node/1556271787",
+        "name": "Harrap",
+        "shop": "electrical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4272325,
+          50.917298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109850158",
+      "properties": {
+        "@id": "way/109850158",
+        "building": "yes",
+        "name": "Currys",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4256537,
+              50.9297315
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123078086",
+      "properties": {
+        "@id": "way/123078086",
+        "addr:housenumber": "19-21",
+        "building": "shopping",
+        "name": "Bright House",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4322286,
+              50.9215312
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643260",
+      "properties": {
+        "@id": "way/160643260",
+        "addr:housenumber": "40;41",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "Portswood Computers",
+        "shop": "electronics",
+        "source:addr": "http://www.portswoodpc.co.uk/shop/index.php/where-to-find-us.html",
+        "website": "http://portswoodpc.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3936364,
+              50.9251532
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181509348",
+      "properties": {
+        "@id": "way/181509348",
+        "building": "yes",
+        "name": "Maplin",
+        "shop": "electronics",
+        "website": "http://www.maplin.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4035032,
+              50.90282
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/348709059",
+      "properties": {
+        "@id": "way/348709059",
+        "addr:housenumber": "70",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "DV Electronics",
+        "note": "Also says \"Srilankan Food Store\" on the sign.",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3798164,
+              50.9390055
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556197805",
+      "properties": {
+        "@id": "node/1556197805",
+        "name": "Tuned In",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4005928,
+          50.9016673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1565149940",
+      "properties": {
+        "@id": "node/1565149940",
+        "name": "Maplin",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958991,
+          50.9164878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839276",
+      "properties": {
+        "@id": "node/1592839276",
+        "name": "Currys Digital",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4052632,
+          50.9040006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154031",
+      "properties": {
+        "@id": "node/1602154031",
+        "name": "Apple",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4063578,
+          50.9037908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2454312799",
+      "properties": {
+        "@id": "node/2454312799",
+        "name": "Kaytronics",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960522,
+          50.9162363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2576450727",
+      "properties": {
+        "@id": "node/2576450727",
+        "addr:city": "Southampton",
+        "addr:housename": "Unit 2324",
+        "addr:street": "The Marlands Shopping Centre",
+        "description": "Gaming, computing, phones, electronics and DVDs.",
+        "name": "CeX Southampton",
+        "opening_hours": "Mon: 9:00 - 17:30 Tue: 9:00 - 17:30 Wed: 9:00 - 17:30 Thu: 9:00 - 18:30 Fri: 9:00 - 17:30 Sat: 9:00 - 17:30 Sun: 11:00 - 16:30",
+        "payment:bitcoin": "yes",
+        "shop": "electronics",
+        "website": "https://uk.webuy.com/stores/store_details.php?branchId=31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4062693,
+          50.9063693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148592039",
+      "properties": {
+        "@id": "way/148592039",
+        "addr:housenumber": "46;46a",
+        "addr:postcode": "SO16 2JF",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "iFixComputers.eu",
+        "shop": "computer",
+        "source:addr:postcode": "http://www.ifixcomputers.eu/",
+        "website": "http://www.ifixcomputers.eu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3800219,
+              50.9383912
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123078075",
+      "properties": {
+        "@id": "way/123078075",
+        "addr:housenumber": "43",
+        "building": "shopping",
+        "name": "Carphone Warehouse",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4327342,
+              50.9218858
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123078088",
+      "properties": {
+        "@id": "way/123078088",
+        "addr:housenumber": "51",
+        "building": "shopping",
+        "name": "Go Mobile",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4329893,
+              50.9222778
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803913",
+      "properties": {
+        "@id": "node/1592803913",
+        "name": "O2",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045284,
+          50.9042281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803991",
+      "properties": {
+        "@id": "node/1592803991",
+        "name": "Phones 4 U",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045324,
+          50.9043905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839342",
+      "properties": {
+        "@id": "node/1592839342",
+        "name": "Orange",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.404952,
+          50.9038518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839350",
+      "properties": {
+        "@id": "node/1592839350",
+        "name": "T-Mobile",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045133,
+          50.9036345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839372",
+      "properties": {
+        "@id": "node/1592839372",
+        "name": "Carphone Warehouse",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040295,
+          50.9038315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839376",
+      "properties": {
+        "@id": "node/1592839376",
+        "name": "Phones 4 U",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045524,
+          50.9038484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154030",
+      "properties": {
+        "@id": "node/1602154030",
+        "name": "O2",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4058252,
+          50.9038819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154039",
+      "properties": {
+        "@id": "node/1602154039",
+        "name": "T-Mobile",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4072736,
+          50.9032611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154046",
+      "properties": {
+        "@id": "node/1602154046",
+        "name": "3",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4061383,
+          50.9038174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3515876701",
+      "properties": {
+        "@id": "node/3515876701",
+        "name": "SmartPhones",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3950735,
+          50.9236896
+        ]
+      }
+    }
+  ]
+}

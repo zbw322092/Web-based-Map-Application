@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/113616133",
+      "properties": {
+        "@id": "way/113616133",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "243",
+        "addr:postcode": "SO17 2NG",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "October Books",
+        "shop": "books",
+        "source": "Bing",
+        "website": "http://www.octoberbooks.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3920545,
+              50.9264554
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361875391",
+      "properties": {
+        "@id": "way/361875391",
+        "addr:city": "Southampton",
+        "addr:housename": "Waterstone",
+        "addr:postcode": "SO14 7FE",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Waterstones",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046702,
+              50.9049882
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526454",
+      "properties": {
+        "@id": "node/612526454",
+        "name": "Oxfam",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4013752,
+          50.9018468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526468",
+      "properties": {
+        "@id": "node/612526468",
+        "name": "Oxfam",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4038549,
+          50.9018554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1563538092",
+      "properties": {
+        "@id": "node/1563538092",
+        "name": "Waterstones",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4046129,
+          50.90504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154034",
+      "properties": {
+        "@id": "node/1602154034",
+        "name": "Waterstones",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.406198,
+          50.9031423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3380515278",
+      "properties": {
+        "@id": "node/3380515278",
+        "addr:city": "Southampton",
+        "addr:housename": "Gower Building",
+        "addr:housenumber": "112",
+        "addr:postcode": "SO17 1TW",
+        "addr:street": "Burgess Road",
+        "name": "John Smiths Book Store",
+        "opening_hours": "9:00-17:30",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3976939,
+          50.9377176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143044794",
+      "properties": {
+        "@id": "way/143044794",
+        "addr:housename": "32-34",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "WH Smith",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4035121,
+              50.9035983
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/189071156",
+      "properties": {
+        "@id": "way/189071156",
+        "building": "yes",
+        "name": "Sari-Sari",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4014077,
+              50.9157982
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602788877",
+      "properties": {
+        "@id": "node/602788877",
+        "name": "Thompson News",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4587177,
+          50.9304003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767289",
+      "properties": {
+        "@id": "node/671767289",
+        "name": "Foyes News",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4230563,
+          50.9141104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1288252868",
+      "properties": {
+        "@id": "node/1288252868",
+        "name": "Highfield News",
+        "shop": "newsagent",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3998864,
+          50.9308141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592803923",
+      "properties": {
+        "@id": "node/1592803923",
+        "name": "Park News",
+        "shop": "newsagent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4035413,
+          50.9048294
+        ]
+      }
+    }
+  ]
+}

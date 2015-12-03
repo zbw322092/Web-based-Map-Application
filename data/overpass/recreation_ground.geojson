@@ -1,0 +1,267 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T17:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24012005",
+      "properties": {
+        "@id": "way/24012005",
+        "landuse": "recreation_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4634446,
+              50.9436165
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146217035",
+      "properties": {
+        "@id": "way/146217035",
+        "landuse": "recreation_ground",
+        "source": "Bing; OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3766387,
+              50.9471141
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146707640",
+      "properties": {
+        "@id": "way/146707640",
+        "landuse": "recreation_ground",
+        "name": "Lloyds Recreation Ground",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4478939,
+              50.8933994
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/230580268",
+      "properties": {
+        "@id": "way/230580268",
+        "barrier": "fence",
+        "landuse": "recreation_ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3512798,
+              50.9210654
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146707025",
+      "properties": {
+        "@id": "way/146707025",
+        "landuse": "recreation_ground",
+        "name": "Lloyds Recreation Ground",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.4480075,
+            50.8935793
+          ],
+          [
+            -1.4480362,
+            50.8936137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2390709469",
+      "properties": {
+        "@id": "node/2390709469",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3510804,
+          50.9201817
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "way/4546185",
+      "properties": {
+        "@id": "way/4546185",
+        "leisure": "recreation_ground",
+        "name": "Veracity Recreation Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3658017,
+              50.9056131
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/89728145",
+      "properties": {
+        "@id": "way/89728145",
+        "leisure": "recreation_ground",
+        "name": "VT Sports Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3409435,
+              50.8922737
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100053421",
+      "properties": {
+        "@id": "way/100053421",
+        "leisure": "recreation_ground",
+        "source": "Bing; OS OpenData StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3271247,
+              50.8871065
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/106284224",
+      "properties": {
+        "@id": "way/106284224",
+        "leisure": "recreation_ground",
+        "source": "Bing;OS_OpenData_Streetview"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4356376,
+              50.9274356
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/206184268",
+      "properties": {
+        "@id": "way/206184268",
+        "leisure": "recreation_ground",
+        "name": "Cutbush Lane Recreation Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3580133,
+              50.9347341
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/215280344",
+      "properties": {
+        "@id": "way/215280344",
+        "leisure": "recreation_ground",
+        "name": "Mayfield Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3657218,
+              50.8900584
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233244005",
+      "properties": {
+        "@id": "way/233244005",
+        "leisure": "recreation_ground",
+        "name": "Dell Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3671501,
+              50.9272052
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/234037988",
+      "properties": {
+        "@id": "way/234037988",
+        "leisure": "recreation_ground",
+        "name": "Cork Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4520206,
+              50.8975022
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255660871",
+      "properties": {
+        "@id": "way/255660871",
+        "leisure": "recreation_ground",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3441002,
+              50.897152
+            ]
+      }
+    }
+  ]
+}

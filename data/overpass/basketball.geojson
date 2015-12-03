@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/38026900",
+      "properties": {
+        "@id": "way/38026900",
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4526063,
+              50.9419665
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109852122",
+      "properties": {
+        "@id": "way/109852122",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4454487,
+              50.9270322
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124098187",
+      "properties": {
+        "@id": "way/124098187",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4434684,
+              50.9396644
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204694370",
+      "properties": {
+        "@id": "way/204694370",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.32778,
+              50.9290539
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211112524",
+      "properties": {
+        "@id": "way/211112524",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4615902,
+              50.9297742
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222191928",
+      "properties": {
+        "@id": "way/222191928",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4296316,
+              50.9176572
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222957710",
+      "properties": {
+        "@id": "way/222957710",
+        "access": "private",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4346943,
+              50.9196774
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301104482",
+      "properties": {
+        "@id": "way/301104482",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4132131,
+              50.9112688
+            ]
+      }
+    }
+  ]
+}

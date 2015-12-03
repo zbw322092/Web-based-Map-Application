@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/159255399",
+      "properties": {
+        "@id": "way/159255399",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "The Dungeon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3961662,
+              50.9161773
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165825954",
+      "properties": {
+        "@id": "way/165825954",
+        "amenity": "nightclub",
+        "name": "Jesters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3953093,
+              50.9183992
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168802132",
+      "properties": {
+        "@id": "way/168802132",
+        "addr:housenumber": "194",
+        "addr:street": "Above Bar Street",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Cafe Parfait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046096,
+              50.9091368
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168802779",
+      "properties": {
+        "@id": "way/168802779",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "55",
+        "addr:postcode": "SO15 2AD",
+        "addr:street": "London Road",
+        "amenity": "nightclub",
+        "name": "Junk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4039292,
+              50.912112
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168803968",
+      "properties": {
+        "@id": "way/168803968",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "3",
+        "addr:postcode": "SO15 2EL",
+        "addr:street": "Winchester Street",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Budda Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046463,
+              50.9124281
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168803972",
+      "properties": {
+        "@id": "way/168803972",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "17",
+        "addr:postcode": "SO15 2EH",
+        "addr:street": "Lower Banister Street",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Pop World"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4055267,
+              50.9124692
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/188324030",
+      "properties": {
+        "@id": "way/188324030",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "94-96",
+        "addr:postcode": "SO14 0AH",
+        "addr:street": "Saint Mary's Road",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Kaos",
+        "phone": "+44-23-8022-0183",
+        "source": "knowledge",
+        "source:name": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3998259,
+              50.9120913
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/59740821",
+      "properties": {
+        "@id": "node/59740821",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "1;2",
+        "addr:postcode": "SO15 2EJ",
+        "addr:street": "Vernon Walk",
+        "amenity": "nightclub",
+        "name": "Orange Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048315,
+          50.912324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/348244418",
+      "properties": {
+        "@id": "node/348244418",
+        "amenity": "nightclub",
+        "name": "Oceana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4131547,
+          50.9022593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919731999",
+      "properties": {
+        "@id": "node/919731999",
+        "amenity": "nightclub",
+        "name": "La Rossa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041217,
+          50.8961082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1713482599",
+      "properties": {
+        "@id": "node/1713482599",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3961781,
+          50.9160828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2536218399",
+      "properties": {
+        "@id": "node/2536218399",
+        "addr:city": "Southampton",
+        "addr:housenumber": "127",
+        "addr:postcode": "SO14 7FN",
+        "addr:street": "Above Bar Street",
+        "amenity": "nightclub",
+        "name": "Switch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4050762,
+          50.9072179
+        ]
+      }
+    }
+  ]
+}

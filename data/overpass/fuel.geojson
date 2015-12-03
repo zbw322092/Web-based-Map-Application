@@ -1,0 +1,344 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T15:57:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/109850165",
+      "properties": {
+        "@id": "way/109850165",
+        "amenity": "fuel",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4270901,
+              50.9299501
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157866297",
+      "properties": {
+        "@id": "way/157866297",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 6RP",
+        "addr:street": "Lodge Road",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3963312,
+              50.9197722
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172706159",
+      "properties": {
+        "@id": "way/172706159",
+        "amenity": "fuel",
+        "building": "roof",
+        "operator": "Shell",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4617566,
+              50.9190253
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240494335",
+      "properties": {
+        "@id": "way/240494335",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "197",
+        "addr:postcode": "SO17 1TU",
+        "addr:street": "Burgess Road",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3991408,
+              50.9380722
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/291613728",
+      "properties": {
+        "@id": "way/291613728",
+        "amenity": "fuel",
+        "name": "West End Service Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.348506,
+              50.9339352
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10942577",
+      "properties": {
+        "@id": "node/10942577",
+        "amenity": "fuel",
+        "name": "BP",
+        "operator": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3319484,
+          50.9012388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25440790",
+      "properties": {
+        "@id": "node/25440790",
+        "amenity": "fuel",
+        "brand": "BP",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3787077,
+          50.9182031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/28179497",
+      "properties": {
+        "@id": "node/28179497",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_102": "yes",
+        "fuel:octane_91": "yes",
+        "operator": "Shell UK",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4039541,
+          50.9531451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55424645",
+      "properties": {
+        "@id": "node/55424645",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3796149,
+          50.9373377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254165668",
+      "properties": {
+        "@id": "node/254165668",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Texaco",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3372998,
+          50.914382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276349926",
+      "properties": {
+        "@id": "node/276349926",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Tesco Fuel",
+        "opening_hours": "24/7",
+        "operator": "Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.446138,
+          50.9231111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354645976",
+      "properties": {
+        "@id": "node/354645976",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3631072,
+          50.8953599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/541172410",
+      "properties": {
+        "@id": "node/541172410",
+        "amenity": "fuel",
+        "name": "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3540287,
+          50.921587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/652880419",
+      "properties": {
+        "@id": "node/652880419",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4246204,
+          50.9131038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1046183403",
+      "properties": {
+        "@id": "node/1046183403",
+        "amenity": "fuel",
+        "operator": "Texaco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4441216,
+          50.9130426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1365745150",
+      "properties": {
+        "@id": "node/1365745150",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Texaco",
+        "operator": "Texaco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4013607,
+          50.9000232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1937180143",
+      "properties": {
+        "@id": "node/1937180143",
+        "amenity": "fuel",
+        "brand": "BP",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Sainsbury's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4497885,
+          50.9406843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2470666658",
+      "properties": {
+        "@id": "node/2470666658",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3892892,
+          50.9097222
+        ]
+      }
+    }
+  ]
+}

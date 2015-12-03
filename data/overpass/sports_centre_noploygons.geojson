@@ -1,0 +1,764 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T17:38:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/3031553",
+      "properties": {
+        "@id": "relation/3031553",
+        "leisure": "sports_centre",
+        "loc_ref": "39",
+        "name": "Wide Lane Sports Centre",
+        "operator": "University of Southampton",
+        "type": "Point",
+        "uri": "http://id.southampton.ac.uk/site/39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+              [
+                -1.3663983,
+                50.948292
+              ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23186694",
+      "properties": {
+        "@id": "way/23186694",
+        "leisure": "sports_centre",
+        "name": "David Lloyd Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4629698,
+              50.9349328
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30041868",
+      "properties": {
+        "@id": "way/30041868",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Chamberlayne Leisure Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3614535,
+              50.8909823
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40598667",
+      "properties": {
+        "@id": "way/40598667",
+        "leisure": "pitch",
+        "sport": "cricket",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": "3031553",
+            "reltags": {
+              "leisure": "sports_centre",
+              "loc_ref": "39",
+              "name": "Wide Lane Sports Centre",
+              "operator": "University of Southampton",
+              "type": "Point",
+              "uri": "http://id.southampton.ac.uk/site/39"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3663983,
+              50.948292
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47893232",
+      "properties": {
+        "@id": "way/47893232",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Bitterne Leisure Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.356782,
+              50.9160845
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93729745",
+      "properties": {
+        "@id": "way/93729745",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "loc_ref": "18",
+        "name": "Jubilee Sports Centre",
+        "uri": "http://id.southampton.ac.uk/building/18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.396916,
+              50.9335611
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109370509",
+      "properties": {
+        "@id": "way/109370509",
+        "leisure": "sports_centre",
+        "name": "Changing Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4205114,
+              50.9402174
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109850155",
+      "properties": {
+        "@id": "way/109850155",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "LA Fitness",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4254325,
+              50.929877
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109901881",
+      "properties": {
+        "@id": "way/109901881",
+        "leisure": "sports_centre",
+        "name": "Southampton Sports Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4232515,
+              50.9428614
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152021569",
+      "properties": {
+        "@id": "way/152021569",
+        "addr:housename": "Squash Courts and Fitness Room",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "loc_ref": "73S",
+        "sport": "squash",
+        "uri": "http://id.southampton.ac.uk/building/73S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4013853,
+              50.9442013
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155028513",
+      "properties": {
+        "@id": "way/155028513",
+        "addr:city": "Eastleigh",
+        "addr:country": "GB",
+        "addr:postcode": "SO50 9HT",
+        "leisure": "sports_centre",
+        "name": "Wellington Sports Ground",
+        "operator": "King Edward VI School, Southampton",
+        "website": "http://www.kes.hants.sch.uk/find-us/wellington-sports-ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3747023,
+              50.9534041
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692904",
+      "properties": {
+        "@id": "way/183692904",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "134;135",
+        "addr:postcode": "SO14 2BR",
+        "addr:street": "High Street",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Ocean Gym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.404292,
+              50.8998683
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191973286",
+      "properties": {
+        "@id": "way/191973286",
+        "addr:city": "Southampton",
+        "addr:postcode": "SO15 1AL",
+        "addr:street": "Western Esplanade",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Pure Gym",
+        "opening_hours": "24/7",
+        "website": "https://www.puregym.com/gyms/southampton-central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4124,
+              50.9063411
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204396428",
+      "properties": {
+        "@id": "way/204396428",
+        "leisure": "sports_centre",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3227778,
+              50.9258128
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204874210",
+      "properties": {
+        "@id": "way/204874210",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Accolade Health & Fitness",
+        "source": "accolade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.386573,
+              50.9169275
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239338824",
+      "properties": {
+        "@id": "way/239338824",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Easy Gym",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.43075,
+              50.9190453
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251871619",
+      "properties": {
+        "@id": "way/251871619",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Fitness Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3749994,
+              50.9372106
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311828220",
+      "properties": {
+        "@id": "way/311828220",
+        "access": "private",
+        "area": "yes",
+        "leisure": "sports_centre",
+        "name": "Basset Lawn Tennis Club",
+        "sport": "tennis",
+        "website": "http://www.bassett-tennis.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4217573,
+              50.924285
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555781681",
+      "properties": {
+        "@id": "node/1555781681",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "The Gym Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4044507,
+          50.9020654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/3031553",
+      "properties": {
+        "@id": "relation/3031553",
+        "leisure": "sports_centre",
+        "loc_ref": "39",
+        "name": "Wide Lane Sports Centre",
+        "operator": "University of Southampton",
+        "type": "Point",
+        "uri": "http://id.southampton.ac.uk/site/39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+              [
+                -1.369923,
+                50.954592
+              ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23186694",
+      "properties": {
+        "@id": "way/23186694",
+        "leisure": "sports_centre",
+        "name": "David Lloyd Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4629698,
+              50.9349328
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30041868",
+      "properties": {
+        "@id": "way/30041868",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Chamberlayne Leisure Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3614535,
+              50.8909823
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40598667",
+      "properties": {
+        "@id": "way/40598667",
+        "leisure": "pitch",
+        "sport": "cricket",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": "3031553",
+            "reltags": {
+              "leisure": "sports_centre",
+              "loc_ref": "39",
+              "name": "Wide Lane Sports Centre",
+              "operator": "University of Southampton",
+              "type": "multiPoint",
+              "uri": "http://id.southampton.ac.uk/site/39"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3663983,
+              50.948292
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47893232",
+      "properties": {
+        "@id": "way/47893232",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Bitterne Leisure Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.356782,
+              50.9160845
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93729745",
+      "properties": {
+        "@id": "way/93729745",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "loc_ref": "18",
+        "name": "Jubilee Sports Centre",
+        "uri": "http://id.southampton.ac.uk/building/18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.396916,
+              50.9335611
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109370509",
+      "properties": {
+        "@id": "way/109370509",
+        "leisure": "sports_centre",
+        "name": "Changing Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4205114,
+              50.9402174
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109850155",
+      "properties": {
+        "@id": "way/109850155",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "LA Fitness",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4254325,
+              50.929877
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/109901881",
+      "properties": {
+        "@id": "way/109901881",
+        "leisure": "sports_centre",
+        "name": "Southampton Sports Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4232515,
+              50.9428614
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152021569",
+      "properties": {
+        "@id": "way/152021569",
+        "addr:housename": "Squash Courts and Fitness Room",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "loc_ref": "73S",
+        "sport": "squash",
+        "uri": "http://id.southampton.ac.uk/building/73S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4013853,
+              50.9442013
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155028513",
+      "properties": {
+        "@id": "way/155028513",
+        "addr:city": "Eastleigh",
+        "addr:country": "GB",
+        "addr:postcode": "SO50 9HT",
+        "leisure": "sports_centre",
+        "name": "Wellington Sports Ground",
+        "operator": "King Edward VI School, Southampton",
+        "website": "http://www.kes.hants.sch.uk/find-us/wellington-sports-ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3747023,
+              50.9534041
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692904",
+      "properties": {
+        "@id": "way/183692904",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "134;135",
+        "addr:postcode": "SO14 2BR",
+        "addr:street": "High Street",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Ocean Gym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.404292,
+              50.8998683
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191973286",
+      "properties": {
+        "@id": "way/191973286",
+        "addr:city": "Southampton",
+        "addr:postcode": "SO15 1AL",
+        "addr:street": "Western Esplanade",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Pure Gym",
+        "opening_hours": "24/7",
+        "website": "https://www.puregym.com/gyms/southampton-central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4124,
+              50.9063411
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204396428",
+      "properties": {
+        "@id": "way/204396428",
+        "leisure": "sports_centre",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3227778,
+              50.9258128
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204874210",
+      "properties": {
+        "@id": "way/204874210",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Accolade Health & Fitness",
+        "source": "accolade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.386573,
+              50.9169275
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/239338824",
+      "properties": {
+        "@id": "way/239338824",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Easy Gym",
+        "sport": "gymnastics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.43075,
+              50.9190453
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251871619",
+      "properties": {
+        "@id": "way/251871619",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Fitness Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3749994,
+              50.9372106
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311828220",
+      "properties": {
+        "@id": "way/311828220",
+        "access": "private",
+        "area": "yes",
+        "leisure": "sports_centre",
+        "name": "Basset Lawn Tennis Club",
+        "sport": "tennis",
+        "website": "http://www.bassett-tennis.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4217573,
+              50.924285
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555781681",
+      "properties": {
+        "@id": "node/1555781681",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "The Gym Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4044507,
+          50.9020654
+        ]
+      }
+    }
+  ]
+}

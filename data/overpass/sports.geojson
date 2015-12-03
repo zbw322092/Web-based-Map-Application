@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/178231088",
+      "properties": {
+        "@id": "way/178231088",
+        "addr:housenumber": "96;96a",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "The Racquet Centre",
+        "shop": "sports",
+        "source:addr": "http://www.theracquetcentre.co.uk/",
+        "sport": "racquet",
+        "website": "http://www.theracquetcentre.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3794778,
+              50.9396715
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191972366",
+      "properties": {
+        "@id": "way/191972366",
+        "building": "yes",
+        "landuse": "retail",
+        "name": "Decathlon",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4098112,
+              50.9034155
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/191972368",
+      "properties": {
+        "@id": "way/191972368",
+        "building": "yes",
+        "landuse": "retail",
+        "name": "JD Sports",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4104197,
+              50.9043002
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612492100",
+      "properties": {
+        "@id": "node/612492100",
+        "name": "JD",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040966,
+          50.9047702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556321096",
+      "properties": {
+        "@id": "node/1556321096",
+        "name": "Holt and Haskell",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4293997,
+          50.9194387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839318",
+      "properties": {
+        "@id": "node/1592839318",
+        "name": "Sports Direct",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4055448,
+          50.9039414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153018439",
+      "properties": {
+        "@id": "way/153018439",
+        "building": "retail",
+        "name": "Woodmill Canoe Shop",
+        "shop": "outdoor",
+        "sport": "canoe",
+        "url": "http://www.woodmillcanoeshop.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3765369,
+              50.934866
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358516066",
+      "properties": {
+        "@id": "way/358516066",
+        "addr:city": "Southampton",
+        "addr:housename": "Oswald Bailey",
+        "addr:housenumber": "109",
+        "addr:postcode": "SO147FH",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Oswald Bailey",
+        "shop": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046335,
+              50.9064151
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2934813005",
+      "properties": {
+        "@id": "node/2934813005",
+        "name": "Go Outdoors",
+        "shop": "outdoor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4519305,
+          50.9141679
+        ]
+      }
+    }
+  ]
+}

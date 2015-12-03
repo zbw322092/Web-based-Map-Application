@@ -1,0 +1,477 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:12:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/122423082",
+      "properties": {
+        "@id": "way/122423082",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Shirley Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4291454,
+              50.9167345
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/147294246",
+      "properties": {
+        "@id": "way/147294246",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "West End Surgery",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3277133,
+              50.9285358
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32678442",
+      "properties": {
+        "@id": "way/32678442",
+        "amenity": "doctors",
+        "building": "yes",
+        "loc_ref": "48",
+        "name": "University Health Service",
+        "uri": "http://id.southampton.ac.uk/building/48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.399658,
+              50.9356598
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53059958",
+      "properties": {
+        "@id": "way/53059958",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Bitterne Health Clinic",
+        "note": "walk in centre",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3550244,
+              50.9154911
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/63231104",
+      "properties": {
+        "@id": "way/63231104",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Victor Street Surgery",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4324557,
+              50.9242825
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95347263",
+      "properties": {
+        "@id": "way/95347263",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Lords Hill Health Centre",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4489284,
+              50.9403652
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/110248116",
+      "properties": {
+        "@id": "way/110248116",
+        "amenity": "doctors",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4427414,
+              50.9271307
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148730262",
+      "properties": {
+        "@id": "way/148730262",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "66",
+        "addr:postcode": "SO19 9AL",
+        "addr:street": "Portsmouth Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Hazleleigh Medical Centre",
+        "website": "http://www.woolstonlodge.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3723898,
+              50.8972501
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148730890",
+      "properties": {
+        "@id": "way/148730890",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "68a",
+        "addr:postcode": "SO19 9AN",
+        "addr:street": "Portsmouth Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "The Old Fire Station Surgery",
+        "website": "http://www.oldfirestationsurgery.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3718135,
+              50.8970766
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149489081",
+      "properties": {
+        "@id": "way/149489081",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "357a",
+        "addr:postcode": "SO16 3BD",
+        "addr:street": "Burgess Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Burgess Road Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3873852,
+              50.9387559
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166098841",
+      "properties": {
+        "@id": "way/166098841",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "7",
+        "addr:postcode": "SO17 2GD",
+        "addr:street": "Belmont Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Portswood Solent Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3900063,
+              50.9224055
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195121148",
+      "properties": {
+        "@id": "way/195121148",
+        "amenity": "doctors",
+        "name": "West End Surgery",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3278491,
+              50.9280465
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208966057",
+      "properties": {
+        "@id": "way/208966057",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Ladies Walk House",
+        "addr:housenumber": "90",
+        "addr:street": "Thornhill Park Road",
+        "alt_name": "Thornhill Park Surgery",
+        "amenity": "doctors",
+        "building": "yes",
+        "fax": "+442380470004",
+        "name": "Ladies Walk Practice",
+        "opening_hours": "Mo 08:00-20:00;Tu-Fr 08:00-18:30",
+        "phone": "+442380462492",
+        "source": "Bing",
+        "website": "http://www.thornhillparksurgery.nhs.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3335884,
+              50.9146601
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223564246",
+      "properties": {
+        "@id": "way/223564246",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Regent's Park Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4356378,
+              50.9218427
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238299002",
+      "properties": {
+        "@id": "way/238299002",
+        "addr:city": "Southampton",
+        "addr:housenumber": "1",
+        "addr:street": "Shirley Avenue",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Shirley Avenue Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4303183,
+              50.9210654
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/271988390",
+      "properties": {
+        "@id": "way/271988390",
+        "addr:city": "Southampton",
+        "addr:housename": "Raymond Road Surgery",
+        "addr:housenumber": "32-34",
+        "addr:postcode": "SO15 5AL",
+        "addr:street": "Raymond Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Raymond Road Surgery",
+        "opening_hours": "8:00AM_9:00PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4192449,
+              50.9191682
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/280966429",
+      "properties": {
+        "@id": "way/280966429",
+        "addr:city": "Southampton",
+        "addr:housenumber": "162",
+        "addr:postcode": "SO15 5DD",
+        "addr:street": "Hill Lane",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Hill Lane Surgery",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+442380223086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4159936,
+              50.9170552
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351389474",
+      "properties": {
+        "@id": "way/351389474",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Thornhill Doctors Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3355564,
+              50.9098101
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430646816",
+      "properties": {
+        "@id": "node/430646816",
+        "amenity": "doctors",
+        "name": "Brooke House Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4451704,
+          50.921666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/676403255",
+      "properties": {
+        "@id": "node/676403255",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "70-75",
+        "addr:postcode": "SO14 2NW",
+        "addr:street": "High Street",
+        "amenity": "doctors",
+        "contact:phone": "023 8033 3778",
+        "name": "Telephone House Surgery",
+        "opening_hours": "Mo-Fr 08:30-12:45,13:30-18:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4037224,
+          50.8978443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243021",
+      "properties": {
+        "@id": "node/1556243021",
+        "amenity": "doctors",
+        "name": "Atherley House Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4216213,
+          50.9132766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602312512",
+      "properties": {
+        "@id": "node/1602312512",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3993549,
+          50.935665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3547486810",
+      "properties": {
+        "@id": "node/3547486810",
+        "addr:housename": "City Gateway",
+        "addr:postcode": "SO16 2JA",
+        "addr:street": "Parkville Road",
+        "amenity": "doctors",
+        "name": "Stoneham Lane Surgery",
+        "source:addr": "http://www.stonehamlanesurgery.nhs.uk/",
+        "website": "http://www.stonehamlanesurgery.nhs.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3782007,
+          50.9397803
+        ]
+      }
+    }
+  ]
+}

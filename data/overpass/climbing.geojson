@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:20:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3362564126",
+      "properties": {
+        "@id": "node/3362564126",
+        "addr:street": "St Marys Road",
+        "name": "Southampton Climbing Wall",
+        "sport": "climbing",
+        "website": "southamptonclimbingwall.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3993479,
+          50.9107714
+        ]
+      }
+    }
+  ]
+}

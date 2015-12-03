@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/33083115",
+      "properties": {
+        "@id": "way/33083115",
+        "leisure": "pitch",
+        "sport": "volleyball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4202434,
+              50.9392279
+            ],
+            [
+              -1.418795,
+              50.9391804
+            ],
+            [
+              -1.4187393,
+              50.939853
+            ],
+            [
+              -1.4201886,
+              50.9399
+            ],
+            [
+              -1.4202126,
+              50.9395869
+            ],
+            [
+              -1.4202434,
+              50.9392279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33083115",
+      "properties": {
+        "@id": "way/33083115",
+        "leisure": "pitch",
+        "sport": "volleyball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4202434,
+              50.9392279
+            ]
+      }
+    }
+  ]
+}

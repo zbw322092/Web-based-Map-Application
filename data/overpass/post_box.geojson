@@ -1,0 +1,3580 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/28236108",
+      "properties": {
+        "@id": "node/28236108",
+        "amenity": "post_box",
+        "odbl": "clean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3567411,
+          50.9077555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/42356506",
+      "properties": {
+        "@id": "node/42356506",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:30; Sa 11:30",
+        "operator": "Royal Mail",
+        "ref": "SO16 193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3980702,
+          50.9377886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/48884143",
+      "properties": {
+        "@id": "node/48884143",
+        "amenity": "post_box",
+        "created_by": "Potlatch 0.5a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4490049,
+          50.9407644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/48884446",
+      "properties": {
+        "@id": "node/48884446",
+        "amenity": "post_box",
+        "created_by": "Potlatch 0.5a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4518631,
+          50.9435388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/48884735",
+      "properties": {
+        "@id": "node/48884735",
+        "amenity": "post_box",
+        "created_by": "Potlatch alpha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4519891,
+          50.949032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/48885109",
+      "properties": {
+        "@id": "node/48885109",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4324518,
+          50.9443699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/76476012",
+      "properties": {
+        "@id": "node/76476012",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3970861,
+          50.8978324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/250156576",
+      "properties": {
+        "@id": "node/250156576",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3697716,
+          50.8930455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/251978320",
+      "properties": {
+        "@id": "node/251978320",
+        "amenity": "post_box",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.351575,
+          50.8944276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/251981675",
+      "properties": {
+        "@id": "node/251981675",
+        "amenity": "post_box",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3299848,
+          50.8992283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/251982715",
+      "properties": {
+        "@id": "node/251982715",
+        "amenity": "post_box",
+        "collection_plate": "CP1",
+        "collection_times": "Mo-Fr 18:00; Sa 11:30",
+        "post_box:type": "pillar",
+        "ref": "SO19 641",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320857,
+          50.9042336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252479901",
+      "properties": {
+        "@id": "node/252479901",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:00; Sa 11:30",
+        "drive_through": "no",
+        "operator": "Royal Mail",
+        "ref": "SO18 348",
+        "source": "Bing, Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3385814,
+          50.9146898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252479910",
+      "properties": {
+        "@id": "node/252479910",
+        "amenity": "post_box",
+        "ref": "SO18 269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3339376,
+          50.9203256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252482350",
+      "properties": {
+        "@id": "node/252482350",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3377323,
+          50.9036337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252641503",
+      "properties": {
+        "@id": "node/252641503",
+        "amenity": "post_box",
+        "collection_plate": "CP1D",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "post_box:type": "pillar",
+        "ref": "SO19 602D",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3293796,
+          50.9076601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253055309",
+      "properties": {
+        "@id": "node/253055309",
+        "amenity": "post_box",
+        "postal_code": "SO16",
+        "ref": "SO16 363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3905833,
+          50.938457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254164513",
+      "properties": {
+        "@id": "node/254164513",
+        "amenity": "post_box",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3429693,
+          50.8984764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/254174672",
+      "properties": {
+        "@id": "node/254174672",
+        "amenity": "post_box",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3664195,
+          50.9207414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263220050",
+      "properties": {
+        "@id": "node/263220050",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 12:30",
+        "operator": "Royal Mail",
+        "postal_code": "SO17",
+        "ref": "SO17 284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4010032,
+          50.9335014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263220051",
+      "properties": {
+        "@id": "node/263220051",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 12:15",
+        "operator": "Royal Mail",
+        "postal_code": "SO17",
+        "ref": "SO17 196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4002098,
+          50.9311152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/263225352",
+      "properties": {
+        "@id": "node/263225352",
+        "amenity": "post_box",
+        "postal_code": "SO17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3834672,
+          50.9219948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265806829",
+      "properties": {
+        "@id": "node/265806829",
+        "amenity": "post_box",
+        "ref": "SO18 179",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3758828,
+          50.924971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266545969",
+      "properties": {
+        "@id": "node/266545969",
+        "amenity": "post_box",
+        "ref": "SO14 105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969333,
+          50.9155091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/276277647",
+      "properties": {
+        "@id": "node/276277647",
+        "amenity": "post_box",
+        "ref": "SO15 135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.416052,
+          50.9274031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282711238",
+      "properties": {
+        "@id": "node/282711238",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3717797,
+          50.8879388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282715760",
+      "properties": {
+        "@id": "node/282715760",
+        "amenity": "post_box",
+        "ref": "SO19 218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3783841,
+          50.8984769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291980776",
+      "properties": {
+        "@id": "node/291980776",
+        "amenity": "post_box",
+        "odbl": "clean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051826,
+          50.9144248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355795",
+      "properties": {
+        "@id": "node/292355795",
+        "amenity": "post_box",
+        "postal_code": "SO14",
+        "ref": "SO14 765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3995081,
+          50.9111753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355796",
+      "properties": {
+        "@id": "node/292355796",
+        "amenity": "post_box",
+        "postal_code": "SO14",
+        "ref": "SO14 83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3987237,
+          50.9095687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355802",
+      "properties": {
+        "@id": "node/292355802",
+        "amenity": "post_box",
+        "odbl": "clean",
+        "postal_code": "SO14",
+        "ref": "SO14 92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4037946,
+          50.903117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355803",
+      "properties": {
+        "@id": "node/292355803",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 19:00; Sa 12:45",
+        "operator": "Royal Mail",
+        "post_box:type": "lamp",
+        "postal_code": "SO14",
+        "ref": "SO14 779",
+        "royal_cypher": "EIIR",
+        "source": "Bing, Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4044184,
+          50.9048534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355804",
+      "properties": {
+        "@id": "node/292355804",
+        "amenity": "post_box",
+        "ref": "SO15 394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.405285,
+          50.9089512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355811",
+      "properties": {
+        "@id": "node/292355811",
+        "amenity": "post_box",
+        "ref": "SO15 777;SO15 778;SO15 781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4037802,
+          50.9121645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355813",
+      "properties": {
+        "@id": "node/292355813",
+        "amenity": "post_box",
+        "odbl": "clean",
+        "ref": "SO17 71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4027638,
+          50.91534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292355819",
+      "properties": {
+        "@id": "node/292355819",
+        "amenity": "post_box",
+        "odbl": "clean",
+        "postal_code": "SO17",
+        "ref": "SO17 185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3899517,
+          50.9217951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293464238",
+      "properties": {
+        "@id": "node/293464238",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3340638,
+          50.9081747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293465199",
+      "properties": {
+        "@id": "node/293465199",
+        "amenity": "post_box",
+        "created_by": "Potlatch 0.10b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3347057,
+          50.9120156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/320125074",
+      "properties": {
+        "@id": "node/320125074",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 19:00; Sa 12:45",
+        "operator": "Royal Mail",
+        "postal_code": "SO14",
+        "ref": "SO14 780",
+        "source": "Bing, Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043982,
+          50.9048433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/322573848",
+      "properties": {
+        "@id": "node/322573848",
+        "amenity": "post_box",
+        "postal_code": "SO17",
+        "ref": "SO17 342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3959647,
+          50.9297174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/336015476",
+      "properties": {
+        "@id": "node/336015476",
+        "amenity": "post_box",
+        "postal_code": "SO14",
+        "ref": "SO14 157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3960908,
+          50.9165833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/342200074",
+      "properties": {
+        "@id": "node/342200074",
+        "amenity": "post_box",
+        "postal_code": "SO15",
+        "ref": "SO15 146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4092948,
+          50.9208504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/342204527",
+      "properties": {
+        "@id": "node/342204527",
+        "amenity": "post_box",
+        "ref": "SO16 305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4397147,
+          50.9252335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357203998",
+      "properties": {
+        "@id": "node/357203998",
+        "amenity": "post_box",
+        "postal_code": "SO15",
+        "ref": "SO15 69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4205643,
+          50.9121657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357204000",
+      "properties": {
+        "@id": "node/357204000",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 10:45",
+        "operator": "Royal Mail",
+        "postal_code": "SO16",
+        "ref": "SO16 198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.410616,
+          50.9353889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357204002",
+      "properties": {
+        "@id": "node/357204002",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:30; Sa 12:30",
+        "operator": "Royal Mail",
+        "postal_code": "SO16",
+        "ref": "SO16 77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4239219,
+          50.9318099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357204006",
+      "properties": {
+        "@id": "node/357204006",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 12:30",
+        "operator": "Royal Mail",
+        "postal_code": "SO16",
+        "ref": "SO16 112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.430432,
+          50.9286039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357204007",
+      "properties": {
+        "@id": "node/357204007",
+        "amenity": "post_box",
+        "postal_code": "SO15",
+        "ref": "SO15 65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4321332,
+          50.9238259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/367030114",
+      "properties": {
+        "@id": "node/367030114",
+        "amenity": "post_box",
+        "postal_code": "SO17",
+        "ref": "SO17 86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4031619,
+          50.929994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369680687",
+      "properties": {
+        "@id": "node/369680687",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO30 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3384952,
+          50.924144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369681784",
+      "properties": {
+        "@id": "node/369681784",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO30 200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3278865,
+          50.9272278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369682048",
+      "properties": {
+        "@id": "node/369682048",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO30 161;SO30 720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3353415,
+          50.9276752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369682336",
+      "properties": {
+        "@id": "node/369682336",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO30 611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3308133,
+          50.9305386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/376540574",
+      "properties": {
+        "@id": "node/376540574",
+        "amenity": "post_box",
+        "created_by": "Potlatch 0.10f",
+        "ref": "SO30 656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3330043,
+          50.9232985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378331453",
+      "properties": {
+        "@id": "node/378331453",
+        "amenity": "post_box",
+        "created_by": "Merkaartor 0.12",
+        "ref": "SO30 616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3396669,
+          50.9390099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378331458",
+      "properties": {
+        "@id": "node/378331458",
+        "amenity": "post_box",
+        "ref": "SO30 613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3474936,
+          50.9354509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378331468",
+      "properties": {
+        "@id": "node/378331468",
+        "amenity": "post_box",
+        "created_by": "Merkaartor 0.12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35324,
+          50.929239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378454576",
+      "properties": {
+        "@id": "node/378454576",
+        "amenity": "post_box",
+        "created_by": "Merkaartor 0.12",
+        "ref": "SO18 142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3496659,
+          50.933357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378454587",
+      "properties": {
+        "@id": "node/378454587",
+        "amenity": "post_box",
+        "created_by": "Merkaartor 0.12",
+        "ref": "SO18 791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3491299,
+          50.926308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378454597",
+      "properties": {
+        "@id": "node/378454597",
+        "amenity": "post_box",
+        "ref": "SO30 228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3457461,
+          50.9304701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/378454609",
+      "properties": {
+        "@id": "node/378454609",
+        "amenity": "post_box",
+        "created_by": "Merkaartor 0.12",
+        "ref": "SO30 722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3377569,
+          50.933163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/385774745",
+      "properties": {
+        "@id": "node/385774745",
+        "amenity": "post_box",
+        "ref": "SO15 317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4104199,
+          50.9122921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/387517883",
+      "properties": {
+        "@id": "node/387517883",
+        "amenity": "post_box",
+        "ref": "SO18 194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3664085,
+          50.9298616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/389504859",
+      "properties": {
+        "@id": "node/389504859",
+        "amenity": "post_box",
+        "ref": "SO15 205",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4159941,
+          50.9171041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/394139321",
+      "properties": {
+        "@id": "node/394139321",
+        "amenity": "post_box",
+        "ref": "SO15 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4157604,
+          50.9114831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/417944640",
+      "properties": {
+        "@id": "node/417944640",
+        "amenity": "post_box",
+        "ref": "SO17 111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3883358,
+          50.9360409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/428614136",
+      "properties": {
+        "@id": "node/428614136",
+        "amenity": "post_box",
+        "ref": "SO15 281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4652834,
+          50.920516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/429310459",
+      "properties": {
+        "@id": "node/429310459",
+        "amenity": "post_box",
+        "ref": "SO17 93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3950237,
+          50.9231598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443397795",
+      "properties": {
+        "@id": "node/443397795",
+        "amenity": "post_box",
+        "ref": "SO18 85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3755991,
+          50.928942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445151812",
+      "properties": {
+        "@id": "node/445151812",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 12:15",
+        "operator": "Royal Mail",
+        "post_box:type": "pillar",
+        "ref": "SO15 1",
+        "royal_cypher": "GR",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4137132,
+          50.9077486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445151813",
+      "properties": {
+        "@id": "node/445151813",
+        "amenity": "post_box",
+        "ref": "SO15 90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4084453,
+          50.9097704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/445151814",
+      "properties": {
+        "@id": "node/445151814",
+        "amenity": "post_box",
+        "ref": "SO14 733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3930194,
+          50.9188856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/450135262",
+      "properties": {
+        "@id": "node/450135262",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3604606,
+          50.9094672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452531564",
+      "properties": {
+        "@id": "node/452531564",
+        "amenity": "post_box",
+        "ref": "SO18 45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3448308,
+          50.9229367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452653429",
+      "properties": {
+        "@id": "node/452653429",
+        "amenity": "post_box",
+        "ref": "SO15 795",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4316869,
+          50.9194627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/452653442",
+      "properties": {
+        "@id": "node/452653442",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 12:30",
+        "ref": "SO15 428",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.430799,
+          50.9210932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/454124271",
+      "properties": {
+        "@id": "node/454124271",
+        "amenity": "post_box",
+        "ref": "SO17 238",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.382689,
+          50.9336771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/454224579",
+      "properties": {
+        "@id": "node/454224579",
+        "amenity": "post_box",
+        "ref": "SO18 124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3412512,
+          50.9213196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455031522",
+      "properties": {
+        "@id": "node/455031522",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 12:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4592759,
+          50.9304971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455031524",
+      "properties": {
+        "@id": "node/455031524",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:30; Sa 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4483431,
+          50.9314372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455457593",
+      "properties": {
+        "@id": "node/455457593",
+        "amenity": "post_box",
+        "ref": "SO18 426",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3705956,
+          50.9325501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/455457595",
+      "properties": {
+        "@id": "node/455457595",
+        "amenity": "post_box",
+        "ref": "SO18 160",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3783597,
+          50.9367549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/457411382",
+      "properties": {
+        "@id": "node/457411382",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 11:15",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4114889,
+          50.9175594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461258573",
+      "properties": {
+        "@id": "node/461258573",
+        "amenity": "post_box",
+        "ref": "SO17 242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3968583,
+          50.9255144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461643838",
+      "properties": {
+        "@id": "node/461643838",
+        "amenity": "post_box",
+        "name": "Butts Road outside Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3482612,
+          50.8989736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/462858295",
+      "properties": {
+        "@id": "node/462858295",
+        "amenity": "post_box",
+        "ref": "SO16 365",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.380212,
+          50.9412786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/469397103",
+      "properties": {
+        "@id": "node/469397103",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4652998,
+          50.9381965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/502594639",
+      "properties": {
+        "@id": "node/502594639",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 11:30",
+        "operator": "Royal Mail",
+        "ref": "SO16 498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4282156,
+          50.933911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/506365325",
+      "properties": {
+        "@id": "node/506365325",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:45; Sa 11:00",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4764251,
+          50.9352593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/525576080",
+      "properties": {
+        "@id": "node/525576080",
+        "amenity": "post_box",
+        "ref": "SO16 393",
+        "source": "survey; Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4032958,
+          50.9424366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/525576083",
+      "properties": {
+        "@id": "node/525576083",
+        "amenity": "post_box",
+        "ref": "SO16 9",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048876,
+          50.9461951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/535160587",
+      "properties": {
+        "@id": "node/535160587",
+        "amenity": "post_box",
+        "ele": "125.000000",
+        "ref": "SO18 688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3485772,
+          50.9224315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/541172407",
+      "properties": {
+        "@id": "node/541172407",
+        "amenity": "post_box",
+        "ref": "SO18 359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3540233,
+          50.921368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/549778549",
+      "properties": {
+        "@id": "node/549778549",
+        "amenity": "post_box",
+        "ref": "SO14 94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3988896,
+          50.9178618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/570699974",
+      "properties": {
+        "@id": "node/570699974",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4278172,
+          50.9177922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/585219446",
+      "properties": {
+        "@id": "node/585219446",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:30; Sa 12:15",
+        "drive_through": "no",
+        "post_box:type": "pillar",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4039957,
+          50.901517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/585219447",
+      "properties": {
+        "@id": "node/585219447",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "drive_through": "no",
+        "operator": "Royal Mail",
+        "ref": "SO14 227D",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4040641,
+          50.9017713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/588144751",
+      "properties": {
+        "@id": "node/588144751",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3514749,
+          50.9146352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/591052274",
+      "properties": {
+        "@id": "node/591052274",
+        "amenity": "post_box",
+        "ref": "SO18 589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3700923,
+          50.9390687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/597600077",
+      "properties": {
+        "@id": "node/597600077",
+        "amenity": "post_box",
+        "ref": "SO18 233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3698117,
+          50.916816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602279173",
+      "properties": {
+        "@id": "node/602279173",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4470808,
+          50.9362522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/603794180",
+      "properties": {
+        "@id": "node/603794180",
+        "amenity": "post_box",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4639996,
+          50.9279947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/610513730",
+      "properties": {
+        "@id": "node/610513730",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4393642,
+          50.9449687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/618437107",
+      "properties": {
+        "@id": "node/618437107",
+        "amenity": "post_box",
+        "ref": "SO15 401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4251462,
+          50.9198074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/618437108",
+      "properties": {
+        "@id": "node/618437108",
+        "amenity": "post_box",
+        "ref": "SO15 278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4213471,
+          50.9211578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/618437109",
+      "properties": {
+        "@id": "node/618437109",
+        "amenity": "post_box",
+        "ref": "SO15 405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4190512,
+          50.9237545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/618437110",
+      "properties": {
+        "@id": "node/618437110",
+        "amenity": "post_box",
+        "ref": "SO17 435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4001429,
+          50.9285968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/632890797",
+      "properties": {
+        "@id": "node/632890797",
+        "amenity": "post_box",
+        "odbl": "clean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4328623,
+          50.9173155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/641872060",
+      "properties": {
+        "@id": "node/641872060",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.441979,
+          50.9218179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/641872650",
+      "properties": {
+        "@id": "node/641872650",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4358872,
+          50.9216844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/641876558",
+      "properties": {
+        "@id": "node/641876558",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4413242,
+          50.9167942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642989989",
+      "properties": {
+        "@id": "node/642989989",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:30; Sa 12:30",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4344652,
+          50.9235758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642990534",
+      "properties": {
+        "@id": "node/642990534",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4478441,
+          50.9140458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642991618",
+      "properties": {
+        "@id": "node/642991618",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4520498,
+          50.9145328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/645714918",
+      "properties": {
+        "@id": "node/645714918",
+        "amenity": "post_box",
+        "collection_plate": "CP7D",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "post_box:type": "lamp",
+        "ref": "SO30 375D",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3245725,
+          50.9133321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/652893786",
+      "properties": {
+        "@id": "node/652893786",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4064887,
+          50.9122312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/653290496",
+      "properties": {
+        "@id": "node/653290496",
+        "amenity": "post_box",
+        "odbl": "clean",
+        "ref": "SO16 514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4076261,
+          50.9529041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663074895",
+      "properties": {
+        "@id": "node/663074895",
+        "amenity": "post_box",
+        "ref": "SO16 167",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3903216,
+          50.9448016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663074990",
+      "properties": {
+        "@id": "node/663074990",
+        "amenity": "post_box",
+        "ref": "SO16 43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4004936,
+          50.9497433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/668141881",
+      "properties": {
+        "@id": "node/668141881",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "operator": "Royal Mail",
+        "post_box:type": "pillar",
+        "ref": "SO14 319D",
+        "royal_cypher": "GR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4059669,
+          50.8984498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767290",
+      "properties": {
+        "@id": "node/671767290",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4232506,
+          50.9144826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/814283768",
+      "properties": {
+        "@id": "node/814283768",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4607003,
+          50.9194642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/824799613",
+      "properties": {
+        "@id": "node/824799613",
+        "amenity": "post_box",
+        "ref": "SO19 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3772057,
+          50.8928058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919729617",
+      "properties": {
+        "@id": "node/919729617",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048251,
+          50.8957131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/943281255",
+      "properties": {
+        "@id": "node/943281255",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.404754,
+          50.8958932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/945898410",
+      "properties": {
+        "@id": "node/945898410",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.448968,
+          50.9409041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1014688738",
+      "properties": {
+        "@id": "node/1014688738",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.371394,
+          50.9247416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1033572690",
+      "properties": {
+        "@id": "node/1033572690",
+        "amenity": "post_box",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4014248,
+          50.9230093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038084930",
+      "properties": {
+        "@id": "node/1038084930",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4255203,
+          50.9112534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1128156629",
+      "properties": {
+        "@id": "node/1128156629",
+        "amenity": "post_box",
+        "ref": "SO16 304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3800678,
+          50.9383684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1159928978",
+      "properties": {
+        "@id": "node/1159928978",
+        "amenity": "post_box",
+        "source": "Bing;local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3756393,
+          50.9176079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1169658038",
+      "properties": {
+        "@id": "node/1169658038",
+        "amenity": "post_box",
+        "source": "Bing;local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4024989,
+          50.9110236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1194256900",
+      "properties": {
+        "@id": "node/1194256900",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3583458,
+          50.894062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1195823100",
+      "properties": {
+        "@id": "node/1195823100",
+        "amenity": "post_box",
+        "source": "local_knowledge;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3737216,
+          50.9058661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1200606171",
+      "properties": {
+        "@id": "node/1200606171",
+        "amenity": "post_box",
+        "source": "local_knowledge; Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3811082,
+          50.9247059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1200606172",
+      "properties": {
+        "@id": "node/1200606172",
+        "amenity": "post_box",
+        "ref": "SO19 217",
+        "source": "Bing;local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3761798,
+          50.8951634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1208904304",
+      "properties": {
+        "@id": "node/1208904304",
+        "amenity": "post_box",
+        "ref": "SO17 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3952532,
+          50.9192549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1229560265",
+      "properties": {
+        "@id": "node/1229560265",
+        "amenity": "post_box",
+        "ref": "SO14 141",
+        "source": "local_knowledge;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4010422,
+          50.9217664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1239176341",
+      "properties": {
+        "@id": "node/1239176341",
+        "amenity": "post_box",
+        "ref": "SO19 221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3798022,
+          50.8960017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1241388321",
+      "properties": {
+        "@id": "node/1241388321",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3949383,
+          50.9320738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1255679117",
+      "properties": {
+        "@id": "node/1255679117",
+        "amenity": "post_box",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4357965,
+          50.9263769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1259814541",
+      "properties": {
+        "@id": "node/1259814541",
+        "amenity": "post_box",
+        "note": "ref missing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3943974,
+          50.9001598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1259814543",
+      "properties": {
+        "@id": "node/1259814543",
+        "amenity": "post_box",
+        "ref": "SO15 667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4109748,
+          50.9019351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1269292473",
+      "properties": {
+        "@id": "node/1269292473",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4054535,
+          50.9071616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1336852144",
+      "properties": {
+        "@id": "node/1336852144",
+        "amenity": "post_box",
+        "ref": "SO15 67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.422897,
+          50.9092523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1425096394",
+      "properties": {
+        "@id": "node/1425096394",
+        "amenity": "post_box",
+        "ref": "SO16 154",
+        "source": "Bing; Local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4052558,
+          50.950266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1477556006",
+      "properties": {
+        "@id": "node/1477556006",
+        "amenity": "post_box",
+        "ref": "SO18 219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3730394,
+          50.9260793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1477558468",
+      "properties": {
+        "@id": "node/1477558468",
+        "amenity": "post_box",
+        "ref": "SO18 346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3708269,
+          50.9285687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1477858745",
+      "properties": {
+        "@id": "node/1477858745",
+        "amenity": "post_box",
+        "ref": "SO18 453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.373016,
+          50.9196011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556159289",
+      "properties": {
+        "@id": "node/1556159289",
+        "amenity": "post_box",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3966634,
+          50.9060973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154060",
+      "properties": {
+        "@id": "node/1602154060",
+        "amenity": "post_box",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4067828,
+          50.9034353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1657576542",
+      "properties": {
+        "@id": "node/1657576542",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4171588,
+          50.9042896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1703369749",
+      "properties": {
+        "@id": "node/1703369749",
+        "amenity": "post_box",
+        "ref": "SO31 715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3216851,
+          50.8911755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1710485802",
+      "properties": {
+        "@id": "node/1710485802",
+        "amenity": "post_box",
+        "ref": "SO31 140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.327106,
+          50.8882712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1710490915",
+      "properties": {
+        "@id": "node/1710490915",
+        "amenity": "post_box",
+        "ref": "SO31 554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3231963,
+          50.8853153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1909294997",
+      "properties": {
+        "@id": "node/1909294997",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:45; Sa 13:00",
+        "operator": "Royal Mail",
+        "post_box:type": "pillar",
+        "ref": "SO14 494",
+        "royal_cypher": "GVIR",
+        "source": "survey; bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4130631,
+          50.9072307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428246",
+      "properties": {
+        "@id": "node/2090428246",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4385091,
+          50.930131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428258",
+      "properties": {
+        "@id": "node/2090428258",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4479747,
+          50.9224368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428270",
+      "properties": {
+        "@id": "node/2090428270",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4416661,
+          50.9339606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2090428273",
+      "properties": {
+        "@id": "node/2090428273",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4633223,
+          50.9243727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2091196161",
+      "properties": {
+        "@id": "node/2091196161",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.418065,
+          50.9346396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2091196165",
+      "properties": {
+        "@id": "node/2091196165",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4127784,
+          50.9525318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2091196176",
+      "properties": {
+        "@id": "node/2091196176",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4422103,
+          50.9196911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115087361",
+      "properties": {
+        "@id": "node/2115087361",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4327424,
+          50.9216885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115087386",
+      "properties": {
+        "@id": "node/2115087386",
+        "amenity": "post_box",
+        "ref": "SO15 213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4212439,
+          50.9186339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2115087389",
+      "properties": {
+        "@id": "node/2115087389",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4270421,
+          50.9171723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2130469164",
+      "properties": {
+        "@id": "node/2130469164",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO15 59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4200196,
+          50.9362138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2130472045",
+      "properties": {
+        "@id": "node/2130472045",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO16 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4295911,
+          50.9382818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2140838557",
+      "properties": {
+        "@id": "node/2140838557",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4639496,
+          50.8907146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2150761210",
+      "properties": {
+        "@id": "node/2150761210",
+        "amenity": "post_box",
+        "collection_plate": "CP1D",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "drive_through": "no",
+        "operator": "Royal Mail",
+        "post_box:type": "pillar",
+        "ref": "SO19 621D",
+        "royal_cypher": "EIIR",
+        "source": "Bing, Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3293686,
+          50.9105804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913365",
+      "properties": {
+        "@id": "node/2161913365",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3590487,
+          50.9261616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913436",
+      "properties": {
+        "@id": "node/2161913436",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4066981,
+          50.91708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913441",
+      "properties": {
+        "@id": "node/2161913441",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.363599,
+          50.9335255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913456",
+      "properties": {
+        "@id": "node/2161913456",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3625408,
+          50.9216913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161922106",
+      "properties": {
+        "@id": "node/2161922106",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4508188,
+          50.9280358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2185505646",
+      "properties": {
+        "@id": "node/2185505646",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3853902,
+          50.9302066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2185507075",
+      "properties": {
+        "@id": "node/2185507075",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3906238,
+          50.9314022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2191677808",
+      "properties": {
+        "@id": "node/2191677808",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 19:30; Sa 14:00",
+        "drive_through": "no",
+        "operator": "Royal Mail",
+        "ref": "SO18 104",
+        "source": "Bing, Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3629026,
+          50.9486672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2196327412",
+      "properties": {
+        "@id": "node/2196327412",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:00; Sa 11:15",
+        "operator": "Royal Mail",
+        "ref": "SO18 749",
+        "source": "Bing, Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3340675,
+          50.9148781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2268308267",
+      "properties": {
+        "@id": "node/2268308267",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "drive_through": "no",
+        "operator": "Royal Mail",
+        "post_box:type": "pillar",
+        "ref": "SO14 61D",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3995043,
+          50.8993378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272636111",
+      "properties": {
+        "@id": "node/2272636111",
+        "amenity": "post_box",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3793699,
+          50.9171008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2295047545",
+      "properties": {
+        "@id": "node/2295047545",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973037,
+          50.9464832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2295610797",
+      "properties": {
+        "@id": "node/2295610797",
+        "amenity": "post_box",
+        "operator": "University of Southampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973603,
+          50.9342541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215813",
+      "properties": {
+        "@id": "node/2400215813",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3700482,
+          50.9089607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215823",
+      "properties": {
+        "@id": "node/2400215823",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3772312,
+          50.9006609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215864",
+      "properties": {
+        "@id": "node/2400215864",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3633038,
+          50.9137087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821472",
+      "properties": {
+        "@id": "node/2415821472",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3879856,
+          50.9114663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821557",
+      "properties": {
+        "@id": "node/2415821557",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3593449,
+          50.904186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821669",
+      "properties": {
+        "@id": "node/2415821669",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3496528,
+          50.9065621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415821704",
+      "properties": {
+        "@id": "node/2415821704",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3721055,
+          50.9149496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946897",
+      "properties": {
+        "@id": "node/2415946897",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4386631,
+          50.9196399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946920",
+      "properties": {
+        "@id": "node/2415946920",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.365286,
+          50.9178382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946924",
+      "properties": {
+        "@id": "node/2415946924",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4564167,
+          50.9249473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946925",
+      "properties": {
+        "@id": "node/2415946925",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3679065,
+          50.9251806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2415946936",
+      "properties": {
+        "@id": "node/2415946936",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4486678,
+          50.9265069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2423421599",
+      "properties": {
+        "@id": "node/2423421599",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3848757,
+          50.9436118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2424833450",
+      "properties": {
+        "@id": "node/2424833450",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4608584,
+          50.950592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449939410",
+      "properties": {
+        "@id": "node/2449939410",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3697822,
+          50.9047154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2449939411",
+      "properties": {
+        "@id": "node/2449939411",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3735507,
+          50.901307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450390347",
+      "properties": {
+        "@id": "node/2450390347",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3479331,
+          50.9038982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450390357",
+      "properties": {
+        "@id": "node/2450390357",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3455158,
+          50.9125665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450404459",
+      "properties": {
+        "@id": "node/2450404459",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3484843,
+          50.9176165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450404460",
+      "properties": {
+        "@id": "node/2450404460",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3570057,
+          50.9183732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450404480",
+      "properties": {
+        "@id": "node/2450404480",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3640237,
+          50.9258347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2469990558",
+      "properties": {
+        "@id": "node/2469990558",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3887736,
+          50.9296197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2471139275",
+      "properties": {
+        "@id": "node/2471139275",
+        "amenity": "post_box",
+        "ref": "SO19 600",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3633106,
+          50.8865869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2529241189",
+      "properties": {
+        "@id": "node/2529241189",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4067396,
+          50.9420245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2529432375",
+      "properties": {
+        "@id": "node/2529432375",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.408782,
+          50.9496271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2574574878",
+      "properties": {
+        "@id": "node/2574574878",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3763515,
+          50.9061795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603022570",
+      "properties": {
+        "@id": "node/2603022570",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3676265,
+          50.9130859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661431883",
+      "properties": {
+        "@id": "node/2661431883",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3526382,
+          50.8893332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661431889",
+      "properties": {
+        "@id": "node/2661431889",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3677898,
+          50.8867393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661431921",
+      "properties": {
+        "@id": "node/2661431921",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3572382,
+          50.8872824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2754210048",
+      "properties": {
+        "@id": "node/2754210048",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4238347,
+          50.9454263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2775586230",
+      "properties": {
+        "@id": "node/2775586230",
+        "amenity": "post_box",
+        "operator": "Royal Mail",
+        "ref": "SO16 759",
+        "royal_cypher": "EIIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4341957,
+          50.933532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779147125",
+      "properties": {
+        "@id": "node/2779147125",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3854413,
+          50.924779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2880177758",
+      "properties": {
+        "@id": "node/2880177758",
+        "amenity": "post_box",
+        "operator": "Royal Mail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403282,
+          50.9249518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3202269584",
+      "properties": {
+        "@id": "node/3202269584",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4524625,
+          50.9215891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3656848959",
+      "properties": {
+        "@id": "node/3656848959",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3924177,
+          50.9258061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3657685432",
+      "properties": {
+        "@id": "node/3657685432",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4135866,
+          50.9152643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3657685436",
+      "properties": {
+        "@id": "node/3657685436",
+        "amenity": "post_box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036395,
+          50.9188561
+        ]
+      }
+    }
+  ]
+}

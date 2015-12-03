@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:51:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/113617760",
+      "properties": {
+        "@id": "way/113617760",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "263",
+        "addr:postcode": "SO17 2NG",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "Good Looks",
+        "shop": "beauty",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3913904,
+              50.9270409
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149855642",
+      "properties": {
+        "@id": "way/149855642",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "196",
+        "addr:postcode": "SO17 2LB",
+        "addr:street": "Portswood Road",
+        "building": "yes",
+        "name": "3D Nails",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3910503,
+              50.9267205
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305296883",
+      "properties": {
+        "@id": "way/305296883",
+        "addr:full": "5 Market Buildings, High Road, Swaythling, Southampton, SO16 2HW",
+        "addr:housenumber": "5",
+        "addr:postcode": "SO16 2HW",
+        "addr:street": "Market Buildings",
+        "name": "Little Hair House",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3790254,
+              50.9405678
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/348709064",
+      "properties": {
+        "@id": "way/348709064",
+        "addr:housenumber": "72",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "Layla's Nails",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3798113,
+              50.9390438
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363293917",
+      "properties": {
+        "@id": "way/363293917",
+        "addr:city": "Southampton",
+        "addr:housenumber": "11A",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "building": "yes",
+        "name": "Beau Lounge",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.421571,
+              50.9208338
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556243057",
+      "properties": {
+        "@id": "node/1556243057",
+        "name": "Talons and Tanfastic",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4231716,
+          50.9146143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556321087",
+      "properties": {
+        "@id": "node/1556321087",
+        "name": "Consol Sun Centre",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429794,
+          50.9197464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154049",
+      "properties": {
+        "@id": "node/1602154049",
+        "name": "The Body Shop",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4080514,
+          50.9034336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2321913884",
+      "properties": {
+        "@id": "node/2321913884",
+        "name": "LA Nails",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4278874,
+          50.9183431
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1592774806",
+      "properties": {
+        "@id": "node/1592774806",
+        "name": "Gamestation",
+        "shop": "games"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4041086,
+          50.9052176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839321",
+      "properties": {
+        "@id": "node/1592839321",
+        "name": "Game",
+        "shop": "games"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051425,
+          50.9038229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190849461",
+      "properties": {
+        "@id": "way/190849461",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "77",
+        "addr:postcode": "SO15 2AA",
+        "addr:street": "London Road",
+        "building": "yes",
+        "name": "Richer Sounds",
+        "shop": "hifi",
+        "website": "http://www.richersounds.com/stores/southampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4033564,
+              50.9126753
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774855",
+      "properties": {
+        "@id": "node/1592774855",
+        "name": "Panasonic Store",
+        "shop": "hifi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.404122,
+          50.9053986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143044796",
+      "properties": {
+        "@id": "way/143044796",
+        "building": "yes",
+        "name": "HMV",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4035672,
+              50.9043153
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1760705100",
+      "properties": {
+        "@id": "node/1760705100",
+        "name": "Becketts music instruments",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4122188,
+          50.9086319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811309803",
+      "properties": {
+        "@id": "node/1811309803",
+        "name": "Fret Music",
+        "shop": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4324832,
+          50.9228652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160643252",
+      "properties": {
+        "@id": "way/160643252",
+        "addr:housenumber": "30",
+        "addr:postcode": "SO17 2NE",
+        "addr:street": "Addis Square",
+        "name": "Music-X-Change",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.393745,
+              50.925051
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181509343",
+      "properties": {
+        "@id": "way/181509343",
+        "building": "yes",
+        "name": "Guitarcentral",
+        "shop": "musical_instrument",
+        "website": "http://www.guitarcentralshop.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4037861,
+              50.9028746
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556190330",
+      "properties": {
+        "@id": "node/1556190330",
+        "name": "Digital Village",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3966204,
+          50.9038866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179303",
+      "properties": {
+        "@id": "node/2029179303",
+        "name": "Triangle Pianos",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3756732,
+          50.9249422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184138073",
+      "properties": {
+        "@id": "way/184138073",
+        "addr:housenumber": "7A",
+        "building": "shopping",
+        "name": "Blockbuster",
+        "shop": "video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4320503,
+              50.9208295
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208918424",
+      "properties": {
+        "@id": "way/208918424",
+        "addr:housenumber": "60",
+        "building": "commercial",
+        "name": "Blockbuster",
+        "operator": "Blockbuster",
+        "rental": "yes",
+        "shop": "video",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3360501,
+              50.9145038
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612526464",
+      "properties": {
+        "@id": "node/612526464",
+        "name": "Game",
+        "shop": "video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4037995,
+          50.9006948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/731435740",
+      "properties": {
+        "@id": "node/731435740",
+        "name": "Sholing Video Film Library",
+        "shop": "video"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3565887,
+          50.8993555
+        ]
+      }
+    }
+  ]
+}

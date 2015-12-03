@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:19:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/153018439",
+      "properties": {
+        "@id": "way/153018439",
+        "building": "retail",
+        "name": "Woodmill Canoe Shop",
+        "shop": "outdoor",
+        "sport": "canoe",
+        "url": "http://www.woodmillcanoeshop.co.uk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3765369,
+              50.934866
+            ],
+            [
+              -1.3765883,
+              50.9346823
+            ],
+            [
+              -1.3762824,
+              50.9346483
+            ],
+            [
+              -1.376265,
+              50.9347103
+            ],
+            [
+              -1.3763873,
+              50.9347239
+            ],
+            [
+              -1.3763533,
+              50.9348456
+            ],
+            [
+              -1.3765369,
+              50.934866
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153018439",
+      "properties": {
+        "@id": "way/153018439",
+        "building": "retail",
+        "name": "Woodmill Canoe Shop",
+        "shop": "outdoor",
+        "sport": "canoe",
+        "url": "http://www.woodmillcanoeshop.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3765369,
+              50.934866
+            ]
+      }
+    }
+  ]
+}

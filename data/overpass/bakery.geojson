@@ -1,0 +1,289 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:36:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123078081",
+      "properties": {
+        "@id": "way/123078081",
+        "addr:housenumber": "45",
+        "building": "shopping",
+        "name": "Greggs",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4326081,
+              50.922076
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/131894131",
+      "properties": {
+        "@id": "way/131894131",
+        "addr:city": "Southampton",
+        "addr:housenumber": "K",
+        "addr:postcode": "SO19 8NE",
+        "addr:street": "Antelope Park",
+        "building": "yes",
+        "name": "Greggs",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:30; Su 09:00-16:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3393069,
+              50.9056815
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148590571",
+      "properties": {
+        "@id": "way/148590571",
+        "addr:housenumber": "216a",
+        "addr:street": "Burgess Road",
+        "building": "yes",
+        "name": "Hoffers Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3910268,
+              50.9381635
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184143324",
+      "properties": {
+        "@id": "way/184143324",
+        "addr:housenumber": "2",
+        "addr:street": "Gordon Buildings",
+        "building": "shopping",
+        "name": "Plested Pies",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4315514,
+              50.9209887
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190393740",
+      "properties": {
+        "@id": "way/190393740",
+        "building": "yes",
+        "name": "JH Bigland",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3966426,
+              50.9057373
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196001529",
+      "properties": {
+        "@id": "way/196001529",
+        "addr:housenumber": "7",
+        "addr:street": "Midanbury Broadway",
+        "building": "retail",
+        "name": "Midanbury Bakery",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3642574,
+              50.925729
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358516695",
+      "properties": {
+        "@id": "way/358516695",
+        "addr:city": "Southampton",
+        "addr:housename": "Greggs",
+        "addr:housenumber": "101",
+        "addr:postcode": "SO147FG",
+        "addr:street": "Above Bar Street",
+        "building": "yes",
+        "name": "Greggs",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046504,
+              50.9062011
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362744368",
+      "properties": {
+        "@id": "way/362744368",
+        "addr:city": "Southampton",
+        "addr:housename": "Love Cake",
+        "addr:housenumber": "21",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "building": "yes",
+        "name": "Love Cake",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4219142,
+              50.9211365
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/339139137",
+      "properties": {
+        "@id": "node/339139137",
+        "addr:housenumber": "42",
+        "addr:street": "Victoria Road",
+        "fixme": "location approximate",
+        "name": "The Oven Door",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3800565,
+          50.8969005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556261546",
+      "properties": {
+        "@id": "node/1556261546",
+        "name": "The Cake Lady",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4266853,
+          50.9168854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154028",
+      "properties": {
+        "@id": "node/1602154028",
+        "name": "Dream Cupcakes",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4064448,
+          50.9032966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154035",
+      "properties": {
+        "@id": "node/1602154035",
+        "name": "Krispy Kreme doughnuts",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4061765,
+          50.9032898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602154041",
+      "properties": {
+        "@id": "node/1602154041",
+        "name": "Millie's Cookies",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4065414,
+          50.9033237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179288",
+      "properties": {
+        "@id": "node/2029179288",
+        "name": "G. Cotton Baker and Confectioner",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3756844,
+          50.9247784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913401",
+      "properties": {
+        "@id": "node/2161913401",
+        "name": "Greggs",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3608484,
+          50.9146737
+        ]
+      }
+    }
+  ]
+}

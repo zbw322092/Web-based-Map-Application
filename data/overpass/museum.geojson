@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30064136",
+      "properties": {
+        "@id": "way/30064136",
+        "building": "yes",
+        "building:levels": "1",
+        "loc_ref": "50",
+        "name": "John Hansard Gallery",
+        "note": "art gallery",
+        "source": "Bing",
+        "tourism": "museum",
+        "uri": "http://id.southampton.ac.uk/building/50",
+        "website": "http://www.hansardgallery.org.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3992884,
+              50.9363336
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/31861783",
+      "properties": {
+        "@id": "way/31861783",
+        "building": "yes",
+        "name": "Southampton Hall of Aviation",
+        "source": "Yahoo",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3934855,
+              50.8978437
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184120201",
+      "properties": {
+        "@id": "way/184120201",
+        "building": "yes",
+        "name": "Tudor House Museum",
+        "tourism": "museum",
+        "website": "http://www.tudorhouseandgarden.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4064168,
+              50.8996488
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/209816108",
+      "properties": {
+        "@id": "way/209816108",
+        "name": "West End Museum",
+        "opening_hours": "Sa 10:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3379248,
+              50.9277306
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251061517",
+      "properties": {
+        "@id": "way/251061517",
+        "building": "yes",
+        "listed_building": "grade_II*",
+        "name": "SeaCity Museum",
+        "note": "precise shape/reach unknown",
+        "operator": "Southampton City Council",
+        "tourism": "museum",
+        "website": "http://www.seacitymuseum.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4073603,
+              50.9076332
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1641900338",
+      "properties": {
+        "@id": "node/1641900338",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 7LP",
+        "addr:street": "Commercial Road",
+        "name": "City Art Gallery",
+        "tourism": "museum",
+        "website": "http://www.southampton.gov.uk/s-leisure/artsheritage/sotonartgallery/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4064807,
+          50.908398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2573542324",
+      "properties": {
+        "@id": "node/2573542324",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4077285,
+          50.908038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2573573210",
+      "properties": {
+        "@id": "node/2573573210",
+        "name": "Solent Showcase",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4049103,
+          50.9084008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2956299008",
+      "properties": {
+        "@id": "node/2956299008",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3995215,
+          50.9360691
+        ]
+      }
+    }
+  ]
+}

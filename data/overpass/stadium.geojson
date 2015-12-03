@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T17:39:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/23216725",
+      "properties": {
+        "@id": "way/23216725",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "St Mary's Stadium",
+        "addr:postcode": "SO14 5FP",
+        "alt_name": "Southampton Football Club",
+        "building": "stadium",
+        "capacity": "32689",
+        "leisure": "stadium",
+        "name": "St Mary's Stadium",
+        "operator": "Southampton Football Club",
+        "source": "Bing",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3919105,
+              50.9064943
+            ],
+            [
+              -1.3919453,
+              50.9063389
+            ],
+            [
+              -1.3920618,
+              50.9053673
+            ],
+            [
+              -1.3920475,
+              50.9052686
+            ],
+            [
+              -1.3919694,
+              50.9051659
+            ],
+            [
+              -1.3918535,
+              50.9050979
+            ],
+            [
+              -1.3916629,
+              50.9050584
+            ],
+            [
+              -1.3905991,
+              50.9049959
+            ],
+            [
+              -1.3904151,
+              50.9049979
+            ],
+            [
+              -1.3903567,
+              50.9050145
+            ],
+            [
+              -1.39032,
+              50.9049268
+            ],
+            [
+              -1.3901701,
+              50.9049757
+            ],
+            [
+              -1.3900448,
+              50.9050405
+            ],
+            [
+              -1.3899652,
+              50.9051076
+            ],
+            [
+              -1.3899035,
+              50.9052083
+            ],
+            [
+              -1.3898969,
+              50.9052593
+            ],
+            [
+              -1.3898297,
+              50.9052555
+            ],
+            [
+              -1.3897017,
+              50.906306
+            ],
+            [
+              -1.3897632,
+              50.9063088
+            ],
+            [
+              -1.3897605,
+              50.9063421
+            ],
+            [
+              -1.3897867,
+              50.9064552
+            ],
+            [
+              -1.3899243,
+              50.9066029
+            ],
+            [
+              -1.3900993,
+              50.9066822
+            ],
+            [
+              -1.3901771,
+              50.9065964
+            ],
+            [
+              -1.390319,
+              50.9066246
+            ],
+            [
+              -1.3914985,
+              50.906681
+            ],
+            [
+              -1.3917481,
+              50.906621
+            ],
+            [
+              -1.3919105,
+              50.9064943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220131301",
+      "properties": {
+        "@id": "way/220131301",
+        "leisure": "stadium",
+        "name": "Ageas Bowl",
+        "old_name": "The Rose Bowl",
+        "sport": "cricket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3218869,
+              50.9257442
+            ],
+            [
+              -1.3227538,
+              50.9256966
+            ],
+            [
+              -1.3239361,
+              50.925268
+            ],
+            [
+              -1.3254274,
+              50.9245539
+            ],
+            [
+              -1.3260001,
+              50.925069
+            ],
+            [
+              -1.3279978,
+              50.9234599
+            ],
+            [
+              -1.3246711,
+              50.922577
+            ],
+            [
+              -1.3246229,
+              50.9225838
+            ],
+            [
+              -1.3239534,
+              50.9226784
+            ],
+            [
+              -1.3229657,
+              50.9214544
+            ],
+            [
+              -1.3184294,
+              50.9227854
+            ],
+            [
+              -1.3199074,
+              50.9248805
+            ],
+            [
+              -1.3218869,
+              50.9257442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23216725",
+      "properties": {
+        "@id": "way/23216725",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "St Mary's Stadium",
+        "addr:postcode": "SO14 5FP",
+        "alt_name": "Southampton Football Club",
+        "building": "stadium",
+        "capacity": "32689",
+        "leisure": "stadium",
+        "name": "St Mary's Stadium",
+        "operator": "Southampton Football Club",
+        "source": "Bing",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3919105,
+              50.9064943
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220131301",
+      "properties": {
+        "@id": "way/220131301",
+        "leisure": "stadium",
+        "name": "Ageas Bowl",
+        "old_name": "The Rose Bowl",
+        "sport": "cricket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3218869,
+              50.9257442
+            ]
+      }
+    }
+  ]
+}

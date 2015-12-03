@@ -1,0 +1,218 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/148590578",
+      "properties": {
+        "@id": "way/148590578",
+        "addr:housenumber": "222",
+        "addr:street": "Burgess Road",
+        "amenity": "dentist",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "University Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.390717,
+              50.9383974
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169504383",
+      "properties": {
+        "@id": "way/169504383",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "6",
+        "addr:postcode": "SO17 1QL",
+        "addr:street": "Brookvale Road",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "The Dental Group",
+        "website": "http://www.thedentalgroup.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3950075,
+              50.9253434
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175424990",
+      "properties": {
+        "@id": "way/175424990",
+        "addr:housenumber": "22",
+        "addr:street": "University Road",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "J D Clark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3953506,
+              50.9330115
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223422076",
+      "properties": {
+        "@id": "way/223422076",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO15 2GD",
+        "addr:street": "Kenilworth Road",
+        "amenity": "dentist",
+        "building": "house",
+        "name": "The Dental Practice",
+        "source": "local_knowledge",
+        "website": "http://tonikhan.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4091626,
+              50.9125569
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224889488",
+      "properties": {
+        "@id": "way/224889488",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "Westrow Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4105418,
+              50.9163717
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310834801",
+      "properties": {
+        "@id": "way/310834801",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "10-12",
+        "addr:postcode": "SO15 5PQ",
+        "addr:street": "Cannon Street",
+        "amenity": "dentist",
+        "name": "Shirley Dental Walk-In Centre",
+        "opening_hours": "08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4317269,
+              50.9220321
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/595984866",
+      "properties": {
+        "@id": "node/595984866",
+        "amenity": "dentist",
+        "name": "Trafalgar Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3793424,
+          50.8979024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556229174",
+      "properties": {
+        "@id": "node/1556229174",
+        "amenity": "dentist",
+        "name": "Shirley Road Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4211519,
+          50.9123347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826308282",
+      "properties": {
+        "@id": "node/1826308282",
+        "amenity": "dentist",
+        "name": "ADP Dental Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4344594,
+          50.9250026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2356334123",
+      "properties": {
+        "@id": "node/2356334123",
+        "amenity": "dentist",
+        "name": "The Avenue Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403933,
+          50.919836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739345179",
+      "properties": {
+        "@id": "node/2739345179",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3907006,
+          50.9383986
+        ]
+      }
+    }
+  ]
+}

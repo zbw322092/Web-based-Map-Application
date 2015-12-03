@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:35:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30063860",
+      "properties": {
+        "@id": "way/30063860",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO17 1TR",
+        "addr:street": "University Road",
+        "amenity": "theatre",
+        "building": "yes",
+        "contact:email": "info@nuffieldtheatre.co.uk",
+        "contact:phone": "023 8031 5500; 023 8067 1771",
+        "contact:website": "http://www.nuffieldtheatre.co.uk",
+        "loc_ref": "6",
+        "name": "Nuffield Theatre",
+        "theatre:genre": "drama;stand_up_comedy;comedy",
+        "uri": "http://id.southampton.ac.uk/building/6",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": "3302678",
+            "reltags": {
+              "amenity": "theatre",
+              "loc_ref": "6",
+              "name": "Nuffield Theatre",
+              "type": "building",
+              "uri": "http://id.southampton.ac.uk/building/6"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3975344,
+              50.9361578
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30064170",
+      "properties": {
+        "@id": "way/30064170",
+        "amenity": "theatre",
+        "building": "yes",
+        "building:levels": "1",
+        "loc_ref": "52",
+        "name": "Turner Sims Concert Hall",
+        "theatre:genre": "chamber_music",
+        "uri": "http://id.southampton.ac.uk/building/52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3989929,
+              50.9360968
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/141612513",
+      "properties": {
+        "@id": "way/141612513",
+        "amenity": "theatre",
+        "name": "Nuffield Theatre - Studio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3976877,
+              50.9361921
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223575770",
+      "properties": {
+        "@id": "way/223575770",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO15 3LX",
+        "amenity": "theatre",
+        "building": "yes",
+        "name": "The Maskers theatre company",
+        "website": "http://www.maskers.org.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4325412,
+              50.9209492
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251428042",
+      "properties": {
+        "@id": "way/251428042",
+        "amenity": "theatre",
+        "building": "yes",
+        "listed_building": "grade_II",
+        "name": "The Mayflower",
+        "source": "Bing",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4104449,
+              50.908333
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1550130242",
+      "properties": {
+        "@id": "node/1550130242",
+        "access": "private",
+        "entrance": "service",
+        "name": "Dock Doors",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3968441,
+          50.9360519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1550130259",
+      "properties": {
+        "@id": "node/1550130259",
+        "entrance": "yes",
+        "uri": "http://id.southampton.ac.uk/building-portal/6-B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3975558,
+          50.9359602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1550130339",
+      "properties": {
+        "@id": "node/1550130339",
+        "access": "private",
+        "entrance": "service",
+        "name": "Stage Door",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3970452,
+          50.9357588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1550130397",
+      "properties": {
+        "@id": "node/1550130397",
+        "entrance": "main",
+        "uri": "http://id.southampton.ac.uk/building-portal/6-A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3974314,
+          50.9361284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607885932",
+      "properties": {
+        "@id": "node/1607885932",
+        "entrance": "emergency",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3978654,
+          50.9361182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607885946",
+      "properties": {
+        "@id": "node/1607885946",
+        "entrance": "emergency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3974395,
+          50.9358717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607885950",
+      "properties": {
+        "@id": "node/1607885950",
+        "entrance": "service",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3972306,
+          50.9361622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1669540280",
+      "properties": {
+        "@id": "node/1669540280",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.398555,
+          50.935731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1947395167",
+      "properties": {
+        "@id": "node/1947395167",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3986198,
+          50.9358289
+        ]
+      }
+    }
+  ]
+}

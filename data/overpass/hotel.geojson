@@ -1,0 +1,430 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/24012043",
+      "properties": {
+        "@id": "way/24012043",
+        "addr:city": "Southampton",
+        "addr:postcode": "SO16 0XJ",
+        "addr:street": "Romsey Road",
+        "building": "yes",
+        "name": "Premier Inn Southampton North",
+        "phone": "+44 871 527 9002",
+        "tourism": "hotel",
+        "website": "http://www.premierinn.com/en/hotel/SOUBAL/southampton-north",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4623766,
+              50.9450106
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30063400",
+      "properties": {
+        "@id": "way/30063400",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO15 1AG",
+        "building": "yes",
+        "name": "Grand Harbour Hotel",
+        "operator": "De Vere",
+        "source": "Bing",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "http://www.devere.co.uk/our-locations/grand-harbour.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4082713,
+              50.8999226
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30074273",
+      "properties": {
+        "@id": "way/30074273",
+        "building": "yes",
+        "name": "Holiday Inn Southampton",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4094147,
+              50.8998186
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/41589594",
+      "properties": {
+        "@id": "way/41589594",
+        "building": "yes",
+        "name": "Holiday Inn Express",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4722298,
+              50.9349362
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59097312",
+      "properties": {
+        "@id": "way/59097312",
+        "building": "yes",
+        "name": "Novotel",
+        "source": "extrapolation",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4157626,
+              50.9053859
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/93420352",
+      "properties": {
+        "@id": "way/93420352",
+        "building": "yes",
+        "name": "Hilton Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4022919,
+              50.9526133
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/97718163",
+      "properties": {
+        "@id": "way/97718163",
+        "building": "yes",
+        "name": "Premier Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3647978,
+              50.9484079
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/98841642",
+      "properties": {
+        "@id": "way/98841642",
+        "building": "yes",
+        "name": "Holiday Inn Express",
+        "source": "Bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3238794,
+              50.9267153
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100024764",
+      "properties": {
+        "@id": "way/100024764",
+        "building": "yes",
+        "name": "IBIS",
+        "source": "Bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4141506,
+              50.905592
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/115678552",
+      "properties": {
+        "@id": "way/115678552",
+        "building": "yes",
+        "name": "Premier Inn",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3989657,
+              50.9072117
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143064779",
+      "properties": {
+        "@id": "way/143064779",
+        "building": "yes",
+        "name": "Premier Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4083771,
+              50.9016524
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143105854",
+      "properties": {
+        "@id": "way/143105854",
+        "brand": "Accor",
+        "building": "yes",
+        "name": "Ibis Budget",
+        "old_name": "Etap Hotel",
+        "operator": "Ibis Budget",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4142296,
+              50.9047686
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162539296",
+      "properties": {
+        "@id": "way/162539296",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "144",
+        "addr:postcode": "SO14 6QR",
+        "addr:street": "Lodge Road",
+        "building": "yes",
+        "name": "Travelodge Southampton",
+        "operator": "Travelodge",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4035849,
+              50.9190736
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/162540438",
+      "properties": {
+        "@id": "way/162540438",
+        "name": "Elizabeth House Hotel",
+        "phone": "(023) 8022 4327",
+        "stars": "2",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4040479,
+              50.9194408
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175424985",
+      "properties": {
+        "@id": "way/175424985",
+        "addr:housenumber": "119",
+        "addr:street": "Highfield Lane",
+        "building": "yes",
+        "name": "Highfield House Hotel",
+        "tourism": "hotel",
+        "website": "http://www.highfieldhotelsouthampton.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3917227,
+              50.9275935
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183772281",
+      "properties": {
+        "@id": "way/183772281",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "34;35",
+        "addr:postcode": "SO14 2HN",
+        "addr:street": "High Street",
+        "building": "yes",
+        "name": "Dolphin Hotel",
+        "operator": "Mercure",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4037284,
+              50.9001728
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358525250",
+      "properties": {
+        "@id": "way/358525250",
+        "addr:city": "Southampton",
+        "addr:housename": "Travelodge Hotel",
+        "addr:postcode": "SO142BW",
+        "addr:street": "Castle Way",
+        "building": "yes",
+        "name": "Travelodge hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046656,
+              50.9011672
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2644150449",
+      "properties": {
+        "@id": "node/2644150449",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 0TB",
+        "name": "Jury's Inn Hotel",
+        "tourism": "hotel",
+        "website": "http://southamptonhotels.jurysinns.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4012944,
+          50.9106709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3072011697",
+      "properties": {
+        "@id": "node/3072011697",
+        "name": "Travelodge",
+        "source": "http://www.dailyecho.co.uk/news/11464189.Job_opportunities_at_new___5_5m_city_centre_hotel/?ref=mr",
+        "start_date": "2014-11",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045554,
+          50.9009028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3096564686",
+      "properties": {
+        "@id": "node/3096564686",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4079381,
+          50.8996013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146361304",
+      "properties": {
+        "@id": "way/146361304",
+        "addr:city": "Southampton",
+        "addr:housename": "Ronald MacDonald House",
+        "addr:street": "Tremona Road",
+        "building": "yes",
+        "name": "Ronald MacDonald House (Southampton General Hospital)",
+        "note": "Charitable accommodation for families of children in hospital",
+        "tourism": "hostel",
+        "website": "http://www.rmhc.org.uk/our-houses/southampton/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4333275,
+              50.931796
+            ]
+      }
+    }
+  ]
+}

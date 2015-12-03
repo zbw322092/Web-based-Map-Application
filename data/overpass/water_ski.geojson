@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/55037100",
+      "properties": {
+        "@id": "way/55037100",
+        "note": "Water Skiing Area (Mar-Oct)",
+        "opening_hours": "Mar-Oct",
+        "sport": "water_ski"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.4765329,
+            50.9197824
+          ],
+          [
+            -1.4747211,
+            50.9200912
+          ],
+          [
+            -1.4724563,
+            50.9180838
+          ],
+          [
+            -1.4684209,
+            50.9121233
+          ],
+          [
+            -1.4692006,
+            50.9093931
+          ],
+          [
+            -1.4703459,
+            50.911938
+          ],
+          [
+            -1.4743299,
+            50.9178058
+          ],
+          [
+            -1.4765329,
+            50.9197824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55037100",
+      "properties": {
+        "@id": "way/55037100",
+        "note": "Water Skiing Area (Mar-Oct)",
+        "opening_hours": "Mar-Oct",
+        "sport": "water_ski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+          [
+            -1.4765329,
+            50.9197824
+          ]
+      }
+    }
+  ]
+}

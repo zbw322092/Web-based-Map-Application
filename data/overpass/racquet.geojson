@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/178231088",
+      "properties": {
+        "@id": "way/178231088",
+        "addr:housenumber": "96;96a",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "The Racquet Centre",
+        "shop": "sports",
+        "source:addr": "http://www.theracquetcentre.co.uk/",
+        "sport": "racquet",
+        "website": "http://www.theracquetcentre.co.uk/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3794778,
+              50.9396715
+            ],
+            [
+              -1.3795137,
+              50.9396125
+            ],
+            [
+              -1.3794131,
+              50.9395882
+            ],
+            [
+              -1.3793771,
+              50.9396471
+            ],
+            [
+              -1.3794778,
+              50.9396715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/178231088",
+      "properties": {
+        "@id": "way/178231088",
+        "addr:housenumber": "96;96a",
+        "addr:postcode": "SO16 2HZ",
+        "addr:street": "High Road",
+        "building": "yes",
+        "name": "The Racquet Centre",
+        "shop": "sports",
+        "source:addr": "http://www.theracquetcentre.co.uk/",
+        "sport": "racquet",
+        "website": "http://www.theracquetcentre.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3794778,
+              50.9396715
+            ]
+      }
+    }
+  ]
+}

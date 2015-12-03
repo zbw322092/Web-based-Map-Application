@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:43:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/100765499",
+      "properties": {
+        "@id": "way/100765499",
+        "amenity": "post_office",
+        "building": "yes",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4488666,
+              50.9408512
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142132803",
+      "properties": {
+        "@id": "way/142132803",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "368",
+        "addr:postcode": "SO15 3RA",
+        "addr:street": "Shirley Road",
+        "amenity": "post_office",
+        "building": "yes",
+        "name": "Shirley Delivery Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4310438,
+              50.9192686
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194680110",
+      "properties": {
+        "@id": "way/194680110",
+        "addr:housenumber": "105",
+        "addr:street": "Rownhams Road",
+        "amenity": "post_office",
+        "building": "retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4472536,
+              50.9363111
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196001530",
+      "properties": {
+        "@id": "way/196001530",
+        "addr:housenumber": "6",
+        "addr:street": "Midanbury Broadway",
+        "amenity": "post_office",
+        "building": "retail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3643023,
+              50.9257674
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208913834",
+      "properties": {
+        "@id": "way/208913834",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "15",
+        "addr:postcode": "SO18 5TP",
+        "amenity": "post_office",
+        "building": "commercial",
+        "name": "Newsmarket",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3386145,
+              50.9147357
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219763536",
+      "properties": {
+        "@id": "way/219763536",
+        "amenity": "post_office",
+        "name": "Ryman",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4041261,
+              50.9123524
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/42144359",
+      "properties": {
+        "@id": "node/42144359",
+        "amenity": "post_office",
+        "created_by": "Potlatch alpha",
+        "postal_code": "SO17 1TW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3980702,
+          50.9376967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282712006",
+      "properties": {
+        "@id": "node/282712006",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3782983,
+          50.8984363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292812224",
+      "properties": {
+        "@id": "node/292812224",
+        "amenity": "post_office",
+        "created_by": "Potlatch 0.10b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3344862,
+          50.908842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369683534",
+      "properties": {
+        "@id": "node/369683534",
+        "amenity": "post_office",
+        "name": "West End Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3352365,
+          50.9276644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602788899",
+      "properties": {
+        "@id": "node/602788899",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4634775,
+          50.9244574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/652885310",
+      "properties": {
+        "@id": "node/652885310",
+        "amenity": "post_office",
+        "name": "Shirley Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4308324,
+          50.9211326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1128156109",
+      "properties": {
+        "@id": "node/1128156109",
+        "amenity": "post_office",
+        "source": "OS OpenData StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4383375,
+          50.9302619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1128156309",
+      "properties": {
+        "@id": "node/1128156309",
+        "amenity": "post_office",
+        "source": "OS OpenData StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.361124,
+          50.915049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1128156755",
+      "properties": {
+        "@id": "node/1128156755",
+        "amenity": "post_office",
+        "source": "OS OpenData StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3372466,
+          50.8999793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1128156786",
+      "properties": {
+        "@id": "node/1128156786",
+        "amenity": "post_office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4180006,
+          50.9346108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1256163767",
+      "properties": {
+        "@id": "node/1256163767",
+        "amenity": "post_office",
+        "name": "Shirley Precinct",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4346656,
+          50.9237661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592839359",
+      "properties": {
+        "@id": "node/1592839359",
+        "amenity": "post_office",
+        "note": "within WH Smith"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4038498,
+          50.903708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2389916713",
+      "properties": {
+        "@id": "node/2389916713",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3386607,
+          50.9147352
+        ]
+      }
+    }
+  ]
+}

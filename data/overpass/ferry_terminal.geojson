@@ -1,0 +1,295 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T15:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/37375880",
+      "properties": {
+        "@id": "way/37375880",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "name": "Red Funnel Terminal 1",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4050169,
+              50.8964231
+            ],
+            [
+              -1.4051895,
+              50.8962253
+            ],
+            [
+              -1.4052333,
+              50.8961733
+            ],
+            [
+              -1.4052781,
+              50.8961884
+            ],
+            [
+              -1.4053215,
+              50.8961371
+            ],
+            [
+              -1.4058538,
+              50.8963124
+            ],
+            [
+              -1.4059347,
+              50.8962346
+            ],
+            [
+              -1.4052164,
+              50.8959984
+            ],
+            [
+              -1.4049711,
+              50.896284
+            ],
+            [
+              -1.4048974,
+              50.8963774
+            ],
+            [
+              -1.4050169,
+              50.8964231
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37375883",
+      "properties": {
+        "@id": "way/37375883",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "name": "Red Funnel Terminal 2 (Red Jet)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4059022,
+              50.894735
+            ],
+            [
+              -1.4059066,
+              50.8947564
+            ],
+            [
+              -1.4059582,
+              50.8947513
+            ],
+            [
+              -1.4059897,
+              50.8947413
+            ],
+            [
+              -1.4060111,
+              50.8947148
+            ],
+            [
+              -1.4060941,
+              50.8946292
+            ],
+            [
+              -1.4059299,
+              50.8945721
+            ],
+            [
+              -1.4061029,
+              50.8943733
+            ],
+            [
+              -1.4060368,
+              50.8943515
+            ],
+            [
+              -1.4059611,
+              50.8943264
+            ],
+            [
+              -1.4059,
+              50.894395
+            ],
+            [
+              -1.405812,
+              50.8943651
+            ],
+            [
+              -1.405664,
+              50.894528
+            ],
+            [
+              -1.4055979,
+              50.8945999
+            ],
+            [
+              -1.4057203,
+              50.8946429
+            ],
+            [
+              -1.4055249,
+              50.8948569
+            ],
+            [
+              -1.4054181,
+              50.8948192
+            ],
+            [
+              -1.4053345,
+              50.8949105
+            ],
+            [
+              -1.4055384,
+              50.8949761
+            ],
+            [
+              -1.4055656,
+              50.8949413
+            ],
+            [
+              -1.4056837,
+              50.8949789
+            ],
+            [
+              -1.4057061,
+              50.8949552
+            ],
+            [
+              -1.405733,
+              50.8949269
+            ],
+            [
+              -1.4056025,
+              50.894881
+            ],
+            [
+              -1.4057746,
+              50.8946899
+            ],
+            [
+              -1.4059022,
+              50.894735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/160273012",
+      "properties": {
+        "@id": "node/160273012",
+        "amenity": "ferry_terminal",
+        "cargo": "passengers",
+        "name": "Red Jet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4052287,
+          50.8943943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/436281489",
+      "properties": {
+        "@id": "node/436281489",
+        "amenity": "ferry_terminal",
+        "cargo": "passengers",
+        "name": "Hythe Ferry Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4054724,
+          50.8943205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1418768384",
+      "properties": {
+        "@id": "node/1418768384",
+        "amenity": "ferry_terminal",
+        "name": "C berth (lay-up only)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4064453,
+          50.894677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1418768387",
+      "properties": {
+        "@id": "node/1418768387",
+        "amenity": "ferry_terminal",
+        "cargo": "passengers;vehicle",
+        "name": "Red Funnel Terminal 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4063866,
+          50.8957298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37375880",
+      "properties": {
+        "@id": "way/37375880",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "name": "Red Funnel Terminal 1",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4050169,
+              50.8964231
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/37375883",
+      "properties": {
+        "@id": "way/37375883",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "name": "Red Funnel Terminal 2 (Red Jet)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4059022,
+              50.894735
+            ]
+      }
+    }
+  ]
+}

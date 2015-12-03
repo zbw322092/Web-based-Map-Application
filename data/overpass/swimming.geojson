@@ -1,0 +1,419 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:29:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30063415",
+      "properties": {
+        "@id": "way/30063415",
+        "building": "yes",
+        "leisure": "swimming_pool",
+        "name": "The Quays ‘Eddie Read’ Swimming & Diving Complex",
+        "postal_code": "SO15 1BA",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4074333,
+              50.9008528
+            ],
+            [
+              -1.4078453,
+              50.9006471
+            ],
+            [
+              -1.4078781,
+              50.9004693
+            ],
+            [
+              -1.4080612,
+              50.9003619
+            ],
+            [
+              -1.4078951,
+              50.9002187
+            ],
+            [
+              -1.4071775,
+              50.9001744
+            ],
+            [
+              -1.406953,
+              50.9003152
+            ],
+            [
+              -1.4071157,
+              50.9004306
+            ],
+            [
+              -1.4070814,
+              50.9006092
+            ],
+            [
+              -1.4074333,
+              50.9008528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87223581",
+      "properties": {
+        "@id": "way/87223581",
+        "covered": "no",
+        "leisure": "water_park",
+        "name": "Southampton Common Paddling Pool",
+        "source": "Bing",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4076845,
+              50.9249658
+            ],
+            [
+              -1.4077427,
+              50.9249376
+            ],
+            [
+              -1.4077857,
+              50.9248987
+            ],
+            [
+              -1.4077964,
+              50.9248395
+            ],
+            [
+              -1.4077266,
+              50.9246079
+            ],
+            [
+              -1.4076918,
+              50.9245741
+            ],
+            [
+              -1.4076247,
+              50.9245386
+            ],
+            [
+              -1.407563,
+              50.92452
+            ],
+            [
+              -1.407496,
+              50.9245132
+            ],
+            [
+              -1.4070695,
+              50.9245724
+            ],
+            [
+              -1.4070454,
+              50.9245808
+            ],
+            [
+              -1.4069864,
+              50.9246163
+            ],
+            [
+              -1.4069515,
+              50.9246552
+            ],
+            [
+              -1.4069408,
+              50.9246823
+            ],
+            [
+              -1.4069461,
+              50.9247246
+            ],
+            [
+              -1.4070239,
+              50.9249545
+            ],
+            [
+              -1.4070749,
+              50.9249951
+            ],
+            [
+              -1.4071634,
+              50.9250204
+            ],
+            [
+              -1.4072314,
+              50.9250303
+            ],
+            [
+              -1.4076845,
+              50.9249658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132738163",
+      "properties": {
+        "@id": "way/132738163",
+        "amenity": "swimming_pool",
+        "building": "yes",
+        "name": "Shirley Pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4300512,
+              50.917388
+            ],
+            [
+              -1.4297354,
+              50.9171578
+            ],
+            [
+              -1.4296669,
+              50.9171921
+            ],
+            [
+              -1.4296212,
+              50.917158
+            ],
+            [
+              -1.4295139,
+              50.9172176
+            ],
+            [
+              -1.42988,
+              50.9174822
+            ],
+            [
+              -1.4300512,
+              50.917388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170123045",
+      "properties": {
+        "@id": "way/170123045",
+        "amenity": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4645905,
+              50.9365997
+            ],
+            [
+              -1.4647215,
+              50.9363693
+            ],
+            [
+              -1.46455,
+              50.9363306
+            ],
+            [
+              -1.464419,
+              50.9365609
+            ],
+            [
+              -1.4645905,
+              50.9365997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30063415",
+      "properties": {
+        "@id": "way/30063415",
+        "building": "yes",
+        "leisure": "swimming_pool",
+        "name": "The Quays ‘Eddie Read’ Swimming & Diving Complex",
+        "postal_code": "SO15 1BA",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4074333,
+              50.9008528
+            ],
+            [
+              -1.4078453,
+              50.9006471
+            ],
+            [
+              -1.4078781,
+              50.9004693
+            ],
+            [
+              -1.4080612,
+              50.9003619
+            ],
+            [
+              -1.4078951,
+              50.9002187
+            ],
+            [
+              -1.4071775,
+              50.9001744
+            ],
+            [
+              -1.406953,
+              50.9003152
+            ],
+            [
+              -1.4071157,
+              50.9004306
+            ],
+            [
+              -1.4070814,
+              50.9006092
+            ],
+            [
+              -1.4074333,
+              50.9008528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30063415",
+      "properties": {
+        "@id": "way/30063415",
+        "building": "yes",
+        "leisure": "swimming_pool",
+        "name": "The Quays ‘Eddie Read’ Swimming & Diving Complex",
+        "postal_code": "SO15 1BA",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4074333,
+              50.9008528
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87223581",
+      "properties": {
+        "@id": "way/87223581",
+        "covered": "no",
+        "leisure": "water_park",
+        "name": "Southampton Common Paddling Pool",
+        "source": "Bing",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4076845,
+              50.9249658
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/132738163",
+      "properties": {
+        "@id": "way/132738163",
+        "amenity": "swimming_pool",
+        "building": "yes",
+        "name": "Shirley Pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4300512,
+              50.917388
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170123045",
+      "properties": {
+        "@id": "way/170123045",
+        "amenity": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4645905,
+              50.9365997
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2146066305",
+      "properties": {
+        "@id": "node/2146066305",
+        "amenity": "swimming_pool",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.323303,
+          50.9257489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30063415",
+      "properties": {
+        "@id": "way/30063415",
+        "building": "yes",
+        "leisure": "swimming_pool",
+        "name": "The Quays ‘Eddie Read’ Swimming & Diving Complex",
+        "postal_code": "SO15 1BA",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4074333,
+              50.9008528
+            ]
+      }
+    }
+  ]
+}

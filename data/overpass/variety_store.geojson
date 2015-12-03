@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T18:50:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/153481042",
+      "properties": {
+        "@id": "way/153481042",
+        "building": "yes",
+        "name": "Poundland",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4049493,
+              50.9030847
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183876042",
+      "properties": {
+        "@id": "way/183876042",
+        "addr:housenumber": "3-7",
+        "addr:street": "Shirley High Street",
+        "building": "shopping",
+        "name": "99p Stores",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4314405,
+              50.9216113
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184066903",
+      "properties": {
+        "@id": "way/184066903",
+        "addr:housenumber": "64-66",
+        "addr:street": "Shirley High Street",
+        "building": "shopping",
+        "name": "Poundland",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.433574,
+              50.9222439
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208918428",
+      "properties": {
+        "@id": "way/208918428",
+        "addr:housenumber": "40",
+        "building": "commercial",
+        "charity": "yes",
+        "opening_hours": "Mo-Sa 09:30-16:00",
+        "operator": "Vitalise",
+        "shop": "variety_store",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.336886,
+              50.9144687
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556197800",
+      "properties": {
+        "@id": "node/1556197800",
+        "name": "Snip",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4000376,
+          50.9016758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1562656983",
+      "properties": {
+        "@id": "node/1562656983",
+        "name": "Poundland",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4057115,
+          50.9059211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1565230843",
+      "properties": {
+        "@id": "node/1565230843",
+        "name": "Pound Xtra",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3995217,
+          50.9114087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1598884526",
+      "properties": {
+        "@id": "node/1598884526",
+        "name": "Buyology",
+        "shop": "variety_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4033924,
+          50.9043353
+        ]
+      }
+    }
+  ]
+}

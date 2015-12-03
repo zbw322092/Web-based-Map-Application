@@ -1,0 +1,598 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T19:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/25795771",
+      "properties": {
+        "@id": "way/25795771",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Yahoo Ariel Imagary",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3749071,
+              50.9534238
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/25795877",
+      "properties": {
+        "@id": "way/25795877",
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3762409,
+              50.9528158
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27342980",
+      "properties": {
+        "@id": "way/27342980",
+        "leisure": "pitch",
+        "name": "Tennis courts",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4022869,
+              50.9081122
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/27342999",
+      "properties": {
+        "@id": "way/27342999",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4036704,
+              50.9085147
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90577142",
+      "properties": {
+        "@id": "way/90577142",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3968473,
+              50.9269949
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/90577143",
+      "properties": {
+        "@id": "way/90577143",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3961187,
+              50.926312
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/113499817",
+      "properties": {
+        "@id": "way/113499817",
+        "leisure": "pitch",
+        "note": "redevelopment 2011",
+        "source": "Bing,survey",
+        "sport": "tennis",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4292386,
+              50.9270292
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123082680",
+      "properties": {
+        "@id": "way/123082680",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4624165,
+              50.9365542
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123082686",
+      "properties": {
+        "@id": "way/123082686",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.462214,
+              50.9364689
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123082687",
+      "properties": {
+        "@id": "way/123082687",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4620182,
+              50.9364249
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146707024",
+      "properties": {
+        "@id": "way/146707024",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4473046,
+              50.8946127
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/154531441",
+      "properties": {
+        "@id": "way/154531441",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4022191,
+              50.9285773
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/156591072",
+      "properties": {
+        "@id": "way/156591072",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3895468,
+              50.931833
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158178590",
+      "properties": {
+        "@id": "way/158178590",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3739331,
+              50.933067
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161904211",
+      "properties": {
+        "@id": "way/161904211",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3667246,
+              50.8951755
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170122968",
+      "properties": {
+        "@id": "way/170122968",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4634235,
+              50.9353967
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170122969",
+      "properties": {
+        "@id": "way/170122969",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4638851,
+              50.9352776
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170122971",
+      "properties": {
+        "@id": "way/170122971",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4640946,
+              50.9355833
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/170122972",
+      "properties": {
+        "@id": "way/170122972",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4645185,
+              50.9361907
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204396428",
+      "properties": {
+        "@id": "way/204396428",
+        "leisure": "sports_centre",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3227778,
+              50.9258128
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/204665553",
+      "properties": {
+        "@id": "way/204665553",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3267789,
+              50.9295918
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211245959",
+      "properties": {
+        "@id": "way/211245959",
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.350115,
+              50.920986
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286786063",
+      "properties": {
+        "@id": "way/286786063",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4117677,
+              50.9184729
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286786064",
+      "properties": {
+        "@id": "way/286786064",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.411602,
+              50.9185425
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286786065",
+      "properties": {
+        "@id": "way/286786065",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4114332,
+              50.9186062
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/286786066",
+      "properties": {
+        "@id": "way/286786066",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4112591,
+              50.9186738
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311827989",
+      "properties": {
+        "@id": "way/311827989",
+        "access": "private",
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4218157,
+              50.9245789
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311828215",
+      "properties": {
+        "@id": "way/311828215",
+        "access": "private",
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4217805,
+              50.9245905
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311828216",
+      "properties": {
+        "@id": "way/311828216",
+        "access": "private",
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4216158,
+              50.924657
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311828217",
+      "properties": {
+        "@id": "way/311828217",
+        "access": "private",
+        "area": "yes",
+        "leisure": "pitch",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4214378,
+              50.924709
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311828220",
+      "properties": {
+        "@id": "way/311828220",
+        "access": "private",
+        "area": "yes",
+        "leisure": "sports_centre",
+        "name": "Basset Lawn Tennis Club",
+        "sport": "tennis",
+        "website": "http://www.bassett-tennis.co.uk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4217573,
+              50.924285
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311829539",
+      "properties": {
+        "@id": "way/311829539",
+        "building": "yes",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4217691,
+              50.9246562
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211245958",
+      "properties": {
+        "@id": "way/211245958",
+        "addr:street": "West End Road",
+        "name": "Glebian Tennis Club",
+        "source": "Bing",
+        "sport": "tennis",
+        "website": "http://glebians.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+          [
+            -1.3503473,
+            50.921196
+          ]
+      }
+    }
+  ]
+}

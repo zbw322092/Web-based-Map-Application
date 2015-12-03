@@ -1,0 +1,641 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T16:19:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/100689156",
+      "properties": {
+        "@id": "way/100689156",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Lloyds Pharmacy",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4483848,
+              50.9409584
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/123078085",
+      "properties": {
+        "@id": "way/123078085",
+        "addr:housenumber": "49",
+        "amenity": "pharmacy",
+        "building": "shopping",
+        "name": "Superdrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4328421,
+              50.9223301
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/146618372",
+      "properties": {
+        "@id": "way/146618372",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "19-29",
+        "addr:street": "Above Bar Street",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Boots",
+        "shop": "chemist",
+        "website": "http://www.boots.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4043743,
+              50.9033275
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160630506",
+      "properties": {
+        "@id": "way/160630506",
+        "addr:housenumber": "233",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Boots",
+        "operator": "Boots",
+        "source:addr": "www.boots.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3922436,
+              50.9263313
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160630515",
+      "properties": {
+        "@id": "way/160630515",
+        "addr:housenumber": "241",
+        "addr:postcode": "SO17 2NG",
+        "addr:street": "Portswood Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Day Lewis Pharmacy incorporating Fisk Chemists",
+        "operator": "Day Lewis PLC",
+        "shop": "chemist",
+        "website": "https://www.daylewis.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3920545,
+              50.9264554
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160637251",
+      "properties": {
+        "@id": "way/160637251",
+        "addr:housenumber": "195",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Day Lewis Pharmacy",
+        "operator": "Day Lewis PLC",
+        "source:addr": "https://www.daylewis.co.uk/mypharmacy.php?phm_id=97",
+        "website": "https://www.daylewis.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3933294,
+              50.9254236
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/173807231",
+      "properties": {
+        "@id": "way/173807231",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "29",
+        "addr:postcode": "SO17 1TL",
+        "addr:street": "University Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Highfield Pharmacy",
+        "shop": "chemist",
+        "website": "http://www.highfieldpharmacy.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3958822,
+              50.9328523
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183876038",
+      "properties": {
+        "@id": "way/183876038",
+        "addr:housenumber": "9-11",
+        "amenity": "pharmacy",
+        "building": "shopping",
+        "name": "Boots"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4319669,
+              50.921301
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/194680114",
+      "properties": {
+        "@id": "way/194680114",
+        "addr:housenumber": "99",
+        "addr:street": "Rownhams Road",
+        "amenity": "pharmacy",
+        "building": "retail",
+        "dispensing": "no",
+        "name": "S.Y.Nam Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4472967,
+              50.9360734
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/196001534",
+      "properties": {
+        "@id": "way/196001534",
+        "addr:housenumber": "2",
+        "addr:street": "Midanbury Broadway",
+        "amenity": "pharmacy",
+        "building": "retail",
+        "name": "Boots"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3644739,
+              50.9259192
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208918419",
+      "properties": {
+        "@id": "way/208918419",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "48;48a",
+        "addr:postcode": "SO18 5TQ",
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "dispensing": "yes",
+        "name": "Sangha Pharmacy",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 09:00-13:00",
+        "phone": "+442380462333",
+        "source": "Survey",
+        "source:addr": "NHS Choices",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3365357,
+              50.9144845
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220386952",
+      "properties": {
+        "@id": "way/220386952",
+        "amenity": "pharmacy",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3874891,
+              50.9386825
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223166941",
+      "properties": {
+        "@id": "way/223166941",
+        "addr:housenumber": "17",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4284175,
+              50.9168801
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285344002",
+      "properties": {
+        "@id": "way/285344002",
+        "addr:city": "Southampton",
+        "addr:housename": "Lloyds Pharmacy",
+        "addr:housenumber": "9",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.421598,
+              50.9206923
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292812253",
+      "properties": {
+        "@id": "node/292812253",
+        "amenity": "pharmacy",
+        "name": "The Co-operative Pharmacy",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3342568,
+          50.9085632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292814398",
+      "properties": {
+        "@id": "node/292814398",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3556247,
+          50.9152955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461644917",
+      "properties": {
+        "@id": "node/461644917",
+        "amenity": "pharmacy",
+        "odbl": "clean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3481038,
+          50.8988967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/602788878",
+      "properties": {
+        "@id": "node/602788878",
+        "amenity": "pharmacy",
+        "name": "NHS Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4588844,
+          50.9305009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/640321048",
+      "properties": {
+        "@id": "node/640321048",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.372078,
+          50.8971316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642107746",
+      "properties": {
+        "@id": "node/642107746",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "61",
+        "addr:postcode": "SO15 8PF",
+        "addr:street": "Regent's Park Road",
+        "alt_name": "Caseys",
+        "amenity": "pharmacy",
+        "name": "Regents Park Pharmacy",
+        "phone": "+44-23-8077-1286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4415827,
+          50.9167527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/676403254",
+      "properties": {
+        "@id": "node/676403254",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "71",
+        "addr:postcode": "SO14 2NW",
+        "addr:street": "High Street",
+        "amenity": "pharmacy",
+        "contact:phone": "023 8083 9200",
+        "dispensing": "yes",
+        "name": "Telephone House Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4039864,
+          50.8975871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1494360998",
+      "properties": {
+        "@id": "node/1494360998",
+        "addr:housenumber": "19",
+        "addr:street": "Burgess Road",
+        "amenity": "pharmacy",
+        "name": "Sunak Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4184113,
+          50.9340361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1555781686",
+      "properties": {
+        "@id": "node/1555781686",
+        "amenity": "pharmacy",
+        "name": "Superdrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4043528,
+          50.9020062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1559829089",
+      "properties": {
+        "@id": "node/1559829089",
+        "amenity": "pharmacy",
+        "name": "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4344367,
+          50.9236982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2107140318",
+      "properties": {
+        "@id": "node/2107140318",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3524234,
+          50.9329791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913510",
+      "properties": {
+        "@id": "node/2161913510",
+        "amenity": "pharmacy",
+        "name": "Boots"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3612374,
+          50.9149721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2161913526",
+      "properties": {
+        "@id": "node/2161913526",
+        "amenity": "pharmacy",
+        "name": "Superdrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3601618,
+          50.914666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272664969",
+      "properties": {
+        "@id": "node/2272664969",
+        "addr:housename": "City Gateway",
+        "addr:postcode": "SO16 2JA",
+        "addr:street": "Parkville Road",
+        "amenity": "pharmacy",
+        "name": "Lloyds Pharmacy",
+        "source:addr": "http://www.lloydspharmacy.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3782389,
+          50.9397123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2400215826",
+      "properties": {
+        "@id": "node/2400215826",
+        "addr:city": "Southampton",
+        "addr:housenumber": "62a",
+        "addr:street": "West End Road",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Bitterne Pharmacy",
+        "opening_hours": "Mo-Sa 07:00-22:30; Su 10:00-17:00",
+        "phone": "+442380434849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.358841,
+          50.9175173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2450390332",
+      "properties": {
+        "@id": "node/2450390332",
+        "amenity": "pharmacy",
+        "name": "day lewis Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3398322,
+          50.9005832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2603022547",
+      "properties": {
+        "@id": "node/2603022547",
+        "amenity": "pharmacy",
+        "name": "Everett's Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3342225,
+          50.927601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661431812",
+      "properties": {
+        "@id": "node/2661431812",
+        "amenity": "pharmacy",
+        "name": "Superdrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3793942,
+          50.8973162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661431922",
+      "properties": {
+        "@id": "node/2661431922",
+        "amenity": "pharmacy",
+        "name": "Boots"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3791635,
+          50.89757
+        ]
+      }
+    }
+  ]
+}

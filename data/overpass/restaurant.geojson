@@ -1,0 +1,2466 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-02T15:23:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/30914539",
+      "properties": {
+        "@id": "way/30914539",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "Kuti's Royal Thai Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4070388,
+              50.8968281
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96921758",
+      "properties": {
+        "@id": "way/96921758",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 3FJ",
+        "addr:street": "Canute Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Pilgrim House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3971124,
+              50.8969275
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/126355317",
+      "properties": {
+        "@id": "way/126355317",
+        "addr:housenumber": "98",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Kali Mirchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4347372,
+              50.9229696
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148592040",
+      "properties": {
+        "@id": "way/148592040",
+        "addr:housenumber": "44",
+        "addr:postcode": "SO16 2JF",
+        "addr:street": "High Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Shanghai Bay",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3800402,
+              50.9382983
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149814012",
+      "properties": {
+        "@id": "way/149814012",
+        "addr:housenumber": "2",
+        "addr:postcode": "SO17 2WE",
+        "addr:street": "The Broadway",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Kohinoor of Kerala",
+        "website": "http://www.kohinoorofkerala.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3931392,
+              50.9252901
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149816369",
+      "properties": {
+        "@id": "way/149816369",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO17 2NH",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Calcutta Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3937124,
+              50.9246657
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160637248",
+      "properties": {
+        "@id": "way/160637248",
+        "addr:housenumber": "211",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Gandhi of Portswood",
+        "website": "http://www.gandhiofportswood.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3929154,
+              50.9257884
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160637276",
+      "properties": {
+        "@id": "way/160637276",
+        "addr:housenumber": "199",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chicken",
+        "operator": "KFC",
+        "shop": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3932234,
+              50.9255158
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/161675617",
+      "properties": {
+        "@id": "way/161675617",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housename": "Mango",
+        "addr:housenumber": "27",
+        "addr:postcode": "SO17 2ES",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "Mango Thai Tapas Bar",
+        "website": "http://www.mangothai.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3957802,
+              50.9206568
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/165243586",
+      "properties": {
+        "@id": "way/165243586",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "51-53",
+        "addr:street": "High Road",
+        "amenity": "restaurant",
+        "building": "apartments",
+        "name": "The Supper Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3804441,
+              50.9383705
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168803975",
+      "properties": {
+        "@id": "way/168803975",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "SO15 2EL",
+        "addr:street": "Vernon Walk",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Tiger Lilly",
+        "website": "http://www.the-tiger-lilly.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4044209,
+              50.9124167
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168875957",
+      "properties": {
+        "@id": "way/168875957",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "44",
+        "addr:postcode": "SO15 2AH",
+        "addr:street": "London Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Prince"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4037217,
+              50.9118975
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169379082",
+      "properties": {
+        "@id": "way/169379082",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "273",
+        "addr:postcode": "SO17 2LD",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "Sara's Thai Cuisine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3907016,
+              50.9271806
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169588906",
+      "properties": {
+        "@id": "way/169588906",
+        "addr:city": "Southampton",
+        "addr:housenumber": "110",
+        "addr:postcode": "SO17 2FW",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "7Bone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3949149,
+              50.9234052
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171773757",
+      "properties": {
+        "@id": "way/171773757",
+        "addr:housenumber": "8",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "fish_and_chips",
+        "name": "JJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4057714,
+              50.9115603
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171773758",
+      "properties": {
+        "@id": "way/171773758",
+        "addr:housenumber": "7",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Bengal Brasserie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4057537,
+              50.9115195
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171773759",
+      "properties": {
+        "@id": "way/171773759",
+        "addr:housenumber": "9",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "Chicken Land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4057973,
+              50.911636
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171775402",
+      "properties": {
+        "@id": "way/171775402",
+        "addr:housenumber": "4",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Mirchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4056969,
+              50.9113999
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171775404",
+      "properties": {
+        "@id": "way/171775404",
+        "addr:housenumber": "6",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Hallidays Tearooms",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4057329,
+              50.9114779
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171775406",
+      "properties": {
+        "@id": "way/171775406",
+        "addr:housenumber": "5",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "greek",
+        "name": "Fat Fig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4057187,
+              50.9114456
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171775407",
+      "properties": {
+        "@id": "way/171775407",
+        "addr:housenumber": "3",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Caspian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4056792,
+              50.9113571
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171777503",
+      "properties": {
+        "@id": "way/171777503",
+        "addr:housenumber": "14",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Far East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4058984,
+              50.9118299
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171777506",
+      "properties": {
+        "@id": "way/171777506",
+        "addr:housenumber": "15",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "kebab",
+        "name": "Ted's Fish Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.405912,
+              50.911833
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171777508",
+      "properties": {
+        "@id": "way/171777508",
+        "addr:housenumber": "10",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Number 10 Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.405838,
+              50.9117128
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171778279",
+      "properties": {
+        "@id": "way/171778279",
+        "addr:housenumber": "18",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "kebab",
+        "name": "Zorba's Kebabs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4060502,
+              50.9119677
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171778280",
+      "properties": {
+        "@id": "way/171778280",
+        "addr:housenumber": "17",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pizza GoGo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4060164,
+              50.9119348
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171779226",
+      "properties": {
+        "@id": "way/171779226",
+        "addr:housenumber": "22",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Sweet Tooth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.406196,
+              50.9121135
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171779227",
+      "properties": {
+        "@id": "way/171779227",
+        "addr:housenumber": "20-21",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Panda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4061436,
+              50.9120827
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171779228",
+      "properties": {
+        "@id": "way/171779228",
+        "addr:housenumber": "19",
+        "addr:street": "Bedford Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Pride Of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4060945,
+              50.9120032
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/171782207",
+      "properties": {
+        "@id": "way/171782207",
+        "addr:housenumber": "21",
+        "addr:street": "Lower Banister Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Lal Qila",
+        "old_name": "Cafe Mumbai",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4054341,
+              50.9123425
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/175424982",
+      "properties": {
+        "@id": "way/175424982",
+        "addr:city": "Southampton",
+        "addr:housenumber": "119",
+        "addr:postcode": "S017 1AQ",
+        "addr:street": "Highfield Lane",
+        "amenity": "restaurant",
+        "name": "Ceno",
+        "phone": "+44 23 8055 4400",
+        "website": "http://www.cenorestaurant.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3915,
+              50.9276734
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183434003",
+      "properties": {
+        "@id": "way/183434003",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Casa Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3988941,
+              50.8979694
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183440537",
+      "properties": {
+        "@id": "way/183440537",
+        "addr:city": "Southampton",
+        "addr:housename": "Kuti's Brasserie",
+        "addr:housenumber": "37-39",
+        "addr:postcode": "SO14 3DP",
+        "addr:street": "Oxford Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Kuti's Brasserie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3976612,
+              50.8979255
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183440539",
+      "properties": {
+        "@id": "way/183440539",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "tapas",
+        "name": "La Equina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3977337,
+              50.8979398
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183440541",
+      "properties": {
+        "@id": "way/183440541",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Scoozi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3971503,
+              50.8977278
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183440551",
+      "properties": {
+        "@id": "way/183440551",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3983454,
+              50.8980492
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183445883",
+      "properties": {
+        "@id": "way/183445883",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "international",
+        "name": "The Oxford Brasserie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3975494,
+              50.898181
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183446604",
+      "properties": {
+        "@id": "way/183446604",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Olive Tree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3978869,
+              50.89813
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183446605",
+      "properties": {
+        "@id": "way/183446605",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pizza Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3977405,
+              50.8983066
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183691877",
+      "properties": {
+        "@id": "way/183691877",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "greek",
+        "name": "Georges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045433,
+              50.8993379
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692906",
+      "properties": {
+        "@id": "way/183692906",
+        "addr:housenumber": "132",
+        "addr:street": "High Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "turkish",
+        "name": "Kara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.404351,
+              50.8997448
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692908",
+      "properties": {
+        "@id": "way/183692908",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "129",
+        "addr:postcode": "SO14 2PB",
+        "addr:street": "High Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Treasury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045062,
+              50.8996729
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692910",
+      "properties": {
+        "@id": "way/183692910",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "134",
+        "addr:postcode": "SO14 2BR",
+        "addr:street": "High Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "The King And I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4041583,
+              50.8998294
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183692911",
+      "properties": {
+        "@id": "way/183692911",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "130;131",
+        "addr:postcode": "SO14 2BR",
+        "addr:street": "High Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Coriander Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4044177,
+              50.8996721
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/183772294",
+      "properties": {
+        "@id": "way/183772294",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:postcode": "SO14 2HN",
+        "addr:street": "High Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Signature Restaurant",
+        "operator": "Mercure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4037356,
+              50.9002854
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184138067",
+      "properties": {
+        "@id": "way/184138067",
+        "addr:housenumber": "16",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Oriental Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4324735,
+              50.9211647
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/184138083",
+      "properties": {
+        "@id": "way/184138083",
+        "addr:housenumber": "9A-10A",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Little Buddha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4323273,
+              50.9208519
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/185318669",
+      "properties": {
+        "@id": "way/185318669",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "T bone and Spaghetti House",
+        "source": "My own photos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3964719,
+              50.9072017
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/189297299",
+      "properties": {
+        "@id": "way/189297299",
+        "addr:housenumber": "54",
+        "addr:postcode": "SO14 0JN",
+        "addr:street": "Onslow Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Manzil Tandoori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3974426,
+              50.9150014
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/189297301",
+      "properties": {
+        "@id": "way/189297301",
+        "addr:housenumber": "21",
+        "addr:postcode": "SO14 0JP",
+        "addr:street": "Bevois Valley Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Tariq Manzil's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.396503,
+              50.9158173
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/190362733",
+      "properties": {
+        "@id": "way/190362733",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "40",
+        "addr:postcode": "SO15 2AG",
+        "addr:street": "London Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Mexigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4039154,
+              50.9116798
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/208918430",
+      "properties": {
+        "@id": "way/208918430",
+        "addr:housenumber": "56",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "cuisine": "indian",
+        "name": "Eastern Nights",
+        "opening_hours": "Tu-Su 17:30-23:30",
+        "phone": "+44 23 80473269",
+        "source": "Survey",
+        "source:location": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3362105,
+              50.9144975
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/211747577",
+      "properties": {
+        "@id": "way/211747577",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "137a",
+        "addr:postcode": "SO14 2BS",
+        "addr:street": "High Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Royal Wok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4040174,
+              50.9000412
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217751059",
+      "properties": {
+        "@id": "way/217751059",
+        "addr:housename": "Chiquito",
+        "addr:street": "Canute Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "Chiquito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3925513,
+              50.8971471
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217751346",
+      "properties": {
+        "@id": "way/217751346",
+        "addr:housename": "Iornside House",
+        "addr:street": "Canute Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Merchants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3922445,
+              50.8972983
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220441224",
+      "properties": {
+        "@id": "way/220441224",
+        "amenity": "restaurant",
+        "buildingpart": "room",
+        "name": "Piazza",
+        "uri": "http://id.southampton.ac.uk/point-of-service/42-piazza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3968995,
+              50.9343334
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223273062",
+      "properties": {
+        "@id": "way/223273062",
+        "addr:housenumber": "294",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Narumon's",
+        "old_name": "Ruby's Cafe",
+        "url": "https://www.facebook.com/pages/Narumons-Thai-Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4263234,
+              50.9166211
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223273064",
+      "properties": {
+        "@id": "way/223273064",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Sanjha Restaurant",
+        "website": "http://www.sanjha.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4267988,
+              50.9166435
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223273731",
+      "properties": {
+        "@id": "way/223273731",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Jewel in the Crown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4264008,
+              50.9172869
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224996333",
+      "properties": {
+        "@id": "way/224996333",
+        "addr:housenumber": "69",
+        "addr:postcode": "SO17 1XS",
+        "addr:street": "The Avenue",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Dock o' the bay",
+        "website": "http://www.dockothebay.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045915,
+              50.918811
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/233767658",
+      "properties": {
+        "@id": "way/233767658",
+        "addr:housenumber": "365",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Tom's",
+        "source": "Bing",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4179918,
+              50.9346535
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/238080918",
+      "properties": {
+        "@id": "way/238080918",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Balmoral Inn",
+        "operator": "Beefeater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4618717,
+              50.9451225
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/243281672",
+      "properties": {
+        "@id": "way/243281672",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "29-31 Flat 31A;31B",
+        "addr:postcode": "SO17 2ET",
+        "addr:street": "Portswood Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "mexican",
+        "name": "La Baronia Mexican"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3958352,
+              50.9207955
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/285344015",
+      "properties": {
+        "@id": "way/285344015",
+        "addr:city": "Southampton",
+        "addr:housename": "Tasty Curry",
+        "addr:housenumber": "5",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Tasty Curry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4214326,
+              50.9205529
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293179392",
+      "properties": {
+        "@id": "way/293179392",
+        "amenity": "restaurant",
+        "buildingpart": "room",
+        "name": "Terrace Restaurant",
+        "uri": "http://id.southampton.ac.uk/point-of-service/38-terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3974024,
+              50.9353098
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295308716",
+      "properties": {
+        "@id": "way/295308716",
+        "amenity": "restaurant",
+        "buildingpart": "room",
+        "name": "Hartley Suite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3978201,
+              50.9353329
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311789762",
+      "properties": {
+        "@id": "way/311789762",
+        "addr:city": "Southampton",
+        "addr:housename": "Twisted Cuisine",
+        "addr:housenumber": "15",
+        "addr:postcode": "SO15 5FB",
+        "addr:street": "St James Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Imli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4217151,
+              50.920979
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344844040",
+      "properties": {
+        "@id": "way/344844040",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Shrimp and Burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4064012,
+              50.9127141
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358347697",
+      "properties": {
+        "@id": "way/358347697",
+        "addr:city": "Southampton",
+        "addr:housename": "Yo Yo Noodle",
+        "addr:housenumber": "95",
+        "addr:postcode": "SO147FG",
+        "addr:street": "Above Bar Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Yo Yo Noodle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046405,
+              50.9060467
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358516162",
+      "properties": {
+        "@id": "way/358516162",
+        "addr:city": "Southampton",
+        "addr:housename": "Bella Italia",
+        "addr:housenumber": "107",
+        "addr:postcode": "SO147FH",
+        "addr:street": "Above Bar Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Bella Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046299,
+              50.9063624
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360082163",
+      "properties": {
+        "@id": "way/360082163",
+        "addr:city": "Southampton",
+        "addr:housename": "Grand Cafe",
+        "addr:postcode": "SO14 3FJ",
+        "addr:street": "Terminus Terrace",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Grand Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.3969862,
+              50.8976031
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360163834",
+      "properties": {
+        "@id": "way/360163834",
+        "addr:city": "Southampton",
+        "addr:housename": "Chalk Valley",
+        "addr:postcode": "SO15 2AD",
+        "addr:street": "London Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Chalk Valley Bar & Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4043957,
+              50.9117839
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360163874",
+      "properties": {
+        "@id": "way/360163874",
+        "addr:city": "Southampton",
+        "addr:housename": "Roosters",
+        "addr:postcode": "SO15 2AD",
+        "addr:street": "London Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Roosters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4046139,
+              50.9115422
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360168469",
+      "properties": {
+        "@id": "way/360168469",
+        "addr:city": "Southampton",
+        "addr:housename": "Mango",
+        "addr:postcode": "SO14 7LW",
+        "addr:street": "Above Bar Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "Mango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4045668,
+              50.9087318
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360168602",
+      "properties": {
+        "@id": "way/360168602",
+        "addr:city": "Southampton",
+        "addr:postcode": "SO14 7LW",
+        "addr:street": "Above Bar Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "The Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+            [
+              -1.4048276,
+              50.9083032
+            ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/343659109",
+      "properties": {
+        "@id": "node/343659109",
+        "amenity": "restaurant",
+        "name": "TGI Friday's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4133499,
+          50.9050053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/389514402",
+      "properties": {
+        "@id": "node/389514402",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Zen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403625,
+          50.899377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430646817",
+      "properties": {
+        "@id": "node/430646817",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ennios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4051814,
+          50.896877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/430646818",
+      "properties": {
+        "@id": "node/430646818",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "La Regata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.404722,
+          50.8967057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/461667790",
+      "properties": {
+        "@id": "node/461667790",
+        "amenity": "restaurant",
+        "name": "Grande Café",
+        "odbl": "clean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3969645,
+          50.8975156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/522444494",
+      "properties": {
+        "@id": "node/522444494",
+        "amenity": "restaurant",
+        "name": "Banana Wharf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.390835,
+          50.8968369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/671767282",
+      "properties": {
+        "@id": "node/671767282",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "4A",
+        "addr:postcode": "SO14 7FJ",
+        "addr:street": "Civic Centre Road",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Namaste Kerala",
+        "phone": "+44-23-8022-4422",
+        "website": "http://namaste-kerala.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4050246,
+          50.9070407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/700236034",
+      "properties": {
+        "@id": "node/700236034",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Margherita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4046881,
+          50.8956894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/796064014",
+      "properties": {
+        "@id": "node/796064014",
+        "amenity": "restaurant",
+        "name": "Finicki Food Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4118734,
+          50.9086416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/912490342",
+      "properties": {
+        "@id": "node/912490342",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "El Rancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036575,
+          50.8992084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/919683846",
+      "properties": {
+        "@id": "node/919683846",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Bellini's",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3985997,
+          50.8977536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1174975145",
+      "properties": {
+        "@id": "node/1174975145",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Prezzo",
+        "source": "local_knowledge",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3984824,
+          50.8982699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1385042205",
+      "properties": {
+        "@id": "node/1385042205",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Massala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3800616,
+          50.8965255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556197801",
+      "properties": {
+        "@id": "node/1556197801",
+        "amenity": "restaurant",
+        "name": "Nick's Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3995655,
+          50.9017282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556280621",
+      "properties": {
+        "@id": "node/1556280621",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "325-327",
+        "addr:postcode": "SO15 3HW",
+        "addr:street": "Shirley Road",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Puccini's",
+        "website": "http://www.puccinis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4274072,
+          50.9179398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1556321088",
+      "properties": {
+        "@id": "node/1556321088",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Kachina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4306536,
+          50.9198664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1557124852",
+      "properties": {
+        "@id": "node/1557124852",
+        "amenity": "restaurant",
+        "name": "Spice of Life (B level)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4342812,
+          50.9329881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1558193917",
+      "properties": {
+        "@id": "node/1558193917",
+        "amenity": "restaurant",
+        "cuisine": "British",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Haskins Restaurant",
+        "opening_hours": "Mo-We 09:00-17:00; Th-Fr 09:00-19:00; Sa 09:00-17:00; Su 10:00-16:30",
+        "operator": "Haskins",
+        "phone": "02380606359",
+        "smoking:outside": "separated",
+        "website": "http://www.haskins.co.uk/west-end-restaurant/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3558979,
+          50.93597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1592774869",
+      "properties": {
+        "@id": "node/1592774869",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Supreme Chinese Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4036419,
+          50.9050468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602142795",
+      "properties": {
+        "@id": "node/1602142795",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Yo! Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4076983,
+          50.903564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602142815",
+      "properties": {
+        "@id": "node/1602142815",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4073314,
+          50.9034359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602142817",
+      "properties": {
+        "@id": "node/1602142817",
+        "amenity": "restaurant",
+        "name": "Café Giardino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4079698,
+          50.9033842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602159264",
+      "properties": {
+        "@id": "node/1602159264",
+        "amenity": "restaurant",
+        "name": "Asda Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4077725,
+          50.9060164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1762243650",
+      "properties": {
+        "@id": "node/1762243650",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "2-3",
+        "addr:postcode": "SO18 3RA",
+        "addr:street": "Townhill Farm District Centre",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Jewels",
+        "website": "http://www.jewelsrestaurant.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.352461,
+          50.9329253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2024676257",
+      "properties": {
+        "@id": "node/2024676257",
+        "amenity": "restaurant",
+        "name": "Turtle Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048486,
+          50.9076947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2029179277",
+      "properties": {
+        "@id": "node/2029179277",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Bitterne Balti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3757289,
+          50.9244112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2072553718",
+      "properties": {
+        "@id": "node/2072553718",
+        "addr:city": "Southampton",
+        "addr:housenumber": "59",
+        "addr:postcode": "SO14 3DL",
+        "addr:street": "Oxford Street",
+        "amenity": "restaurant",
+        "contact:phone": "+44 2380 233 360",
+        "contact:website": "http://www.charliechansrestaurant.co.uk/",
+        "cuisine": "chinese",
+        "name": "Charlie Chan's",
+        "website": "http://www.charliechansrestaurant.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3991921,
+          50.8982799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2290311038",
+      "properties": {
+        "@id": "node/2290311038",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "180 182",
+        "addr:street": "Above Bar Street",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "drive_in": "no",
+        "name": "Mango",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4045351,
+          50.9087353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2322066190",
+      "properties": {
+        "@id": "node/2322066190",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "The New Oriental Paradise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4273297,
+          50.9178582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2322067048",
+      "properties": {
+        "@id": "node/2322067048",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Magic Wok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4272962,
+          50.9178151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468612137",
+      "properties": {
+        "@id": "node/2468612137",
+        "addr:city": "Southampton",
+        "addr:country": "GB",
+        "addr:housenumber": "40",
+        "addr:postcode": "SO15 2AG",
+        "addr:street": "London Road",
+        "entrance": "yes",
+        "name": "PH Media"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4039486,
+          50.9116395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571356977",
+      "properties": {
+        "@id": "node/2571356977",
+        "amenity": "restaurant",
+        "name": "Ed's Easy Diner",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4074254,
+          50.9036414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571356979",
+      "properties": {
+        "@id": "node/2571356979",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4073851,
+          50.903539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571356981",
+      "properties": {
+        "@id": "node/2571356981",
+        "amenity": "restaurant",
+        "name": "Café Rouge Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4078613,
+          50.9032447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571356982",
+      "properties": {
+        "@id": "node/2571356982",
+        "amenity": "restaurant",
+        "name": "Nando's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4075487,
+          50.9036854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571356983",
+      "properties": {
+        "@id": "node/2571356983",
+        "amenity": "restaurant",
+        "name": "Chicago Rib Shack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.407416,
+          50.903375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2571356984",
+      "properties": {
+        "@id": "node/2571356984",
+        "amenity": "restaurant",
+        "name": "Wagamama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4080395,
+          50.9036701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2579268251",
+      "properties": {
+        "@id": "node/2579268251",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Tang's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4048282,
+          50.9071342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661440237",
+      "properties": {
+        "@id": "node/2661440237",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Lupa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4039875,
+          50.8993445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2967509416",
+      "properties": {
+        "@id": "node/2967509416",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973585,
+          50.9353703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2967509420",
+      "properties": {
+        "@id": "node/2967509420",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3975324,
+          50.9354094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2967509431",
+      "properties": {
+        "@id": "node/2967509431",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973212,
+          50.9354654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2990161426",
+      "properties": {
+        "@id": "node/2990161426",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3977868,
+          50.9351357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2990161428",
+      "properties": {
+        "@id": "node/2990161428",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3979168,
+          50.9351424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2990162135",
+      "properties": {
+        "@id": "node/2990162135",
+        "door": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3977746,
+          50.9353184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3074683007",
+      "properties": {
+        "@id": "node/3074683007",
+        "entrance": "yes",
+        "uri": "http://id.southampton.ac.uk/building-portal/42-B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3973038,
+          50.9344486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3523789892",
+      "properties": {
+        "@id": "node/3523789892",
+        "addr:housenumber": "209a;211a;213a;215a",
+        "addr:postcode": "SO17 2NF",
+        "addr:street": "Portswood Road",
+        "entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3929646,
+          50.9257477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3594269267",
+      "properties": {
+        "@id": "node/3594269267",
+        "addr:city": "Southampton",
+        "addr:housenumber": "1",
+        "addr:postcode": "SO14 3DJ",
+        "addr:street": "Oxford Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Fortune"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3996316,
+          50.8991713
+        ]
+      }
+    }
+  ]
+}
